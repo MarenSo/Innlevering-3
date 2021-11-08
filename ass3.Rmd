@@ -1,0 +1,45 @@
+---
+title: Innlevering 3
+author: Innlevering 3 i Data Science 2021 - Maren Sognefest og Daniel Karstad
+Affiliation: HVL
+email: 152148@stud.hvl.no & 598289@stud.hvl.no
+bibliography: 
+bib-humanities: true
+nocite: 
+lang: no-NB
+fontsize: 12pt
+linestretch: 1.5
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
+  html_notebook: default
+---
+```{r echo=FALSE}
+library(styler) 
+library(gapminder)
+```
+
+
+1. What information does the fileddf_concepts.csv contain?
+
+```{r}
+data(ddf_concepts)
+```
+
+
+2. What information does the file ddf--entities--geo--country.csv contain?
+
+3. What information does the file ddf--entities--geo--un_sdg_region.csv contain?
+
+4. What variables does the gapminder dataset from the gapminder package contain? To what continentare Australia and New Zealand assigned?
+```{r}
+data(gapminder)
+```
+
+5. Recreate thecontinentvariable in gapminder with the new data (Hint! Move Australia and NewZealand from Asia to Oceania). Only include countries that have aiso3166_1_alpha3code. Use datafromddf--entities--geo--country.csvand call this tibbleg_c. Letg_cbe your main tibble in thefollowing, i.e. add variables to this tibble.
+
+6. How many countries are there now? The functionsunique()andlength()might be of some help.
+
+## [1] 2476. How many countries are there now in each continent?## # A tibble: 5 x 2## # Groups:   continent [5]##   continent numbe
