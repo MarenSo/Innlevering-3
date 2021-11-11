@@ -19,6 +19,7 @@ output:
 ```{r echo=FALSE}
 library(styler) 
 library(gapminder)
+library(dplyr)
 ```
 
 # 1
@@ -34,12 +35,24 @@ Filen ddf--entitites--geo--un_sdg_region.csv inneholder en liste over verdens re
 
 
 # 4
-Pakken *gapminder* inneholder blant annet et datasett som heter *Gapminder*. Dette inneholder variablene "land" (country), "kontinent" (countinent), "år" (year), "forventet levetid" (lifeExp), "befolkning" (pop) og "GDP per capita" (gdpPercap, i dollar. Er justert etter inflasjon). I dette datasettet står det at Australig og New Zealand er i Oseania.
+Pakken *gapminder* inneholder blant annet et datasett som heter *Gapminder*. Dette inneholder variablene "land" (country), "kontinent" (countinent), "år" (year), "forventet levetid" (lifeExp), "befolkning" (pop) og "GDP per capita" (gdpPercap, i dollar. Er justert etter inflasjon). I dette datasettet står det at Australig og New Zealand er i Oseania. I datasettet fra dataen vi har lastet ned står det at Australig og New Zealand ligger i Asia. 
 
 
 # 5
+Her skal vi endre kontinent-variablen i dff--entitites--geo--country.csv. Vi skal kun inkludere land som har aiso3166_1_alpha3-kode. Vi skal kalle den endrede versjonen g_c, og det er g_c vi skal bruke videre i oppgaven. 
 
-Recreate thecontinentvariable in gapminder with the new data (Hint! Move Australia and NewZealand from Asia to Oceania). Only include countries that have aiso3166_1_alpha3code. Use datafromddf--entities--geo--country.csvand call this tibbleg_c. Letg_cbe your main tibble in thefollowing, i.e. add variables to this tibble.
+```{r g_c}
+g_c <- read.csv("data/ddf--entities--geo--country.csv")
+```
+
+```{r Kontinenter}
+mutate(g_c, contient = case_when(world_4region == "asia" & un_sdg_region %in% c("un_australia_and_new_zealand", "un_oceania_exc_australia_and_new_zealand") ~ "Oseania",
+    world_4region ==  "asia" & !(un_sdg_region %in% c("un_australia_and_new_zealand", "un_oceania_exc_australia_and_new_zealand")) ~ "Asia"
+))
+filter(!is.na(g_c$iso3166_1_alpha3))
+```
+
+
 
 6. How many countries are there now? The functionsunique()andlength()might be of some help.
 
