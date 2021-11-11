@@ -20,25 +20,26 @@ output:
 library(styler) 
 library(gapminder)
 ```
-hei test
 
-1. What information does the fileddf_concepts.csv contain?
-
-```{r}
-data(ddf_concepts)
-```
+# 1
+Filen ddf_concepts.csv inneholder forskjellig informasjon om de ulike variablene i datasettene. Disse variablene omhandler mye forskjellig, blant annet hvor mange som har hiv, hvor mange som har mobiltelefon, hvor mange som har ulike typer kreft osv. 
 
 
-2. What information does the file ddf--entities--geo--country.csv contain?
+# 2
+Filen ddf--entities--geo--country.csv inneholder informasjon om alle verdens land. Det er mye ulik informasjon, blant annet hvor mye befolkningen tjener, hvilken religion landet tilhører, hvorvidt landet er et utviklingsland, hvilken verdensdel det ligger i osv.
 
-3. What information does the file ddf--entities--geo--un_sdg_region.csv contain?
 
-4. What variables does the gapminder dataset from the gapminder package contain? To what continentare Australia and New Zealand assigned?
-```{r}
-data(gapminder)
-```
+# 3 
+Filen ddf--entitites--geo--un_sdg_region.csv inneholder en liste over verdens regioner og om hvorvidt disse er med i FN. 
 
-5. Recreate thecontinentvariable in gapminder with the new data (Hint! Move Australia and NewZealand from Asia to Oceania). Only include countries that have aiso3166_1_alpha3code. Use datafromddf--entities--geo--country.csvand call this tibbleg_c. Letg_cbe your main tibble in thefollowing, i.e. add variables to this tibble.
+
+# 4
+Pakken *gapminder* inneholder blant annet et datasett som heter *Gapminder*. Dette inneholder variablene "land" (country), "kontinent" (countinent), "år" (year), "forventet levetid" (lifeExp), "befolkning" (pop) og "GDP per capita" (gdpPercap, i dollar. Er justert etter inflasjon). I dette datasettet står det at Australig og New Zealand er i Oseania.
+
+
+# 5
+
+Recreate thecontinentvariable in gapminder with the new data (Hint! Move Australia and NewZealand from Asia to Oceania). Only include countries that have aiso3166_1_alpha3code. Use datafromddf--entities--geo--country.csvand call this tibbleg_c. Letg_cbe your main tibble in thefollowing, i.e. add variables to this tibble.
 
 6. How many countries are there now? The functionsunique()andlength()might be of some help.
 
