@@ -20,6 +20,8 @@ output:
 library(styler) 
 library(gapminder)
 library(dplyr)
+library(tidyverse)
+library(rgr)
 ```
 
 # .
@@ -45,18 +47,30 @@ Her skal vi endre kontinent-variablen i dff--entitites--geo--country.csv. Vi ska
 g_c <- read.csv("data/ddf--entities--geo--country.csv")
 ```
 
-```{r Kontinenter}
+```{r Fikse kontinenter}
 g_c <- g_c %>%
-mutate(g_c, contient = case_when(world_4region == "asia" & un_sdg_region %in% c("un_australia_and_new_zealand", "un_oceania_exc_australia_and_new_zealand") ~ "oseania"))
+mutate(g_c, continent = case_when(world_4region == "asia" & un_sdg_region %in% c("un_australia_and_new_zealand", "un_oceania_exc_australia_and_new_zealand") ~ "Oseania", 
+                                 world_4region == "europe" ~ "Europa",
+                                 world_4region == "asia" ~ "Asia",
+                                 world_4region == "americas" ~ "Amerika",
+                                 world_4region == "africa" ~ "Afrika"
+                                 ))
+                                 
 g_c <- g_c %>% filter(!is.na(iso3166_1_alpha3)) 
 ```
 
+
 # 6.
-```{r}
+```{r Antall land}
 length(unique(g_c$country))
 ```
-Etter at vi har brukt filter-funksjonen er det 273 unike land.
+Etter at vi har brukt filter-funksjonen er det 273 unike land i datasettet.
 
 
 # 7.
-## [1] 2476. How many countries are there now in each continent?## # A tibble: 5 x 2## # Groups:   continent [5]##   continent numbe
+```{r Antall land per kontinent}
+g_c %>% group_by(continent) %>% 
+summarise(countries = length(unique(country)))
+# Her skulle vi fått fjernet nederste rad med Na. men får ikke til.
+```
+
