@@ -87,6 +87,17 @@ left_join(
 ```
 
 # 8.
+```{r}
+length(unique(lifeExp$geo))
+```
+195 land har informasjon om forventet levetid.
+
+# 9.
+```{r}
+g_c <- g_c %>%
+  select("country", "name", "iso3166_1_alpha3", "main_religion_2008", "un_sdg_region", "world_4region", "continent", "world_6region")
+```
+
 
 
 
