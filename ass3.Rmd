@@ -64,13 +64,30 @@ g_c <- g_c %>% filter(!is.na(iso3166_1_alpha3))
 ```{r Antall land}
 length(unique(g_c$country))
 ```
-Etter at vi har brukt filter-funksjonen er det 273 unike land i datasettet.
+Etter at vi har brukt filter-funksjonen er det 273 unike land i datasettet. Under kan man se hvor mange land det er per kontinent.
 
-
-# 7.
 ```{r Antall land per kontinent}
 g_c %>% group_by(continent) %>% 
 summarise(countries = length(unique(country)))
 # Her skulle vi fått fjernet nederste rad med Na. men får ikke til.
 ```
+
+# 7.
+```{r lifeExp}
+lifeExp <- ddf_datapoints_life_expectancy_years_by_geo_time
+col_types = cols(time = col_date(format = "%Y")) #endrer tidsformat
+rename (lifeExp, year = time) #endrer navn fra time til year
+```
+
+```{r legge lifeExp til g_c}
+left_join(
+ g_c,
+ lifeExp,
+    by = c("country" = "geo")) #Country og geo er samme.
+```
+
+# 8.
+
+
+
 
