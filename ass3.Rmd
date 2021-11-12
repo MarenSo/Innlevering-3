@@ -22,38 +22,41 @@ library(gapminder)
 library(dplyr)
 ```
 
-# 1
+# .
 Filen ddf_concepts.csv inneholder forskjellig informasjon om de ulike variablene i datasettene. Disse variablene omhandler mye forskjellig, blant annet hvor mange som har hiv, hvor mange som har mobiltelefon, hvor mange som har ulike typer kreft osv. 
 
 
-# 2
+# 2.
 Filen ddf--entities--geo--country.csv inneholder informasjon om alle verdens land. Det er mye ulik informasjon, blant annet hvor mye befolkningen tjener, hvilken religion landet tilhører, hvorvidt landet er et utviklingsland, hvilken verdensdel det ligger i osv.
 
 
-# 3 
+# 3.
 Filen ddf--entitites--geo--un_sdg_region.csv inneholder en liste over verdens regioner og om hvorvidt disse er med i FN. 
 
 
-# 4
+# 4.
 Pakken *gapminder* inneholder blant annet et datasett som heter *Gapminder*. Dette inneholder variablene "land" (country), "kontinent" (countinent), "år" (year), "forventet levetid" (lifeExp), "befolkning" (pop) og "GDP per capita" (gdpPercap, i dollar. Er justert etter inflasjon). I dette datasettet står det at Australig og New Zealand er i Oseania. I datasettet fra dataen vi har lastet ned står det at Australig og New Zealand ligger i Asia. 
 
 
-# 5
+# 5.
 Her skal vi endre kontinent-variablen i dff--entitites--geo--country.csv. Vi skal kun inkludere land som har aiso3166_1_alpha3-kode. Vi skal kalle den endrede versjonen g_c, og det er g_c vi skal bruke videre i oppgaven. 
 
-```{r g_c}
+```{r Nytt datasett g_c}
 g_c <- read.csv("data/ddf--entities--geo--country.csv")
 ```
 
 ```{r Kontinenter}
-mutate(g_c, contient = case_when(world_4region == "asia" & un_sdg_region %in% c("un_australia_and_new_zealand", "un_oceania_exc_australia_and_new_zealand") ~ "Oseania",
-    world_4region ==  "asia" & !(un_sdg_region %in% c("un_australia_and_new_zealand", "un_oceania_exc_australia_and_new_zealand")) ~ "Asia"
-))
-filter(!is.na(g_c$iso3166_1_alpha3))
+g_c <- g_c %>%
+mutate(g_c, contient = case_when(world_4region == "asia" & un_sdg_region %in% c("un_australia_and_new_zealand", "un_oceania_exc_australia_and_new_zealand") ~ "oseania"))
+g_c <- g_c %>% filter(!is.na(iso3166_1_alpha3)) 
 ```
 
+# 6.
+```{r}
+length(unique(g_c$country))
+```
+Etter at vi har brukt filter-funksjonen er det 273 unike land.
 
 
-6. How many countries are there now? The functionsunique()andlength()might be of some help.
-
+# 7.
 ## [1] 2476. How many countries are there now in each continent?## # A tibble: 5 x 2## # Groups:   continent [5]##   continent numbe
