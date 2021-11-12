@@ -87,18 +87,19 @@ left_join(
 ```
 
 # 8.
-```{r}
+```{r land med info om forventet levetid}
 length(unique(lifeExp$geo))
 ```
 195 land har informasjon om forventet levetid.
 
 # 9.
-```{r}
-g_c <- g_c %>%
-  select("country", "name", "iso3166_1_alpha3", "main_religion_2008", "un_sdg_region", "world_4region", "continent", "world_6region")
+```{r velge bort noen kolonner, pluss legge til left_join}
+g_c <- as_tibble(g_c) %>% # so it prints a little nicer
+dplyr::select(country, name, iso3166_1_alpha3, main_religion_2008, un_sdg_region, world_4region, continent, world_6region) 
+left_join(
+ g_c,
+ lifeExp,
+    by = c("country" = "geo")) #Country og geo er samme.
 ```
 
-
-
-
-
+# 10.
