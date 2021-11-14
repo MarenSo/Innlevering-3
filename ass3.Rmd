@@ -22,6 +22,7 @@ library(gapminder)
 library(dplyr)
 library(tidyverse)
 library(rgr)
+library(data.table)
 ```
 
 # .
@@ -44,7 +45,7 @@ Pakken *gapminder* inneholder blant annet et datasett som heter *Gapminder*. Det
 Her skal vi endre kontinent-variablen i dff--entitites--geo--country.csv. Vi skal kun inkludere land som har aiso3166_1_alpha3-kode. Vi skal kalle den endrede versjonen g_c, og det er g_c vi skal bruke videre i oppgaven. 
 
 ```{r Nytt datasett g_c}
-g_c <- read.csv("data/ddf--entities--geo--country.csv")
+g_c <- read.csv("data//ddf--entities--geo--country.csv")
 ```
 
 ```{r Fikse kontinenter}
@@ -74,15 +75,16 @@ summarise(countries = length(unique(country)))
 
 # 7.
 ```{r lifeExp}
-lifeExp <- ddf_datapoints_life_expectancy_years_by_geo_time
+lifeExp <- read_csv("data\\countries-etc-datapoints\\ddf--datapoints--life_expectancy_years--by--geo--time.csv")
 col_types = cols(time = col_date(format = "%Y")) #endrer tidsformat
-rename (lifeExp, year = time) #endrer navn fra time til year
+lifeExp <- lifeExp %>%
+rename(year = time)
 ```
 
 ```{r legge lifeExp til g_c}
 left_join(
  g_c,
- lifeExp,
+ lifeExp, 
     by = c("country" = "geo")) #Country og geo er samme.
 ```
 
@@ -93,13 +95,34 @@ length(unique(lifeExp$geo))
 195 land har informasjon om forventet levetid.
 
 # 9.
+
 ```{r velge bort noen kolonner, pluss legge til left_join}
-g_c <- as_tibble(g_c) %>% # so it prints a little nicer
-dplyr::select(country, name, iso3166_1_alpha3, main_religion_2008, un_sdg_region, world_4region, continent, world_6region) 
-left_join(
+g_c <- g_c %>% 
+dplyr::select(country, name, iso3166_1_alpha3, main_religion_2008, un_sdg_region, world_4region, continent, world_6region)
+  left_join(
  g_c,
  lifeExp,
     by = c("country" = "geo")) #Country og geo er samme.
+col_types = cols(time = col_date(format = "%Y")) #endrer tidsformat
 ```
 
+
 # 10.
+```{r første observasjon av lifeExp}
+min(year)
+```
+Første observasjon av forventet levetid var i 1800. 
+
+skal finne ut når første observasjon av forventet levetid var og hvor mange land som har observasjon fra dette året.
+```{r hvor mange i 1800}
+count(first = g_c$first)
+```
+
+
+```{r year_min, message=FALSE}
+g_c_min <- g_c %>%
+  group_by(country) %>%
+  summarise(min_year = min(year)) 
+g_c_min %>%
+  count(min_year = g_c_min$min_year)
+```
