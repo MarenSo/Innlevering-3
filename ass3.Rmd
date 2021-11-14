@@ -10,9 +10,9 @@ lang: no-NB
 fontsize: 12pt
 linestretch: 1.5
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
   word_document: default
   html_notebook: default
 ---
@@ -24,7 +24,7 @@ library(tidyverse)
 library(rgr)
 ```
 
-# .
+# 1.
 Filen ddf_concepts.csv inneholder forskjellig informasjon om de ulike variablene i datasettene. Disse variablene omhandler mye forskjellig, blant annet hvor mange som har hiv, hvor mange som har mobiltelefon, hvor mange som har ulike typer kreft osv. 
 
 
@@ -103,3 +103,197 @@ left_join(
 ```
 
 # 10.
+
+Første observasjon om forventet levetid for de forskjellige landene
+
+```{r første observasjon om forventet levetid}
+lifeExp <- read_csv("Data/ddf--gapminder--systema_globalis-master/countries-etc-datapoints/ddf--datapoints--life_expectancy_years--by--geo--time.csv",
+col_types = cols(time = col_date(format = "%Y")))
+lifeExp <- lifeExp %>%
+rename(year = time)
+length(unique(lifeExp$geo))
+```
+
+# 11.
+
+De 9 landene som kun har data om forventet levetid fra 1950 er: 
+```{r data kun fra 1950}
+g_c_min %>%
+  filter(min_year == "1950-01-01")
+```
+
+```{r land_1950}
+g_c_min <- g_c_min %>%
+  left_join(g_c,
+            by = "country") %>%
+  filter(min_year == "1950-01-01")
+tibble(country = unique(g_c_min$name))
+rm(g_c_min)
+```
+
+# 12. 
+
+Lest inn total_population og slått sammen med g_c.
+
+```{r tot pop}
+pop <- read_csv("Data/ddf--gapminder--systema_globalis-master/countries-etc-datapoints/ddf--datapoints--population_total--by--geo--time.csv", 
+    col_types = cols(time = col_date(format = "%Y")))
+```
+
+```{r join pop}
+g_c <- g_c %>%
+  left_join(pop, by = c("country" = "geo", "year" = "time"))
+rm(pop)
+```
+
+# 13. 
+
+```{r gi nye navn}
+g_c <- g_c %>%
+  rename("lifeExp" = "life_expectancy_years") %>%
+  rename("pop" = "population_total") %>%
+  rename("gdpPercap" = "gdppercapita_us_inflation_adjusted")
+```
+
+Her har vi gitt nytt navn til 3 variabler, slik at de har samme navn som i *gapminder*-datasettet.
+
+# 14. 
+
+```{r my_gapminder}
+t1 <- paste(seq(1800, 2019, by = 5), "01-01", sep = "-") %>% parse_date(format = "%Y-%m-%d")
+my_gapminder <- g_c %>%
+  filter(year %in% t1) %>%
+  select(name, continent, year, lifeExp, pop, gdpPercap) %>%
+  rename("country" = "name")
+dim(my_gapminder)
+```
+
+# 15. 
+
+```{r lengst tidsserie for gdp pr cap}
+my_gapminder_1800 <- my_gapminder %>%
+  group_by(country) %>% 
+  filter(!is.na(gdpPercap)) %>%
+  filter(year == "1800-01-01")
+length(unique(my_gapminder_1800$country))
+```
+
+# 16.
+
+```{r pr kontinent 1960}
+my_gapminder_1960 <- my_gapminder %>%
+  group_by(country) %>% 
+  filter(!is.na(gdpPercap)) %>%
+  filter(year == "1960-01-01")
+length(unique(my_gapminder_1960$country))
+```
+
+# 17.
+
+```{r ggplot_1960}
+my_gapminder_1960 %>% 
+ggplot(my_gapminder_1960 , 
+             mapping = aes(x = gdpPercap, 
+                           y = lifeExp, 
+                           size = pop,
+                           colour = continent)) +
+  geom_point() +
+  ggtitle("1960-01-01") +
+  theme(legend.position = "bottom")
+```  
+
+```{r ggplot_1980}
+my_gapminder_1980 <- my_gapminder %>%
+  group_by(country) %>% 
+  filter(!is.na(gdpPercap)) %>%
+  filter(year == "1980-01-01")
+length(unique(my_gapminder_1980$country))
+my_gapminder_1980 %>% 
+ggplot(my_gapminder_1980 , 
+             mapping = aes(x = gdpPercap, 
+                           y = lifeExp, 
+                           size = pop,
+                           colour = continent)) +
+  geom_point() +
+  ggtitle("1980-01-01") +
+  theme(legend.position = "bottom")
+```
+
+```{r ggplot_2000}
+my_gapminder_2000 <- my_gapminder %>%
+  group_by(country) %>% 
+  filter(!is.na(gdpPercap)) %>%
+  filter(year == "2000-01-01")
+length(unique(my_gapminder_2017$country))
+my_gapminder_2000 %>% 
+ggplot(my_gapminder_2000 , 
+             mapping = aes(x = gdpPercap, 
+                           y = lifeExp, 
+                           size = pop,
+                           colour = continent)) +
+  geom_point() +
+  ggtitle("2000-01-01") +
+  theme(legend.position = "bottom")
+```
+
+```{r ggplot_2019}
+my_gapminder_2019 <- my_gapminder %>%
+  group_by(country) %>% 
+  filter(!is.na(gdpPercap)) %>%
+  filter(year == "2019-01-01")
+length(unique(my_gapminder_2019$country))
+my_gapminder_2019 %>% 
+ggplot(my_gapminder_2019 , 
+             mapping = aes(x = gdpPercap, 
+                           y = lifeExp, 
+                           size = pop,
+                           colour = continent)) +
+  geom_point() +
+  ggtitle("2019-01-01") +
+  theme(legend.position = "bottom")
+```
+
+# 18.
+
+```{r log_1960}
+my_gapminder_1960 %>% 
+ggplot(my_gapminder_1960 , 
+             mapping = aes(x = log(gdpPercap), 
+                           y = lifeExp, 
+                           size = pop,
+                           colour = continent))
+```
+
+```{r log_1980}
+my_gapminder_1980 %>% 
+ggplot(my_gapminder_1980 , 
+             mapping = aes(x = log(gdpPercap), 
+                           y = lifeExp, 
+                           size = pop,
+                           colour = continent))
+```
+
+```{r log_2000}
+my_gapminder_2000 %>% 
+ggplot(my_gapminder_2000 , 
+             mapping = aes(x = log(gdpPercap), 
+                           y = lifeExp, 
+                           size = pop,
+                           colour = continent))
+```
+
+```{r log_2019}
+my_gapminder_2019 %>% 
+ggplot(my_gapminder_2019 , 
+             mapping = aes(x = log(gdpPercap), 
+                           y = lifeExp, 
+                           size = pop,
+                           colour = continent))
+```
+
+# 19.
+
+Man ser at forventet levealder har økt jevnt siden 1960. 
+
+# 20.
+
