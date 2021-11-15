@@ -16,6 +16,7 @@ output:
   word_document: default
   html_notebook: default
 ---
+
 ```{r echo=FALSE}
 library(styler)
 library(gapminder)
@@ -26,23 +27,24 @@ library(data.table)
 ```
 
 # 1.
+
 Filen ddf_concepts.csv inneholder forskjellig informasjon om de ulike variablene i datasettene. Disse variablene omhandler mye forskjellig, blant annet hvor mange som har hiv, hvor mange som har mobiltelefon, hvor mange som har ulike typer kreft osv.
 
-
 # 2.
+
 Filen ddf--entities--geo--country.csv inneholder informasjon om alle verdens land. Det er mye ulik informasjon, blant annet hvor mye befolkningen tjener, hvilken religion landet tilhører, hvorvidt landet er et utviklingsland, hvilken verdensdel det ligger i osv.
 
-
 # 3.
+
 Filen ddf--entitites--geo--un_sdg_region.csv inneholder en liste over verdens regioner og om hvorvidt disse er med i FN.
 
-
 # 4.
+
 Pakken *gapminder* inneholder blant annet et datasett som heter *Gapminder*. Dette inneholder variablene "land" (country), "kontinent" (countinent), "år" (year), "forventet levetid" (lifeExp), "befolkning" (pop) og "GDP per capita" (gdpPercap, i dollar. Er justert etter inflasjon). I dette datasettet står det at Australig og New Zealand er i Oseania. I datasettet fra dataen vi har lastet ned står det at Australig og New Zealand ligger i Asia.
 
-
 # 5.
-Her skal vi endre kontinent-variablen i dff--entitites--geo--country.csv. Vi skal kun inkludere land som har aiso3166_1_alpha3-kode. Vi skal kalle den endrede versjonen g_c, og det er g_c vi skal bruke videre i oppgaven.
+
+Her skal vi endre kontinent-variablen i dff--entitites--geo--country.csv. Vi skal kun inkludere land som har aiso3166_1\_alpha3-kode. Vi skal kalle den endrede versjonen g_c, og det er g_c vi skal bruke videre i oppgaven.
 
 ```{r Nytt datasett g_c}
 g_c <- read.csv("data//ddf--entities--geo--country.csv")
@@ -60,11 +62,12 @@ mutate(g_c, continent = case_when(world_4region == "asia" & un_sdg_region %in% c
 g_c <- g_c %>% filter(!is.na(iso3166_1_alpha3))
 ```
 
-
 # 6.
+
 ```{r Antall land}
 length(unique(g_c$country))
 ```
+
 Etter at vi har brukt filter-funksjonen er det 273 unike land i datasettet. Under kan man se hvor mange land det er per kontinent.
 
 ```{r Antall land per kontinent}
@@ -74,6 +77,7 @@ summarise(countries = length(unique(country)))
 ```
 
 # 7.
+
 ```{r lifeExp}
 lifeExp <- read_csv("data\\countries-etc-datapoints\\ddf--datapoints--life_expectancy_years--by--geo--time.csv")
 col_types = cols(time = col_date(format = "%Y")) #endrer tidsformat
@@ -85,42 +89,50 @@ rename(year = time)
 left_join(
  g_c,
  lifeExp,
-    by = c("country" = "geo")) #Country og geo er samme.
+    by = c("country" = "geo"), #Country og geo er samme
+dplyr::filter(!is.na(year) & !is.na(life_expectancy_years)))
 ```
 
 # 8.
+
 ```{r land med info om forventet levetid}
 length(unique(lifeExp$geo))
 ```
+
 195 land har informasjon om forventet levetid.
 
 # 9.
 
-```{r velge bort noen kolonner, pluss legge til left_join}
+```{r velge bort noen kolonner, pluss legge til left_join, message=FALSE}
 g_c <- g_c %>%
 dplyr::select(country, name, iso3166_1_alpha3, main_religion_2008, un_sdg_region, world_4region, continent, world_6region)
   left_join(
  g_c,
  lifeExp,
-    by = c("country" = "geo")) #Country og geo er samme.
-col_types = cols(time = col_date(format = "%Y")) #endrer tidsformat
-```
+    by = c("country" = "geo"),) %>% #Country og geo er samme.
+dplyr::filter(!is.na(year) & !is.na(life_expectancy_years))
 
+```
 
 # 10.
-Første observasjon om forventet levetid for de forskjellige landene
 
-```{r første observasjon om forventet levetid}
-lifeExp <- read_csv("Data/ddf--gapminder--systema_globalis-master/countries-etc-datapoints/ddf--datapoints--life_expectancy_years--by--geo--time.csv",
-col_types = cols(time = col_date(format = "%Y")))
-lifeExp <- lifeExp %>%
-rename(year = time)
-length(unique(lifeExp$geo))
+```{r første observasjon av lifeExp}
+lifeExp_first <- lifeExp %>% 
+group_by(geo) %>%
+summarise(min_year = min(lifeExp$year)) 
+min(lifeExp$year)
 ```
+Første observasjon av forventet levetid var i 1800. Under er en oversikt over landene som har observasjoner fra dette årstallet.
+
+```{r}
+dplyr::filter(lifeExp, year %in% c("1800"))
+```
+
 
 # 11.
 
 De 9 landene som kun har data om forventet levetid fra 1950 er:
+
 ```{r data kun fra 1950}
 g_c_min %>%
   filter(min_year == "1950-01-01")
@@ -204,7 +216,7 @@ ggplot(my_gapminder_1960 ,
   geom_point() +
   ggtitle("1960-01-01") +
   theme(legend.position = "bottom")
-```  
+```
 
 ```{r ggplot_1980}
 my_gapminder_1980 <- my_gapminder %>%
