@@ -138,21 +138,12 @@ g_c_min %>%
   filter(min_year == "1950-01-01")
 ```
 
-```{r land_1950}
-g_c_min <- g_c_min %>%
-  left_join(g_c,
-            by = "country") %>%
-  filter(min_year == "1950-01-01")
-tibble(country = unique(g_c_min$name))
-rm(g_c_min)
-```
-
 # 12.
 
 Lest inn total_population og slått sammen med g_c.
 
 ```{r tot pop}
-pop <- read_csv("Data/ddf--gapminder--systema_globalis-master/countries-etc-datapoints/ddf--datapoints--population_total--by--geo--time.csv",
+pop <- read_csv("data/countries-etc-datapoints/ddf--datapoints--population_total--by--geo--time.csv",
     col_types = cols(time = col_date(format = "%Y")))
 ```
 
@@ -164,18 +155,30 @@ rm(pop)
 
 # 13.
 
-```{r gi nye navn}
-g_c <- g_c %>%
-  rename("lifeExp" = "life_expectancy_years") %>%
-  rename("pop" = "population_total") %>%
-  rename("gdpPercap" = "gdppercapita_us_inflation_adjusted")
+```{r gdp_pc}
+gdp_pc <- read_csv("data/countries-etc-datapoints/ddf--datapoints--gdppercapita_us_inflation_adjusted--by--geo--time.csv",
+col_types = cols(time = col_date(format = "%Y")))
 ```
 
-Her har vi gitt nytt navn til 3 variabler, slik at de har samme navn som i *gapminder*-datasettet.
+```{r left_join gdp_pc}
+g_c <- g_c %>% 
+  left_join(gdp_pc, by = c("country" = "geo", "year" = "time"))
+rm(gdp_pc)
+```
+
+Her har vi gitt nytt navn til 3 variabler.
+
+```{r rename}
+g_c <- g_c %>% 
+  rename("lifeExp" = "life_expectancy_years") %>% 
+  rename ("pop" = "population_total") %>% 
+  rename ("gdpPercap" = "gdppercapita_us_inflation_adjusted" )
+```
+
 
 # 14.
 
-```{r my_gapminder}
+```{r utvalgt data}
 t1 <- paste(seq(1800, 2019, by = 5), "01-01", sep = "-") %>% parse_date(format = "%Y-%m-%d")
 my_gapminder <- g_c %>%
   filter(year %in% t1) %>%
@@ -312,3 +315,9 @@ ggplot(my_gapminder_2019 ,
 Man ser at forventet levealder har økt jevnt siden 1960.
 
 # 20.
+
+```{r lagre}
+write.table(g_c, file="my_gapminder.csv", sep = ",")
+write.table(g_c_61, file="my_gapminder_red.csv", sep = ",")
+``` 
+
