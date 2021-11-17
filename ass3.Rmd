@@ -79,7 +79,7 @@ summarise(countries = length(unique(country)))
 # 7.
 
 ```{r lifeExp}
-lifeExp <- read_csv("data\\countries-etc-datapoints\\ddf--datapoints--life_expectancy_years--by--geo--time.csv")
+lifeExp <- read_csv("ddf--datapoints--life_expectancy_years--by--geo--time.csv")
 col_types = cols(time = col_date(format = "%Y")) #endrer tidsformat
 lifeExp <- lifeExp %>%
 rename(year = time)
@@ -134,8 +134,17 @@ dplyr::filter(lifeExp, year %in% c("1800"))
 De 9 landene som kun har data om forventet levetid fra 1950 er:
 
 ```{r data kun fra 1950}
-g_c_min %>%
-  filter(min_year == "1950-01-01")
+lifeExpData <- read_csv("ddf--datapoints--life_expectancy_years--by--geo--time.csv")
+
+g_c_min <- lifeExpData %>% 
+  filter(time < 1950) %>% 
+  distinct(geo)
+
+g_c_over1950 <- lifeExpData %>% 
+  filter(time > 1949) %>% 
+  distinct(geo)
+
+g_c_over1950[!(g_c_over1950$geo %in% g_c_min$geo),]
 ```
 
 # 12.
@@ -143,7 +152,7 @@ g_c_min %>%
 Lest inn total_population og slått sammen med g_c.
 
 ```{r tot pop}
-pop <- read_csv("data/countries-etc-datapoints/ddf--datapoints--population_total--by--geo--time.csv",
+pop <- read_csv("data//ddf--gapminder--systema_globalis-master//countries-etc-datapoints//ddf--datapoints--population_total--by--geo--time.csv",
     col_types = cols(time = col_date(format = "%Y")))
 ```
 
@@ -156,7 +165,7 @@ rm(pop)
 # 13.
 
 ```{r gdp_pc}
-gdp_pc <- read_csv("data/countries-etc-datapoints/ddf--datapoints--gdppercapita_us_inflation_adjusted--by--geo--time.csv",
+gdp_pc <- read_csv("data//ddf--gapminder--systema_globalis-master//countries-etc-datapoints//ddf--datapoints--gdppercapita_us_inflation_adjusted--by--geo--time.csv",
 col_types = cols(time = col_date(format = "%Y")))
 ```
 
