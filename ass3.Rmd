@@ -47,7 +47,7 @@ Pakken *gapminder* inneholder blant annet et datasett som heter *Gapminder*. Det
 Her skal vi endre kontinent-variablen i dff--entitites--geo--country.csv. Vi skal kun inkludere land som har aiso3166_1\_alpha3-kode. Vi skal kalle den endrede versjonen g_c, og det er g_c vi skal bruke videre i oppgaven.
 
 ```{r Nytt datasett g_c}
-g_c <- read.csv("data//ddf--entities--geo--country.csv")
+g_c <- read.csv("data//ddf--gapminder--systema_globalis-master//ddf--entities--geo--country.csv")
 ```
 
 ```{r Fikse kontinenter}
