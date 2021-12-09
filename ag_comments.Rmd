@@ -1,0 +1,15 @@
+---
+title: "ag comments"
+output:
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+-   Endret på definisjonen av t1 slik at vi får med 2019
+-   endret litt på innlesing av data, slik at read.csv leser fra data mappen. Merk triks med paste0() som gjør at man slipper filnavn som går langt utfor margen i pdf versjonen.
+-   Satte samme akser på plottene vha. xlim og ylim slik at det blir lettere å sammenligne årene
+-   Har lagt til en del kode under punkt 15 for å finne de 85 landene som har gdp data fra 1960. Lager et redusert datasett av disse
+-   Bruker dette reduserte datasettet til å lage de ulike plottene
+-   Blir en del copy paste av kode. Hadley forslår at man da bør skrive en funksjon. Utfordring: Klarer dere å skrive en funksjon som lager plotene for de årene man velger?
+-   Har tatt vekk bibliography: etc. fra YAML. Gav feil siden ingen .bib fil.

@@ -1,0 +1,3826 @@
+country,alpha3_lower,continent,time,lifeExp,pop,gdpPercap
+Argentina,arg,Amerika,1800-01-01,33.2,534000,NA
+Argentina,arg,Amerika,1805-01-01,33.2,465622,NA
+Argentina,arg,Amerika,1810-01-01,33.2,419661,NA
+Argentina,arg,Amerika,1815-01-01,33.2,465972,NA
+Argentina,arg,Amerika,1820-01-01,33.2,530996,NA
+Argentina,arg,Amerika,1825-01-01,33.2,582027,NA
+Argentina,arg,Amerika,1830-01-01,33.2,634974,NA
+Argentina,arg,Amerika,1835-01-01,33.2,698047,NA
+Argentina,arg,Amerika,1840-01-01,33.2,776366,NA
+Argentina,arg,Amerika,1845-01-01,33.2,920317,NA
+Argentina,arg,Amerika,1850-01-01,33.2,1088372,NA
+Argentina,arg,Amerika,1855-01-01,33.2,1197431,NA
+Argentina,arg,Amerika,1860-01-01,33.2,1315328,NA
+Argentina,arg,Amerika,1865-01-01,33.2,1529696,NA
+Argentina,arg,Amerika,1870-01-01,33.2,1793839,NA
+Argentina,arg,Amerika,1875-01-01,33.26,2099952,NA
+Argentina,arg,Amerika,1880-01-01,33.23,2457663,NA
+Argentina,arg,Amerika,1885-01-01,32.79,2876307,NA
+Argentina,arg,Amerika,1890-01-01,34.26,3369205,NA
+Argentina,arg,Amerika,1895-01-01,33.62,3967341,NA
+Argentina,arg,Amerika,1900-01-01,37.22,4689224,NA
+Argentina,arg,Amerika,1905-01-01,40.23,5641825,NA
+Argentina,arg,Amerika,1910-01-01,44.17,6755700,NA
+Argentina,arg,Amerika,1915-01-01,46.99,7739100,NA
+Argentina,arg,Amerika,1920-01-01,51.16,8828805,NA
+Argentina,arg,Amerika,1925-01-01,53.71,10209150,NA
+Argentina,arg,Amerika,1930-01-01,55.55,11740751,NA
+Argentina,arg,Amerika,1935-01-01,55.65,12902500,NA
+Argentina,arg,Amerika,1940-01-01,60.68,14095334,NA
+Argentina,arg,Amerika,1945-01-01,63.78,15492994,NA
+Argentina,arg,Amerika,1950-01-01,63.3,17037910,NA
+Argentina,arg,Amerika,1955-01-01,64.51,18789415,NA
+Argentina,arg,Amerika,1960-01-01,65.26,20481781,7362.53406
+Argentina,arg,Amerika,1965-01-01,66.13,22159644,8202.11255
+Argentina,arg,Amerika,1970-01-01,66.13,23880564,9243.25658
+Argentina,arg,Amerika,1975-01-01,68.03,25865775,9939.69662
+Argentina,arg,Amerika,1980-01-01,70.23,27896532,10318.18299
+Argentina,arg,Amerika,1985-01-01,71.73,30216284,9009.00173
+Argentina,arg,Amerika,1990-01-01,72.47,32618648,8149.24062
+Argentina,arg,Amerika,1995-01-01,73.44,34828168,10003.09169
+Argentina,arg,Amerika,2000-01-01,74.22,36870796,10730.60822
+Argentina,arg,Amerika,2005-01-01,75.28,38892924,11192.17958
+Argentina,arg,Amerika,2010-01-01,75.94,40895751,13551.33919
+Argentina,arg,Amerika,2015-01-01,76.5,43075416,13789.06042
+Argentina,arg,Amerika,2019-01-01,76.58,44780675,12711.70519
+Australia,aus,Oseania,1800-01-01,34.05,200000,NA
+Australia,aus,Oseania,1805-01-01,34.05,227357,NA
+Australia,aus,Oseania,1810-01-01,34.05,258627,NA
+Australia,aus,Oseania,1815-01-01,34.05,294004,NA
+Australia,aus,Oseania,1820-01-01,34.05,328728,NA
+Australia,aus,Oseania,1825-01-01,34.05,331994,NA
+Australia,aus,Oseania,1830-01-01,34.05,335111,NA
+Australia,aus,Oseania,1835-01-01,34.05,372507,NA
+Australia,aus,Oseania,1840-01-01,34.05,423526,NA
+Australia,aus,Oseania,1845-01-01,34.05,504755,NA
+Australia,aus,Oseania,1850-01-01,34.05,622584,NA
+Australia,aus,Oseania,1855-01-01,34.05,900180,NA
+Australia,aus,Oseania,1860-01-01,34.05,1288328,NA
+Australia,aus,Oseania,1865-01-01,34.05,1530266,NA
+Australia,aus,Oseania,1870-01-01,34.05,1759825,NA
+Australia,aus,Oseania,1875-01-01,36.71,1964507,NA
+Australia,aus,Oseania,1880-01-01,39.37,2201397,NA
+Australia,aus,Oseania,1885-01-01,42.03,2595146,NA
+Australia,aus,Oseania,1890-01-01,44.7,3051572,NA
+Australia,aus,Oseania,1895-01-01,47.36,3375822,NA
+Australia,aus,Oseania,1900-01-01,50.03,3693392,NA
+Australia,aus,Oseania,1905-01-01,52.7,3996345,NA
+Australia,aus,Oseania,1910-01-01,55.37,4329104,NA
+Australia,aus,Oseania,1915-01-01,58.04,4772528,NA
+Australia,aus,Oseania,1920-01-01,60.72,5274460,NA
+Australia,aus,Oseania,1925-01-01,63.46,5800358,NA
+Australia,aus,Oseania,1930-01-01,65.23,6332911,NA
+Australia,aus,Oseania,1935-01-01,65.44,6647809,NA
+Australia,aus,Oseania,1940-01-01,66.58,6968070,NA
+Australia,aus,Oseania,1945-01-01,68.81,7516631,NA
+Australia,aus,Oseania,1950-01-01,69.4,8177348,NA
+Australia,aus,Oseania,1955-01-01,70.34,9165700,NA
+Australia,aus,Oseania,1960-01-01,71.11,10242070,19967.91914
+Australia,aus,Oseania,1965-01-01,71.1,11313186,22527.08827
+Australia,aus,Oseania,1970-01-01,71.15,12793030,26915.35218
+Australia,aus,Oseania,1975-01-01,72.51,13773290,28350.93536
+Australia,aus,Oseania,1980-01-01,74.51,14588400,30817.75422
+Australia,aus,Oseania,1985-01-01,75.59,15663672,33020.30471
+Australia,aus,Oseania,1990-01-01,77,16960600,37003.99099
+Australia,aus,Oseania,1995-01-01,78.29,17993083,39254.189659999996
+Australia,aus,Oseania,2000-01-01,79.72,18991434,45683.31004
+Australia,aus,Oseania,2005-01-01,81.24,20178543,50299.10077
+Australia,aus,Oseania,2010-01-01,82.12,22154687,53604.9211
+Australia,aus,Oseania,2015-01-01,82.73,23932499,56755.72171
+Australia,aus,Oseania,2019-01-01,82.89,25203200,58923.20821
+Austria,aut,Europa,1800-01-01,34.4,3000000,NA
+Austria,aut,Europa,1805-01-01,34.4,3088277,NA
+Austria,aut,Europa,1810-01-01,34.4,3179258,NA
+Austria,aut,Europa,1815-01-01,34.4,3272809,NA
+Austria,aut,Europa,1820-01-01,34.4,3367266,NA
+Austria,aut,Europa,1825-01-01,34.4,3452549,NA
+Austria,aut,Europa,1830-01-01,34.4,3538115,NA
+Austria,aut,Europa,1835-01-01,34.4,3625995,NA
+Austria,aut,Europa,1840-01-01,34.4,3718786,NA
+Austria,aut,Europa,1845-01-01,34.4,3831357,NA
+Austria,aut,Europa,1850-01-01,34.4,3952208,NA
+Austria,aut,Europa,1855-01-01,34.4,4090598,NA
+Austria,aut,Europa,1860-01-01,34.4,4234828,NA
+Austria,aut,Europa,1865-01-01,34.4,4376588,NA
+Austria,aut,Europa,1870-01-01,34.4,4528451,NA
+Austria,aut,Europa,1875-01-01,34.67,4728390,NA
+Austria,aut,Europa,1880-01-01,34.94,4943751,NA
+Austria,aut,Europa,1885-01-01,35.91,5166298,NA
+Austria,aut,Europa,1890-01-01,37.06,5403122,NA
+Austria,aut,Europa,1895-01-01,39.16,5681471,NA
+Austria,aut,Europa,1900-01-01,41.51,5979177,NA
+Austria,aut,Europa,1905-01-01,41.33,6292428,NA
+Austria,aut,Europa,1910-01-01,44.45,6571589,NA
+Austria,aut,Europa,1915-01-01,47.34,6541968,NA
+Austria,aut,Europa,1920-01-01,50.17,6486071,NA
+Austria,aut,Europa,1925-01-01,53,6576781,NA
+Austria,aut,Europa,1930-01-01,55.83,6679646,NA
+Austria,aut,Europa,1935-01-01,57.61,6702849,NA
+Austria,aut,Europa,1940-01-01,57.74,6725736,NA
+Austria,aut,Europa,1945-01-01,31.36,6827669,NA
+Austria,aut,Europa,1950-01-01,64.8,6936442,NA
+Austria,aut,Europa,1955-01-01,67.68,6953404,NA
+Austria,aut,Europa,1960-01-01,68.96,7070773,12046.30565
+Austria,aut,Europa,1965-01-01,70.09,7305154,14466.00251
+Austria,aut,Europa,1970-01-01,70.21,7516238,18094.71351
+Austria,aut,Europa,1975-01-01,71.44,7637686,21620.34971
+Austria,aut,Europa,1980-01-01,72.84,7609750,25510.4792
+Austria,aut,Europa,1985-01-01,74.26,7614874,27384.85734
+Austria,aut,Europa,1990-01-01,75.97,7723954,31328.07986
+Austria,aut,Europa,1995-01-01,77.03,7990113,33776.89854
+Austria,aut,Europa,2000-01-01,78.49,8069276,38827.2726
+Austria,aut,Europa,2005-01-01,79.75,8253656,41264.67242
+Austria,aut,Europa,2010-01-01,80.79,8409945,43317.08506
+Austria,aut,Europa,2015-01-01,81.57,8678667,44178.04738
+Austria,aut,Europa,2019-01-01,82.16,8955108,46717.72073
+Burundi,bdi,Afrika,1800-01-01,31.5,899097,NA
+Burundi,bdi,Afrika,1805-01-01,31.5,899097,NA
+Burundi,bdi,Afrika,1810-01-01,31.5,899097,NA
+Burundi,bdi,Afrika,1815-01-01,31.5,899097,NA
+Burundi,bdi,Afrika,1820-01-01,31.5,907290,NA
+Burundi,bdi,Afrika,1825-01-01,31.5,969334,NA
+Burundi,bdi,Afrika,1830-01-01,31.5,1044822,NA
+Burundi,bdi,Afrika,1835-01-01,31.5,1126189,NA
+Burundi,bdi,Afrika,1840-01-01,31.5,1213893,NA
+Burundi,bdi,Afrika,1845-01-01,31.5,1308426,NA
+Burundi,bdi,Afrika,1850-01-01,31.5,1402560,NA
+Burundi,bdi,Afrika,1855-01-01,31.5,1446334,NA
+Burundi,bdi,Afrika,1860-01-01,31.5,1483515,NA
+Burundi,bdi,Afrika,1865-01-01,31.5,1521620,NA
+Burundi,bdi,Afrika,1870-01-01,31.5,1561612,NA
+Burundi,bdi,Afrika,1875-01-01,31.59,1608684,NA
+Burundi,bdi,Afrika,1880-01-01,31.68,1658118,NA
+Burundi,bdi,Afrika,1885-01-01,31.77,1709033,NA
+Burundi,bdi,Afrika,1890-01-01,31.86,1748784,NA
+Burundi,bdi,Afrika,1895-01-01,31.95,1709821,NA
+Burundi,bdi,Afrika,1900-01-01,32.05,1656711,NA
+Burundi,bdi,Afrika,1905-01-01,32.14,1586905,NA
+Burundi,bdi,Afrika,1910-01-01,32.23,1520850,NA
+Burundi,bdi,Afrika,1915-01-01,32.32,1479979,NA
+Burundi,bdi,Afrika,1920-01-01,32.41,1464409,NA
+Burundi,bdi,Afrika,1925-01-01,28.89,1560059,NA
+Burundi,bdi,Afrika,1930-01-01,32.59,1679609,NA
+Burundi,bdi,Afrika,1935-01-01,32.68,1801560,NA
+Burundi,bdi,Afrika,1940-01-01,32.77,1935933,NA
+Burundi,bdi,Afrika,1945-01-01,32.86,2111697,NA
+Burundi,bdi,Afrika,1950-01-01,40.2,2308927,NA
+Burundi,bdi,Afrika,1955-01-01,41.87,2537150,NA
+Burundi,bdi,Afrika,1960-01-01,43.92,2797925,285.43888
+Burundi,bdi,Afrika,1965-01-01,45.31,3094378,279.35114
+Burundi,bdi,Afrika,1970-01-01,45.96,3479070,352.64871
+Burundi,bdi,Afrika,1975-01-01,47.19,3700879,340.65285
+Burundi,bdi,Afrika,1980-01-01,48.49,4157296,371.11195
+Burundi,bdi,Afrika,1985-01-01,49.33,4750832,418.49598
+Burundi,bdi,Afrika,1990-01-01,48.72,5438959,438.71252
+Burundi,bdi,Afrika,1995-01-01,43.35,5987044,350.95099
+Burundi,bdi,Afrika,2000-01-01,44.69,6378871,306.58448
+Burundi,bdi,Afrika,2005-01-01,50.3,7364857,295.73716
+Burundi,bdi,Afrika,2010-01-01,58.55,8675606,313.31181
+Burundi,bdi,Afrika,2015-01-01,61.75,10160034,305.54965
+Burundi,bdi,Afrika,2019-01-01,63.83,11530577,278.31937
+Belgium,bel,Europa,1800-01-01,40,3250000,NA
+Belgium,bel,Europa,1805-01-01,40.04,3295054,NA
+Belgium,bel,Europa,1810-01-01,40.08,3340759,NA
+Belgium,bel,Europa,1815-01-01,40.12,3387071,NA
+Belgium,bel,Europa,1820-01-01,40.16,3446611,NA
+Belgium,bel,Europa,1825-01-01,40.2,3588801,NA
+Belgium,bel,Europa,1830-01-01,40.24,3749449,NA
+Belgium,bel,Europa,1835-01-01,40.28,3911800,NA
+Belgium,bel,Europa,1840-01-01,40.32,4080847,NA
+Belgium,bel,Europa,1845-01-01,41.03,4260826,NA
+Belgium,bel,Europa,1850-01-01,42.28,4443056,NA
+Belgium,bel,Europa,1855-01-01,37.49,4591900,NA
+Belgium,bel,Europa,1860-01-01,45.12,4741806,NA
+Belgium,bel,Europa,1865-01-01,37.74,4913495,NA
+Belgium,bel,Europa,1870-01-01,40.92,5097637,NA
+Belgium,bel,Europa,1875-01-01,42.18,5311440,NA
+Belgium,bel,Europa,1880-01-01,42.5,5541874,NA
+Belgium,bel,Europa,1885-01-01,45.51,5808158,NA
+Belgium,bel,Europa,1890-01-01,44.19,6092147,NA
+Belgium,bel,Europa,1895-01-01,45.52,6394512,NA
+Belgium,bel,Europa,1900-01-01,46.66,6717693,NA
+Belgium,bel,Europa,1905-01-01,50.1,7090518,NA
+Belgium,bel,Europa,1910-01-01,51.47,7442986,NA
+Belgium,bel,Europa,1915-01-01,40.09,7514736,NA
+Belgium,bel,Europa,1920-01-01,53.8,7568708,NA
+Belgium,bel,Europa,1925-01-01,57.32,7799025,NA
+Belgium,bel,Europa,1930-01-01,57.35,8048371,NA
+Belgium,bel,Europa,1935-01-01,60.21,8198486,NA
+Belgium,bel,Europa,1940-01-01,56.16,8335242,NA
+Belgium,bel,Europa,1945-01-01,58.61,8479632,NA
+Belgium,bel,Europa,1950-01-01,66.62,8637521,NA
+Belgium,bel,Europa,1955-01-01,68.8,8887275,NA
+Belgium,bel,Europa,1960-01-01,70.07,9167361,11729.58805
+Belgium,bel,Europa,1965-01-01,70.76,9443948,14483.61919
+Belgium,bel,Europa,1970-01-01,71.1,9632179,17842.3178
+Belgium,bel,Europa,1975-01-01,72.15,9771582,20988.76429
+Belgium,bel,Europa,1980-01-01,73.33,9868999,24383.49014
+Belgium,bel,Europa,1985-01-01,74.61,9916577,25559.20837
+Belgium,bel,Europa,1990-01-01,76.15,10006545,29429.82427
+Belgium,bel,Europa,1995-01-01,77.01,10186304,31317.29498
+Belgium,bel,Europa,2000-01-01,78.04,10282046,35660.44716
+Belgium,bel,Europa,2005-01-01,79.32,10546885,38410.60159
+Belgium,bel,Europa,2010-01-01,80.23,10938735,39761.9314
+Belgium,bel,Europa,2015-01-01,81.09,11287931,40991.80814
+Belgium,bel,Europa,2019-01-01,81.41,11539326,42887.65513
+Benin,ben,Afrika,1800-01-01,31,636559,NA
+Benin,ben,Afrika,1805-01-01,31,636559,NA
+Benin,ben,Afrika,1810-01-01,31,636559,NA
+Benin,ben,Afrika,1815-01-01,31,636559,NA
+Benin,ben,Afrika,1820-01-01,31,639344,NA
+Benin,ben,Afrika,1825-01-01,31,660082,NA
+Benin,ben,Afrika,1830-01-01,31,684439,NA
+Benin,ben,Afrika,1835-01-01,31,709695,NA
+Benin,ben,Afrika,1840-01-01,31,735882,NA
+Benin,ben,Afrika,1845-01-01,31,763036,NA
+Benin,ben,Afrika,1850-01-01,31,789547,NA
+Benin,ben,Afrika,1855-01-01,31,814022,NA
+Benin,ben,Afrika,1860-01-01,31,839553,NA
+Benin,ben,Afrika,1865-01-01,31,879440,NA
+Benin,ben,Afrika,1870-01-01,31,923672,NA
+Benin,ben,Afrika,1875-01-01,31.65,971891,NA
+Benin,ben,Afrika,1880-01-01,32.29,1021297,NA
+Benin,ben,Afrika,1885-01-01,32.94,1063013,NA
+Benin,ben,Afrika,1890-01-01,33.59,1104082,NA
+Benin,ben,Afrika,1895-01-01,34.23,1142559,NA
+Benin,ben,Afrika,1900-01-01,34.88,1183800,NA
+Benin,ben,Afrika,1905-01-01,35.53,1240656,NA
+Benin,ben,Afrika,1910-01-01,36.17,1301894,NA
+Benin,ben,Afrika,1915-01-01,36.82,1362159,NA
+Benin,ben,Afrika,1920-01-01,37.47,1423936,NA
+Benin,ben,Afrika,1925-01-01,38.11,1527130,NA
+Benin,ben,Afrika,1930-01-01,38.76,1644156,NA
+Benin,ben,Afrika,1935-01-01,39.41,1763533,NA
+Benin,ben,Afrika,1940-01-01,40.05,1895071,NA
+Benin,ben,Afrika,1945-01-01,41.07,2067124,NA
+Benin,ben,Afrika,1950-01-01,43.61,2255222,NA
+Benin,ben,Afrika,1955-01-01,44.1,2303592,NA
+Benin,ben,Afrika,1960-01-01,44.78,2431617,679.02167
+Benin,ben,Afrika,1965-01-01,46.76,2632361,734.78872
+Benin,ben,Afrika,1970-01-01,48.54,2912338,758.39264
+Benin,ben,Afrika,1975-01-01,50.76,3265167,722.77279
+Benin,ben,Afrika,1980-01-01,52.71,3717161,774.5521
+Benin,ben,Afrika,1985-01-01,53.94,4278502,839.74891
+Benin,ben,Afrika,1990-01-01,55.73,4978489,795.07166
+Benin,ben,Afrika,1995-01-01,56.89,5905552,823.54929
+Benin,ben,Afrika,2000-01-01,57.39,6865946,905.82627
+Benin,ben,Afrika,2005-01-01,58.81,7982223,943.62931
+Benin,ben,Afrika,2010-01-01,61.1,9199254,988.61079
+Benin,ben,Afrika,2015-01-01,62.64,10575962,1076.7967
+Benin,ben,Afrika,2019-01-01,64.49,11801151,1201.56139
+Burkina Faso,bfa,Afrika,1800-01-01,29.2,1665421,NA
+Burkina Faso,bfa,Afrika,1805-01-01,29.2,1665421,NA
+Burkina Faso,bfa,Afrika,1810-01-01,29.2,1665421,NA
+Burkina Faso,bfa,Afrika,1815-01-01,29.2,1665421,NA
+Burkina Faso,bfa,Afrika,1820-01-01,29.2,1668963,NA
+Burkina Faso,bfa,Afrika,1825-01-01,29.2,1695131,NA
+Burkina Faso,bfa,Afrika,1830-01-01,29.2,1725350,NA
+Burkina Faso,bfa,Afrika,1835-01-01,29.2,1756108,NA
+Burkina Faso,bfa,Afrika,1840-01-01,29.2,1787414,NA
+Burkina Faso,bfa,Afrika,1845-01-01,29.2,1819278,NA
+Burkina Faso,bfa,Afrika,1850-01-01,29.2,1849996,NA
+Burkina Faso,bfa,Afrika,1855-01-01,29.2,1881022,NA
+Burkina Faso,bfa,Afrika,1860-01-01,29.2,1910751,NA
+Burkina Faso,bfa,Afrika,1865-01-01,29.2,1940888,NA
+Burkina Faso,bfa,Afrika,1870-01-01,29.2,1973808,NA
+Burkina Faso,bfa,Afrika,1875-01-01,29.57,2022494,NA
+Burkina Faso,bfa,Afrika,1880-01-01,29.94,2074783,NA
+Burkina Faso,bfa,Afrika,1885-01-01,30.31,2128357,NA
+Burkina Faso,bfa,Afrika,1890-01-01,30.68,2184563,NA
+Burkina Faso,bfa,Afrika,1895-01-01,31.05,2250684,NA
+Burkina Faso,bfa,Afrika,1900-01-01,31.42,2328510,NA
+Burkina Faso,bfa,Afrika,1905-01-01,31.79,2464095,NA
+Burkina Faso,bfa,Afrika,1910-01-01,32.16,2611948,NA
+Burkina Faso,bfa,Afrika,1915-01-01,32.53,2737514,NA
+Burkina Faso,bfa,Afrika,1920-01-01,32.9,2863492,NA
+Burkina Faso,bfa,Afrika,1925-01-01,33.27,3045636,NA
+Burkina Faso,bfa,Afrika,1930-01-01,33.64,3246852,NA
+Burkina Faso,bfa,Afrika,1935-01-01,34.01,3448396,NA
+Burkina Faso,bfa,Afrika,1940-01-01,34.38,3669191,NA
+Burkina Faso,bfa,Afrika,1945-01-01,34.75,3963108,NA
+Burkina Faso,bfa,Afrika,1950-01-01,36.06,4284455,NA
+Burkina Faso,bfa,Afrika,1955-01-01,37.72,4517155,NA
+Burkina Faso,bfa,Afrika,1960-01-01,39.54,4829289,241.6055
+Burkina Faso,bfa,Afrika,1965-01-01,41.95,5174874,260.88539
+Burkina Faso,bfa,Afrika,1970-01-01,44.06,5624592,276.47998
+Burkina Faso,bfa,Afrika,1975-01-01,46.04,6154554,293.71703
+Burkina Faso,bfa,Afrika,1980-01-01,48.64,6822837,315.48403
+Burkina Faso,bfa,Afrika,1985-01-01,50.64,7727908,340.28613
+Burkina Faso,bfa,Afrika,1990-01-01,50.67,8811033,345.28416
+Burkina Faso,bfa,Afrika,1995-01-01,50.66,10089880,365.28054
+Burkina Faso,bfa,Afrika,2000-01-01,52.48,11607951,440.02841
+Burkina Faso,bfa,Afrika,2005-01-01,55.3,13421935,518.16787
+Burkina Faso,bfa,Afrika,2010-01-01,57.94,15605211,582.41573
+Burkina Faso,bfa,Afrika,2015-01-01,59.9,18110616,653.32727
+Burkina Faso,bfa,Afrika,2019-01-01,61.67,20321383,739.17521
+Bangladesh,bgd,Asia,1800-01-01,25.5,19191243,NA
+Bangladesh,bgd,Asia,1805-01-01,25.5,19381202,NA
+Bangladesh,bgd,Asia,1810-01-01,25.5,19574434,NA
+Bangladesh,bgd,Asia,1815-01-01,25.5,19800902,NA
+Bangladesh,bgd,Asia,1820-01-01,25.5,20085068,NA
+Bangladesh,bgd,Asia,1825-01-01,25.5,20428732,NA
+Bangladesh,bgd,Asia,1830-01-01,25.5,20866279,NA
+Bangladesh,bgd,Asia,1835-01-01,25.5,21313197,NA
+Bangladesh,bgd,Asia,1840-01-01,25.5,21769688,NA
+Bangladesh,bgd,Asia,1845-01-01,25.5,22235957,NA
+Bangladesh,bgd,Asia,1850-01-01,25.5,22712211,NA
+Bangladesh,bgd,Asia,1855-01-01,25.5,22896258,NA
+Bangladesh,bgd,Asia,1860-01-01,25.5,23077770,NA
+Bangladesh,bgd,Asia,1865-01-01,24,23256553,NA
+Bangladesh,bgd,Asia,1870-01-01,25.5,23461426,NA
+Bangladesh,bgd,Asia,1875-01-01,25.38,23848350,NA
+Bangladesh,bgd,Asia,1880-01-01,24.35,24266433,NA
+Bangladesh,bgd,Asia,1885-01-01,23.1,24686907,NA
+Bangladesh,bgd,Asia,1890-01-01,22.3,25109499,NA
+Bangladesh,bgd,Asia,1895-01-01,21.49,25533916,NA
+Bangladesh,bgd,Asia,1900-01-01,21.16,25959844,NA
+Bangladesh,bgd,Asia,1905-01-01,20.84,26386946,NA
+Bangladesh,bgd,Asia,1910-01-01,21.35,26777647,NA
+Bangladesh,bgd,Asia,1915-01-01,22.06,26931945,NA
+Bangladesh,bgd,Asia,1920-01-01,22.77,27302246,NA
+Bangladesh,bgd,Asia,1925-01-01,23.46,27852501,NA
+Bangladesh,bgd,Asia,1930-01-01,26.33,28688805,NA
+Bangladesh,bgd,Asia,1935-01-01,29.71,31382865,NA
+Bangladesh,bgd,Asia,1940-01-01,33.06,34406613,NA
+Bangladesh,bgd,Asia,1945-01-01,34.48,36124727,NA
+Bangladesh,bgd,Asia,1950-01-01,39.67,37894671,NA
+Bangladesh,bgd,Asia,1955-01-01,41.87,42086305,NA
+Bangladesh,bgd,Asia,1960-01-01,43.82,48013505,463.35739
+Bangladesh,bgd,Asia,1965-01-01,45.87,55385114,504.15472
+Bangladesh,bgd,Asia,1970-01-01,42.2,64232486,512.12116
+Bangladesh,bgd,Asia,1975-01-01,50.62,70066310,414.6048
+Bangladesh,bgd,Asia,1980-01-01,53.22,79639498,447.69492
+Bangladesh,bgd,Asia,1985-01-01,53.75,90764180,484.04802
+Bangladesh,bgd,Asia,1990-01-01,58.19,103171957,512.09659
+Bangladesh,bgd,Asia,1995-01-01,62.24,115169933,572.43845
+Bangladesh,bgd,Asia,2000-01-01,65.47,127657862,653.80864
+Bangladesh,bgd,Asia,2005-01-01,67.44,139035505,769.13598
+Bangladesh,bgd,Asia,2010-01-01,70.04,147575433,972.90969
+Bangladesh,bgd,Asia,2015-01-01,73.59,156256287,1248.45331
+Bangladesh,bgd,Asia,2019-01-01,74.55,163046173,1603.9535
+Bahamas,bhs,Amerika,1800-01-01,35.18,27350,NA
+Bahamas,bhs,Amerika,1805-01-01,35.18,27350,NA
+Bahamas,bhs,Amerika,1810-01-01,35.18,27350,NA
+Bahamas,bhs,Amerika,1815-01-01,35.18,27350,NA
+Bahamas,bhs,Amerika,1820-01-01,35.18,27363,NA
+Bahamas,bhs,Amerika,1825-01-01,35.18,27457,NA
+Bahamas,bhs,Amerika,1830-01-01,35.18,27565,NA
+Bahamas,bhs,Amerika,1835-01-01,35.18,27673,NA
+Bahamas,bhs,Amerika,1840-01-01,35.18,27782,NA
+Bahamas,bhs,Amerika,1845-01-01,35.18,27891,NA
+Bahamas,bhs,Amerika,1850-01-01,35.18,28369,NA
+Bahamas,bhs,Amerika,1855-01-01,35.18,31535,NA
+Bahamas,bhs,Amerika,1860-01-01,35.18,35245,NA
+Bahamas,bhs,Amerika,1865-01-01,35.18,37708,NA
+Bahamas,bhs,Amerika,1870-01-01,35.18,40102,NA
+Bahamas,bhs,Amerika,1875-01-01,35.14,42847,NA
+Bahamas,bhs,Amerika,1880-01-01,35.1,45718,NA
+Bahamas,bhs,Amerika,1885-01-01,35.05,48159,NA
+Bahamas,bhs,Amerika,1890-01-01,35.01,50724,NA
+Bahamas,bhs,Amerika,1895-01-01,34.97,54052,NA
+Bahamas,bhs,Amerika,1900-01-01,34.93,57414,NA
+Bahamas,bhs,Amerika,1905-01-01,34.89,59127,NA
+Bahamas,bhs,Amerika,1910-01-01,34.84,60263,NA
+Bahamas,bhs,Amerika,1915-01-01,34.8,59323,NA
+Bahamas,bhs,Amerika,1920-01-01,34.76,58482,NA
+Bahamas,bhs,Amerika,1925-01-01,37.98,61567,NA
+Bahamas,bhs,Amerika,1930-01-01,42.02,65570,NA
+Bahamas,bhs,Amerika,1935-01-01,46.04,70251,NA
+Bahamas,bhs,Amerika,1940-01-01,50.05,74794,NA
+Bahamas,bhs,Amerika,1945-01-01,54.06,76135,NA
+Bahamas,bhs,Amerika,1950-01-01,58.05,79090,NA
+Bahamas,bhs,Amerika,1955-01-01,60.03,88628,NA
+Bahamas,bhs,Amerika,1960-01-01,61.93,109532,20121.41464
+Bahamas,bhs,Amerika,1965-01-01,63.28,140060,25940.14515
+Bahamas,bhs,Amerika,1970-01-01,65.4,169376,28586.70754
+Bahamas,bhs,Amerika,1975-01-01,68.21,188895,19178.25322
+Bahamas,bhs,Amerika,1980-01-01,68.62,210589,30294.28725
+Bahamas,bhs,Amerika,1985-01-01,70.21,234579,32659.7394
+Bahamas,bhs,Amerika,1990-01-01,70.86,256227,33681.23607
+Bahamas,bhs,Amerika,1995-01-01,70.77,280179,30654.65804
+Bahamas,bhs,Amerika,2000-01-01,71.25,298045,35819.66133
+Bahamas,bhs,Amerika,2005-01-01,73.18,324848,35674.49827
+Bahamas,bhs,Amerika,2010-01-01,73.24,354936,32271.3289
+Bahamas,bhs,Amerika,2015-01-01,73.35,374200,31295.56387
+Bahamas,bhs,Amerika,2019-01-01,73.36,389486,32798.17733
+Belize,blz,Amerika,1800-01-01,26.5,25526,NA
+Belize,blz,Amerika,1805-01-01,26.5,25526,NA
+Belize,blz,Amerika,1810-01-01,26.5,25526,NA
+Belize,blz,Amerika,1815-01-01,26.5,25526,NA
+Belize,blz,Amerika,1820-01-01,26.5,25533,NA
+Belize,blz,Amerika,1825-01-01,26.5,25585,NA
+Belize,blz,Amerika,1830-01-01,26.5,25644,NA
+Belize,blz,Amerika,1835-01-01,26.5,25703,NA
+Belize,blz,Amerika,1840-01-01,26.5,25762,NA
+Belize,blz,Amerika,1845-01-01,26.5,25821,NA
+Belize,blz,Amerika,1850-01-01,26.5,25881,NA
+Belize,blz,Amerika,1855-01-01,26.5,26004,NA
+Belize,blz,Amerika,1860-01-01,26.5,26059,NA
+Belize,blz,Amerika,1865-01-01,26.5,25683,NA
+Belize,blz,Amerika,1870-01-01,26.5,25422,NA
+Belize,blz,Amerika,1875-01-01,26.52,26300,NA
+Belize,blz,Amerika,1880-01-01,26.54,27501,NA
+Belize,blz,Amerika,1885-01-01,26.56,29433,NA
+Belize,blz,Amerika,1890-01-01,26.58,31689,NA
+Belize,blz,Amerika,1895-01-01,26.6,34625,NA
+Belize,blz,Amerika,1900-01-01,26.62,37688,NA
+Belize,blz,Amerika,1905-01-01,26.64,39510,NA
+Belize,blz,Amerika,1910-01-01,26.65,41278,NA
+Belize,blz,Amerika,1915-01-01,29.51,43783,NA
+Belize,blz,Amerika,1920-01-01,32.36,46504,NA
+Belize,blz,Amerika,1925-01-01,35.22,49486,NA
+Belize,blz,Amerika,1930-01-01,38.08,52748,NA
+Belize,blz,Amerika,1935-01-01,41.31,56667,NA
+Belize,blz,Amerika,1940-01-01,46.02,60812,NA
+Belize,blz,Amerika,1945-01-01,50.73,64358,NA
+Belize,blz,Amerika,1950-01-01,55.45,68915,NA
+Belize,blz,Amerika,1955-01-01,58.84,79867,NA
+Belize,blz,Amerika,1960-01-01,63.93,92068,1195.07713
+Belize,blz,Amerika,1965-01-01,66.43,106120,1319.15481
+Belize,blz,Amerika,1970-01-01,67.51,122184,1489.50815
+Belize,blz,Amerika,1975-01-01,69.56,133264,1939.36425
+Belize,blz,Amerika,1980-01-01,70.87,144142,2512.49701
+Belize,blz,Amerika,1985-01-01,72.08,164918,2236.16424
+Belize,blz,Amerika,1990-01-01,72.79,187554,3147.26776
+Belize,blz,Amerika,1995-01-01,72.9,206962,3816.45431
+Belize,blz,Amerika,2000-01-01,69.98,247310,4278.05015
+Belize,blz,Amerika,2005-01-01,72.43,283798,4773.66085
+Belize,blz,Amerika,2010-01-01,73.58,322465,4728.81041
+Belize,blz,Amerika,2015-01-01,74.19,360926,4770.23266
+Belize,blz,Amerika,2019-01-01,74.46,390351,4701.08924
+Bolivia,bol,Amerika,1800-01-01,33,887000,NA
+Bolivia,bol,Amerika,1805-01-01,33,936032,NA
+Bolivia,bol,Amerika,1810-01-01,33,987890,NA
+Bolivia,bol,Amerika,1815-01-01,33,1042499,NA
+Bolivia,bol,Amerika,1820-01-01,33,1097885,NA
+Bolivia,bol,Amerika,1825-01-01,33,1141604,NA
+Bolivia,bol,Amerika,1830-01-01,33,1184717,NA
+Bolivia,bol,Amerika,1835-01-01,33,1229458,NA
+Bolivia,bol,Amerika,1840-01-01,33,1275888,NA
+Bolivia,bol,Amerika,1845-01-01,33,1324072,NA
+Bolivia,bol,Amerika,1850-01-01,33,1371417,NA
+Bolivia,bol,Amerika,1855-01-01,33,1413949,NA
+Bolivia,bol,Amerika,1860-01-01,33,1454952,NA
+Bolivia,bol,Amerika,1865-01-01,33,1497060,NA
+Bolivia,bol,Amerika,1870-01-01,33,1508586,NA
+Bolivia,bol,Amerika,1875-01-01,32.82,1330983,NA
+Bolivia,bol,Amerika,1880-01-01,32.65,1184939,NA
+Bolivia,bol,Amerika,1885-01-01,32.47,1289558,NA
+Bolivia,bol,Amerika,1890-01-01,32.29,1447966,NA
+Bolivia,bol,Amerika,1895-01-01,32.11,1625749,NA
+Bolivia,bol,Amerika,1900-01-01,31.94,1809836,NA
+Bolivia,bol,Amerika,1905-01-01,31.76,1912216,NA
+Bolivia,bol,Amerika,1910-01-01,31.58,2012721,NA
+Bolivia,bol,Amerika,1915-01-01,31.41,2176328,NA
+Bolivia,bol,Amerika,1920-01-01,31.23,2348113,NA
+Bolivia,bol,Amerika,1925-01-01,31.05,2492634,NA
+Bolivia,bol,Amerika,1930-01-01,30.88,2640541,NA
+Bolivia,bol,Amerika,1935-01-01,30.7,2797268,NA
+Bolivia,bol,Amerika,1940-01-01,30.52,2947570,NA
+Bolivia,bol,Amerika,1945-01-01,33.49,3004512,NA
+Bolivia,bol,Amerika,1950-01-01,36.42,3081836,NA
+Bolivia,bol,Amerika,1955-01-01,40.53,3331036,NA
+Bolivia,bol,Amerika,1960-01-01,43,3656961,1292.80562
+Bolivia,bol,Amerika,1965-01-01,46.17,4038865,1469.5908
+Bolivia,bol,Amerika,1970-01-01,50.09,4484004,1799.57115
+Bolivia,bol,Amerika,1975-01-01,53.66,5001413,2137.71097
+Bolivia,bol,Amerika,1980-01-01,56.76,5579932,2120.70178
+Bolivia,bol,Amerika,1985-01-01,59.14,6179460,1736.87151
+Bolivia,bol,Amerika,1990-01-01,61.69,6864839,1744.31199
+Bolivia,bol,Amerika,1995-01-01,64.02,7622334,1920.31793
+Bolivia,bol,Amerika,2000-01-01,66.53,8418270,2059.18528
+Bolivia,bol,Amerika,2005-01-01,68.97,9232301,2186.18668
+Bolivia,bol,Amerika,2010-01-01,70.3,10048597,2514.43483
+Bolivia,bol,Amerika,2015-01-01,71.3,10869732,3035.97165
+Bolivia,bol,Amerika,2019-01-01,72.01,11513102,3317.37095
+Brazil,bra,Amerika,1800-01-01,32,2500000,NA
+Brazil,bra,Amerika,1805-01-01,32,2896856,NA
+Brazil,bra,Amerika,1810-01-01,32,3359625,NA
+Brazil,bra,Amerika,1815-01-01,32,3892940,NA
+Brazil,bra,Amerika,1820-01-01,32,4472454,NA
+Brazil,bra,Amerika,1825-01-01,32,4878026,NA
+Brazil,bra,Amerika,1830-01-01,31.99,5278282,NA
+Brazil,bra,Amerika,1835-01-01,31.99,5711380,NA
+Brazil,bra,Amerika,1840-01-01,31.99,6180015,NA
+Brazil,bra,Amerika,1845-01-01,31.99,6687103,NA
+Brazil,bra,Amerika,1850-01-01,31.99,7233093,NA
+Brazil,bra,Amerika,1855-01-01,31.99,7809841,NA
+Brazil,bra,Amerika,1860-01-01,31.99,8429580,NA
+Brazil,bra,Amerika,1865-01-01,31.99,9098494,NA
+Brazil,bra,Amerika,1870-01-01,31.99,9841009,NA
+Brazil,bra,Amerika,1875-01-01,31.89,10782048,NA
+Brazil,bra,Amerika,1880-01-01,31.79,11836453,NA
+Brazil,bra,Amerika,1885-01-01,31.69,12994293,NA
+Brazil,bra,Amerika,1890-01-01,31.59,14310406,NA
+Brazil,bra,Amerika,1895-01-01,31.49,16066699,NA
+Brazil,bra,Amerika,1900-01-01,31.39,18063384,NA
+Brazil,bra,Amerika,1905-01-01,31.29,20116394,NA
+Brazil,bra,Amerika,1910-01-01,31.19,22368378,NA
+Brazil,bra,Amerika,1915-01-01,31.09,24858721,NA
+Brazil,bra,Amerika,1920-01-01,30.99,27603092,NA
+Brazil,bra,Amerika,1925-01-01,30.9,30562543,NA
+Brazil,bra,Amerika,1930-01-01,30.81,33825351,NA
+Brazil,bra,Amerika,1935-01-01,32.94,37434943,NA
+Brazil,bra,Amerika,1940-01-01,35.06,41583140,NA
+Brazil,bra,Amerika,1945-01-01,40.34,47247661,NA
+Brazil,bra,Amerika,1950-01-01,47.57,53974728,NA
+Brazil,bra,Amerika,1955-01-01,49.94,62533920,NA
+Brazil,bra,Amerika,1960-01-01,52.44,72179235,2634.95206
+Brazil,bra,Amerika,1965-01-01,54.83,83373533,2847.37166
+Brazil,bra,Amerika,1970-01-01,56.94,95113265,3627.26789
+Brazil,bra,Amerika,1975-01-01,59.78,107216209,5247.2306
+Brazil,bra,Amerika,1980-01-01,62.74,120694012,6437.87923
+Brazil,bra,Amerika,1985-01-01,64.61,135274083,6062.54383
+Brazil,bra,Amerika,1990-01-01,67.29,149003225,6155.87438
+Brazil,bra,Amerika,1995-01-01,69.17,162019889,6584.83353
+Brazil,bra,Amerika,2000-01-01,71.18,174790339,6787.67798
+Brazil,bra,Amerika,2005-01-01,72.81,186127108,7352.29227
+Brazil,bra,Amerika,2010-01-01,73.85,195713637,8702.26679
+Brazil,bra,Amerika,2015-01-01,75.03,204471759,8814.00142
+Brazil,bra,Amerika,2019-01-01,75.85,211049519,8638.29429
+Botswana,bwa,Afrika,1800-01-01,33.6,121000,NA
+Botswana,bwa,Afrika,1805-01-01,33.6,118721,NA
+Botswana,bwa,Afrika,1810-01-01,33.6,116486,NA
+Botswana,bwa,Afrika,1815-01-01,33.6,114292,NA
+Botswana,bwa,Afrika,1820-01-01,33.6,112139,NA
+Botswana,bwa,Afrika,1825-01-01,33.6,110027,NA
+Botswana,bwa,Afrika,1830-01-01,33.6,107954,NA
+Botswana,bwa,Afrika,1835-01-01,33.6,105921,NA
+Botswana,bwa,Afrika,1840-01-01,33.6,103926,NA
+Botswana,bwa,Afrika,1845-01-01,33.6,101968,NA
+Botswana,bwa,Afrika,1850-01-01,33.6,100884,NA
+Botswana,bwa,Afrika,1855-01-01,33.6,105176,NA
+Botswana,bwa,Afrika,1860-01-01,33.6,110559,NA
+Botswana,bwa,Afrika,1865-01-01,33.6,116216,NA
+Botswana,bwa,Afrika,1870-01-01,33.6,122163,NA
+Botswana,bwa,Afrika,1875-01-01,33.91,128415,NA
+Botswana,bwa,Afrika,1880-01-01,34.21,134986,NA
+Botswana,bwa,Afrika,1885-01-01,34.52,141894,NA
+Botswana,bwa,Afrika,1890-01-01,34.83,149155,NA
+Botswana,bwa,Afrika,1895-01-01,35.13,156787,NA
+Botswana,bwa,Afrika,1900-01-01,35.44,165444,NA
+Botswana,bwa,Afrika,1905-01-01,35.75,178784,NA
+Botswana,bwa,Afrika,1910-01-01,36.05,193799,NA
+Botswana,bwa,Afrika,1915-01-01,36.36,209336,NA
+Botswana,bwa,Afrika,1920-01-01,36.67,226800,NA
+Botswana,bwa,Afrika,1925-01-01,36.97,250866,NA
+Botswana,bwa,Afrika,1930-01-01,37.28,278218,NA
+Botswana,bwa,Afrika,1935-01-01,37.59,307599,NA
+Botswana,bwa,Afrika,1940-01-01,37.89,339716,NA
+Botswana,bwa,Afrika,1945-01-01,38.2,373799,NA
+Botswana,bwa,Afrika,1950-01-01,53.67,412541,NA
+Botswana,bwa,Afrika,1955-01-01,53.98,463353,NA
+Botswana,bwa,Afrika,1960-01-01,54.36,502733,364.20315
+Botswana,bwa,Afrika,1965-01-01,55.08,559996,444.08157
+Botswana,bwa,Afrika,1970-01-01,56.49,627714,665.29923
+Botswana,bwa,Afrika,1975-01-01,59.14,741346,1281.84205
+Botswana,bwa,Afrika,1980-01-01,60.98,897860,1883.58211
+Botswana,bwa,Afrika,1985-01-01,62.49,1069585,2544.8807
+Botswana,bwa,Afrika,1990-01-01,61.32,1286756,3691.63289
+Botswana,bwa,Afrika,1995-01-01,52.5,1469173,4042.01188
+Botswana,bwa,Afrika,2000-01-01,45.52,1643333,4654.06488
+Botswana,bwa,Afrika,2005-01-01,49.93,1799077,5078.9234
+Botswana,bwa,Afrika,2010-01-01,56.98,1987106,5746.99529
+Botswana,bwa,Afrika,2015-01-01,60.62,2120716,6799.87018
+Botswana,bwa,Afrika,2019-01-01,62.25,2303703,7232.08757
+Central African Republic,caf,Afrika,1800-01-01,30,479444,NA
+Central African Republic,caf,Afrika,1805-01-01,30,479444,NA
+Central African Republic,caf,Afrika,1810-01-01,30,479444,NA
+Central African Republic,caf,Afrika,1815-01-01,30,479444,NA
+Central African Republic,caf,Afrika,1820-01-01,30,485925,NA
+Central African Republic,caf,Afrika,1825-01-01,30,535764,NA
+Central African Republic,caf,Afrika,1830-01-01,30,598407,NA
+Central African Republic,caf,Afrika,1835-01-01,30,668375,NA
+Central African Republic,caf,Afrika,1840-01-01,30,746524,NA
+Central African Republic,caf,Afrika,1845-01-01,30,833810,NA
+Central African Republic,caf,Afrika,1850-01-01,30,919016,NA
+Central African Republic,caf,Afrika,1855-01-01,30,934003,NA
+Central African Republic,caf,Afrika,1860-01-01,30,937962,NA
+Central African Republic,caf,Afrika,1865-01-01,30,946986,NA
+Central African Republic,caf,Afrika,1870-01-01,30,957759,NA
+Central African Republic,caf,Afrika,1875-01-01,30.63,974132,NA
+Central African Republic,caf,Afrika,1880-01-01,31.27,991676,NA
+Central African Republic,caf,Afrika,1885-01-01,31.9,1009621,NA
+Central African Republic,caf,Afrika,1890-01-01,32.54,1022983,NA
+Central African Republic,caf,Afrika,1895-01-01,33.17,1005558,NA
+Central African Republic,caf,Afrika,1900-01-01,33.8,982825,NA
+Central African Republic,caf,Afrika,1905-01-01,34.44,955237,NA
+Central African Republic,caf,Afrika,1910-01-01,35.07,928145,NA
+Central African Republic,caf,Afrika,1915-01-01,35.71,905254,NA
+Central African Republic,caf,Afrika,1920-01-01,36.34,892644,NA
+Central African Republic,caf,Afrika,1925-01-01,36.97,942124,NA
+Central African Republic,caf,Afrika,1930-01-01,37.61,1004367,NA
+Central African Republic,caf,Afrika,1935-01-01,38.24,1066712,NA
+Central African Republic,caf,Afrika,1940-01-01,38.88,1135012,NA
+Central African Republic,caf,Afrika,1945-01-01,39.51,1225931,NA
+Central African Republic,caf,Afrika,1950-01-01,43.64,1326660,NA
+Central African Republic,caf,Afrika,1955-01-01,44.24,1401337,NA
+Central African Republic,caf,Afrika,1960-01-01,45.76,1501668,652.85503
+Central African Republic,caf,Afrika,1965-01-01,47.28,1639706,618.21911
+Central African Republic,caf,Afrika,1970-01-01,48.12,1811157,655.26835
+Central African Republic,caf,Afrika,1975-01-01,48.44,1958367,666.70446
+Central African Republic,caf,Afrika,1980-01-01,49.17,2199359,612.64636
+Central African Republic,caf,Afrika,1985-01-01,49.5,2542170,587.60031
+Central African Republic,caf,Afrika,1990-01-01,48.09,2806740,531.85572
+Central African Republic,caf,Afrika,1995-01-01,44.69,3222662,486.36572
+Central African Republic,caf,Afrika,2000-01-01,43.79,3640421,460.34521
+Central African Republic,caf,Afrika,2005-01-01,45.21,4038380,454.50741
+Central African Republic,caf,Afrika,2010-01-01,47.81,4386765,531.713
+Central African Republic,caf,Afrika,2015-01-01,49.67,4493171,377.42292
+Central African Republic,caf,Afrika,2019-01-01,52.35,4745179,418.31555
+Chile,chl,Amerika,1800-01-01,32,771447,NA
+Chile,chl,Amerika,1805-01-01,32,771447,NA
+Chile,chl,Amerika,1810-01-01,32,771447,NA
+Chile,chl,Amerika,1815-01-01,32,771447,NA
+Chile,chl,Amerika,1820-01-01,32,782013,NA
+Chile,chl,Amerika,1825-01-01,32,863324,NA
+Chile,chl,Amerika,1830-01-01,32,964311,NA
+Chile,chl,Amerika,1835-01-01,32,1067973,NA
+Chile,chl,Amerika,1840-01-01,32,1179467,NA
+Chile,chl,Amerika,1845-01-01,32,1290653,NA
+Chile,chl,Amerika,1850-01-01,32,1409141,NA
+Chile,chl,Amerika,1855-01-01,32,1539776,NA
+Chile,chl,Amerika,1860-01-01,32,1680513,NA
+Chile,chl,Amerika,1865-01-01,32,1829956,NA
+Chile,chl,Amerika,1870-01-01,32,1991234,NA
+Chile,chl,Amerika,1875-01-01,31.85,2161950,NA
+Chile,chl,Amerika,1880-01-01,31.7,2344886,NA
+Chile,chl,Amerika,1885-01-01,31.55,2532831,NA
+Chile,chl,Amerika,1890-01-01,31.4,2731509,NA
+Chile,chl,Amerika,1895-01-01,31.25,2928944,NA
+Chile,chl,Amerika,1900-01-01,31.1,3135464,NA
+Chile,chl,Amerika,1905-01-01,30.08,3341058,NA
+Chile,chl,Amerika,1910-01-01,30.16,3557716,NA
+Chile,chl,Amerika,1915-01-01,30.72,3789811,NA
+Chile,chl,Amerika,1920-01-01,30.35,4028859,NA
+Chile,chl,Amerika,1925-01-01,33.04,4307491,NA
+Chile,chl,Amerika,1930-01-01,35.88,4620647,NA
+Chile,chl,Amerika,1935-01-01,36.56,5020734,NA
+Chile,chl,Amerika,1940-01-01,39.28,5471694,NA
+Chile,chl,Amerika,1945-01-01,43.08,5999741,NA
+Chile,chl,Amerika,1950-01-01,50.26,6598518,NA
+Chile,chl,Amerika,1955-01-01,54.83,7322655,NA
+Chile,chl,Amerika,1960-01-01,54.2,8132988,3330.22587
+Chile,chl,Amerika,1965-01-01,58.7,8989607,3614.55316
+Chile,chl,Amerika,1970-01-01,61.99,9783134,4197.22596
+Chile,chl,Amerika,1975-01-01,66.15,10592310,3555.30326
+Chile,chl,Amerika,1980-01-01,69.44,11419350,4768.66873
+Chile,chl,Amerika,1985-01-01,71.95,12257238,4331.15743
+Chile,chl,Amerika,1990-01-01,73.43,13274617,5470.47974
+Chile,chl,Amerika,1995-01-01,75.28,14380864,7380.06128
+Chile,chl,Amerika,2000-01-01,76.93,15342350,8685.32179
+Chile,chl,Amerika,2005-01-01,77.89,16182713,10349.64301
+Chile,chl,Amerika,2010-01-01,78.61,17062531,11809.14163
+Chile,chl,Amerika,2015-01-01,79.63,17969356,13574.16924
+Chile,chl,Amerika,2019-01-01,80.16,18952035,13866.95584
+China,chn,Asia,1800-01-01,32,330000000,NA
+China,chn,Asia,1805-01-01,32,337767094,NA
+China,chn,Asia,1810-01-01,32,346787806,NA
+China,chn,Asia,1815-01-01,32,362964264,NA
+China,chn,Asia,1820-01-01,32,380427133,NA
+China,chn,Asia,1825-01-01,32,394771673,NA
+China,chn,Asia,1830-01-01,32,407449420,NA
+China,chn,Asia,1835-01-01,32,410497479,NA
+China,chn,Asia,1840-01-01,32,411819451,NA
+China,chn,Asia,1845-01-01,32,412000000,NA
+China,chn,Asia,1850-01-01,32,409821554,NA
+China,chn,Asia,1855-01-01,27,394286284,NA
+China,chn,Asia,1860-01-01,28.85,378133654,NA
+China,chn,Asia,1865-01-01,31.74,367788464,NA
+China,chn,Asia,1870-01-01,31.96,360232792,NA
+China,chn,Asia,1875-01-01,32,363629353,NA
+China,chn,Asia,1880-01-01,32,368907964,NA
+China,chn,Asia,1885-01-01,32,374909182,NA
+China,chn,Asia,1890-01-01,32,381553421,NA
+China,chn,Asia,1895-01-01,32,391160121,NA
+China,chn,Asia,1900-01-01,32,401579661,NA
+China,chn,Asia,1905-01-01,32,413000265,NA
+China,chn,Asia,1910-01-01,32,426250021,NA
+China,chn,Asia,1915-01-01,32,448998541,NA
+China,chn,Asia,1920-01-01,32,472222750,NA
+China,chn,Asia,1925-01-01,32,482775710,NA
+China,chn,Asia,1930-01-01,33.8,492097572,NA
+China,chn,Asia,1935-01-01,35.8,506141059,NA
+China,chn,Asia,1940-01-01,34.36,521116640,NA
+China,chn,Asia,1945-01-01,37,535222325,NA
+China,chn,Asia,1950-01-01,41.59,554419269,NA
+China,chn,Asia,1955-01-01,48.02,612241552,NA
+China,chn,Asia,1960-01-01,27.79,660408054,238.21663
+China,chn,Asia,1965-01-01,58.47,724218970,232.6068
+China,chn,Asia,1970-01-01,60.88,827601385,283.58486
+China,chn,Asia,1975-01-01,62.81,926240889,337.34352
+China,chn,Asia,1980-01-01,64.41,1000089228,430.85465
+China,chn,Asia,1985-01-01,66.59,1075589363,667.12736
+China,chn,Asia,1990-01-01,68.09,1176883681,905.03086
+China,chn,Asia,1995-01-01,69.75,1240920539,1520.02678
+China,chn,Asia,2000-01-01,71.33,1290550767,2193.89299
+China,chn,Asia,2005-01-01,72.98,1330776380,3390.71017
+China,chn,Asia,2010-01-01,74.92,1368810604,5647.05875
+China,chn,Asia,2015-01-01,76.77,1406847868,8066.94263
+China,chn,Asia,2019-01-01,77.59,1433783692,10228.29281
+Cote d'Ivoire,civ,Afrika,1800-01-01,31.16,1088530,NA
+Cote d'Ivoire,civ,Afrika,1805-01-01,31.16,1088530,NA
+Cote d'Ivoire,civ,Afrika,1810-01-01,31.16,1088530,NA
+Cote d'Ivoire,civ,Afrika,1815-01-01,31.16,1088530,NA
+Cote d'Ivoire,civ,Afrika,1820-01-01,31.16,1087409,NA
+Cote d'Ivoire,civ,Afrika,1825-01-01,31.16,1079219,NA
+Cote d'Ivoire,civ,Afrika,1830-01-01,31.16,1069985,NA
+Cote d'Ivoire,civ,Afrika,1835-01-01,31.16,1060830,NA
+Cote d'Ivoire,civ,Afrika,1840-01-01,31.16,1051753,NA
+Cote d'Ivoire,civ,Afrika,1845-01-01,31.16,1042754,NA
+Cote d'Ivoire,civ,Afrika,1850-01-01,31.16,1039249,NA
+Cote d'Ivoire,civ,Afrika,1855-01-01,31.16,1073643,NA
+Cote d'Ivoire,civ,Afrika,1860-01-01,31.16,1114256,NA
+Cote d'Ivoire,civ,Afrika,1865-01-01,31.16,1152038,NA
+Cote d'Ivoire,civ,Afrika,1870-01-01,31.16,1191107,NA
+Cote d'Ivoire,civ,Afrika,1875-01-01,31.82,1236150,NA
+Cote d'Ivoire,civ,Afrika,1880-01-01,32.49,1282095,NA
+Cote d'Ivoire,civ,Afrika,1885-01-01,33.15,1319732,NA
+Cote d'Ivoire,civ,Afrika,1890-01-01,33.82,1358494,NA
+Cote d'Ivoire,civ,Afrika,1895-01-01,34.48,1408989,NA
+Cote d'Ivoire,civ,Afrika,1900-01-01,35.15,1460433,NA
+Cote d'Ivoire,civ,Afrika,1905-01-01,35.81,1496682,NA
+Cote d'Ivoire,civ,Afrika,1910-01-01,36.48,1532941,NA
+Cote d'Ivoire,civ,Afrika,1915-01-01,37.14,1581988,NA
+Cote d'Ivoire,civ,Afrika,1920-01-01,37.81,1640696,NA
+Cote d'Ivoire,civ,Afrika,1925-01-01,38.47,1758263,NA
+Cote d'Ivoire,civ,Afrika,1930-01-01,39.14,1893001,NA
+Cote d'Ivoire,civ,Afrika,1935-01-01,39.8,2030446,NA
+Cote d'Ivoire,civ,Afrika,1940-01-01,40.47,2181892,NA
+Cote d'Ivoire,civ,Afrika,1945-01-01,41.13,2379986,NA
+Cote d'Ivoire,civ,Afrika,1950-01-01,41.8,2630131,NA
+Cote d'Ivoire,civ,Afrika,1955-01-01,43.1,3004421,NA
+Cote d'Ivoire,civ,Afrika,1960-01-01,45.61,3503559,1651.55674
+Cote d'Ivoire,civ,Afrika,1965-01-01,48.35,4226843,1987.5339
+Cote d'Ivoire,civ,Afrika,1970-01-01,50.93,5102070,2614.95105
+Cote d'Ivoire,civ,Afrika,1975-01-01,53.98,6412409,2840.17875
+Cote d'Ivoire,civ,Afrika,1980-01-01,56.72,8033652,2777.85975
+Cote d'Ivoire,civ,Afrika,1985-01-01,57.38,9918204,2280.10531
+Cote d'Ivoire,civ,Afrika,1990-01-01,55.74,11924873,2009.48786
+Cote d'Ivoire,civ,Afrika,1995-01-01,51.7,14199759,1815.25804
+Cote d'Ivoire,civ,Afrika,2000-01-01,51.13,16454660,1828.18212
+Cote d'Ivoire,civ,Afrika,2005-01-01,53.46,18354513,1638.97517
+Cote d'Ivoire,civ,Afrika,2010-01-01,57.39,20532944,1634.83235
+Cote d'Ivoire,civ,Afrika,2015-01-01,61.07,23226148,1972.54568
+Cote d'Ivoire,civ,Afrika,2019-01-01,64.25,25716554,2327.74536
+Cameroon,cmr,Afrika,1800-01-01,28.75,1860054,NA
+Cameroon,cmr,Afrika,1805-01-01,28.75,1860054,NA
+Cameroon,cmr,Afrika,1810-01-01,28.75,1860054,NA
+Cameroon,cmr,Afrika,1815-01-01,28.75,1860054,NA
+Cameroon,cmr,Afrika,1820-01-01,28.75,1875001,NA
+Cameroon,cmr,Afrika,1825-01-01,28.75,1987757,NA
+Cameroon,cmr,Afrika,1830-01-01,28.75,2123855,NA
+Cameroon,cmr,Afrika,1835-01-01,28.75,2269272,NA
+Cameroon,cmr,Afrika,1840-01-01,28.75,2424644,NA
+Cameroon,cmr,Afrika,1845-01-01,28.75,2590655,NA
+Cameroon,cmr,Afrika,1850-01-01,28.75,2753631,NA
+Cameroon,cmr,Afrika,1855-01-01,28.75,2825549,NA
+Cameroon,cmr,Afrika,1860-01-01,28.75,2885279,NA
+Cameroon,cmr,Afrika,1865-01-01,28.75,2950095,NA
+Cameroon,cmr,Afrika,1870-01-01,28.75,3018811,NA
+Cameroon,cmr,Afrika,1875-01-01,28.96,3101025,NA
+Cameroon,cmr,Afrika,1880-01-01,29.18,3187408,NA
+Cameroon,cmr,Afrika,1885-01-01,29.39,3276406,NA
+Cameroon,cmr,Afrika,1890-01-01,29.61,3347715,NA
+Cameroon,cmr,Afrika,1895-01-01,29.82,3293498,NA
+Cameroon,cmr,Afrika,1900-01-01,30.04,3211832,NA
+Cameroon,cmr,Afrika,1905-01-01,30.25,3076966,NA
+Cameroon,cmr,Afrika,1910-01-01,30.47,2946799,NA
+Cameroon,cmr,Afrika,1915-01-01,30.68,2868146,NA
+Cameroon,cmr,Afrika,1920-01-01,30.89,2833331,NA
+Cameroon,cmr,Afrika,1925-01-01,31.11,2995435,NA
+Cameroon,cmr,Afrika,1930-01-01,31.32,3199070,NA
+Cameroon,cmr,Afrika,1935-01-01,31.54,3411351,NA
+Cameroon,cmr,Afrika,1940-01-01,31.75,3645698,NA
+Cameroon,cmr,Afrika,1945-01-01,31.97,3955100,NA
+Cameroon,cmr,Afrika,1950-01-01,42.39,4307021,NA
+Cameroon,cmr,Afrika,1955-01-01,45.06,4707000,NA
+Cameroon,cmr,Afrika,1960-01-01,27.54,5176920,881.39201
+Cameroon,cmr,Afrika,1965-01-01,49.55,5773538,903.08292
+Cameroon,cmr,Afrika,1970-01-01,51.54,6519754,857.19664
+Cameroon,cmr,Afrika,1975-01-01,53.56,7451057,1034.25946
+Cameroon,cmr,Afrika,1980-01-01,55.39,8621409,1218.52976
+Cameroon,cmr,Afrika,1985-01-01,57.71,10070806,1629.83284
+Cameroon,cmr,Afrika,1990-01-01,58.43,11780086,1237.01876
+Cameroon,cmr,Afrika,1995-01-01,56.64,13599984,971.61872
+Cameroon,cmr,Afrika,2000-01-01,54.47,15513944,1055.69096
+Cameroon,cmr,Afrika,2005-01-01,54.99,17733408,1144.54977
+Cameroon,cmr,Afrika,2010-01-01,57.7,20341236,1184.54204
+Cameroon,cmr,Afrika,2015-01-01,60.05,23298376,1327.50256
+Cameroon,cmr,Afrika,2019-01-01,63.35,25876387,1397.96492
+"Congo, Dem. Rep.",cod,Afrika,1800-01-01,31.6,5163819,NA
+"Congo, Dem. Rep.",cod,Afrika,1805-01-01,31.6,5163819,NA
+"Congo, Dem. Rep.",cod,Afrika,1810-01-01,31.6,5163819,NA
+"Congo, Dem. Rep.",cod,Afrika,1815-01-01,31.6,5163819,NA
+"Congo, Dem. Rep.",cod,Afrika,1820-01-01,31.6,5212490,NA
+"Congo, Dem. Rep.",cod,Afrika,1825-01-01,31.6,5581464,NA
+"Congo, Dem. Rep.",cod,Afrika,1830-01-01,31.6,6031436,NA
+"Congo, Dem. Rep.",cod,Afrika,1835-01-01,31.6,6517686,NA
+"Congo, Dem. Rep.",cod,Afrika,1840-01-01,31.6,7043136,NA
+"Congo, Dem. Rep.",cod,Afrika,1845-01-01,31.6,7610947,NA
+"Congo, Dem. Rep.",cod,Afrika,1850-01-01,31.6,8149850,NA
+"Congo, Dem. Rep.",cod,Afrika,1855-01-01,31.6,8242969,NA
+"Congo, Dem. Rep.",cod,Afrika,1860-01-01,31.6,8292193,NA
+"Congo, Dem. Rep.",cod,Afrika,1865-01-01,31.6,8526687,NA
+"Congo, Dem. Rep.",cod,Afrika,1870-01-01,31.6,8804793,NA
+"Congo, Dem. Rep.",cod,Afrika,1875-01-01,31.96,9136134,NA
+"Congo, Dem. Rep.",cod,Afrika,1880-01-01,32.32,9469459,NA
+"Congo, Dem. Rep.",cod,Afrika,1885-01-01,32.68,9701143,NA
+"Congo, Dem. Rep.",cod,Afrika,1890-01-01,33.04,9862646,NA
+"Congo, Dem. Rep.",cod,Afrika,1895-01-01,33.4,9664176,NA
+"Congo, Dem. Rep.",cod,Afrika,1900-01-01,33.76,9387257,NA
+"Congo, Dem. Rep.",cod,Afrika,1905-01-01,34.12,8950435,NA
+"Congo, Dem. Rep.",cod,Afrika,1910-01-01,34.48,8529434,NA
+"Congo, Dem. Rep.",cod,Afrika,1915-01-01,34.84,8257186,NA
+"Congo, Dem. Rep.",cod,Afrika,1920-01-01,35.2,8107688,NA
+"Congo, Dem. Rep.",cod,Afrika,1925-01-01,35.56,8560676,NA
+"Congo, Dem. Rep.",cod,Afrika,1930-01-01,35.92,9136100,NA
+"Congo, Dem. Rep.",cod,Afrika,1935-01-01,36.28,9713831,NA
+"Congo, Dem. Rep.",cod,Afrika,1940-01-01,36.65,10347156,NA
+"Congo, Dem. Rep.",cod,Afrika,1945-01-01,40.95,11188420,NA
+"Congo, Dem. Rep.",cod,Afrika,1950-01-01,45.34,12183662,NA
+"Congo, Dem. Rep.",cod,Afrika,1955-01-01,46.52,13517516,NA
+"Congo, Dem. Rep.",cod,Afrika,1960-01-01,47.55,15248256,1257.0625
+"Congo, Dem. Rep.",cod,Afrika,1965-01-01,48.26,17369882,1236.1017
+"Congo, Dem. Rep.",cod,Afrika,1970-01-01,49.62,20011033,1290.74504
+"Congo, Dem. Rep.",cod,Afrika,1975-01-01,50.87,22903587,1268.70091
+"Congo, Dem. Rep.",cod,Afrika,1980-01-01,52.13,26358905,1021.81202
+"Congo, Dem. Rep.",cod,Afrika,1985-01-01,53.67,29881222,987.49422
+"Congo, Dem. Rep.",cod,Afrika,1990-01-01,54.27,34612023,849.55242
+"Congo, Dem. Rep.",cod,Afrika,1995-01-01,53.64,41576239,485.41696
+"Congo, Dem. Rep.",cod,Afrika,2000-01-01,53.93,47105830,350.87077
+"Congo, Dem. Rep.",cod,Afrika,2005-01-01,56.14,54785894,363.66748
+"Congo, Dem. Rep.",cod,Afrika,2010-01-01,58.78,64563853,404.15154
+"Congo, Dem. Rep.",cod,Afrika,2015-01-01,62.65,76244532,497.31704
+"Congo, Dem. Rep.",cod,Afrika,2019-01-01,65.05,86790568,512.58622
+"Congo, Rep.",cog,Afrika,1800-01-01,32.7,314465,NA
+"Congo, Rep.",cog,Afrika,1805-01-01,32.7,314465,NA
+"Congo, Rep.",cog,Afrika,1810-01-01,32.7,314465,NA
+"Congo, Rep.",cog,Afrika,1815-01-01,32.7,314465,NA
+"Congo, Rep.",cog,Afrika,1820-01-01,32.7,317518,NA
+"Congo, Rep.",cog,Afrika,1825-01-01,32.7,340682,NA
+"Congo, Rep.",cog,Afrika,1830-01-01,32.7,368990,NA
+"Congo, Rep.",cog,Afrika,1835-01-01,32.7,399651,NA
+"Congo, Rep.",cog,Afrika,1840-01-01,32.7,432859,NA
+"Congo, Rep.",cog,Afrika,1845-01-01,32.7,468826,NA
+"Congo, Rep.",cog,Afrika,1850-01-01,32.7,502855,NA
+"Congo, Rep.",cog,Afrika,1855-01-01,32.7,508453,NA
+"Congo, Rep.",cog,Afrika,1860-01-01,32.7,511089,NA
+"Congo, Rep.",cog,Afrika,1865-01-01,32.7,525557,NA
+"Congo, Rep.",cog,Afrika,1870-01-01,32.7,543016,NA
+"Congo, Rep.",cog,Afrika,1875-01-01,32.72,565306,NA
+"Congo, Rep.",cog,Afrika,1880-01-01,32.74,588847,NA
+"Congo, Rep.",cog,Afrika,1885-01-01,32.76,611057,NA
+"Congo, Rep.",cog,Afrika,1890-01-01,32.78,629166,NA
+"Congo, Rep.",cog,Afrika,1895-01-01,32.8,618992,NA
+"Congo, Rep.",cog,Afrika,1900-01-01,32.83,602804,NA
+"Congo, Rep.",cog,Afrika,1905-01-01,32.85,575912,NA
+"Congo, Rep.",cog,Afrika,1910-01-01,32.87,549844,NA
+"Congo, Rep.",cog,Afrika,1915-01-01,32.89,533063,NA
+"Congo, Rep.",cog,Afrika,1920-01-01,32.91,524122,NA
+"Congo, Rep.",cog,Afrika,1925-01-01,32.93,557685,NA
+"Congo, Rep.",cog,Afrika,1930-01-01,32.95,600421,NA
+"Congo, Rep.",cog,Afrika,1935-01-01,32.97,644016,NA
+"Congo, Rep.",cog,Afrika,1940-01-01,32.99,692052,NA
+"Congo, Rep.",cog,Afrika,1945-01-01,33.01,754883,NA
+"Congo, Rep.",cog,Afrika,1950-01-01,42.05,827246,NA
+"Congo, Rep.",cog,Afrika,1955-01-01,42.5,911033,NA
+"Congo, Rep.",cog,Afrika,1960-01-01,43.74,1018254,1231.08274
+"Congo, Rep.",cog,Afrika,1965-01-01,45.4,1155389,1277.49355
+"Congo, Rep.",cog,Afrika,1970-01-01,47.23,1326894,1417.50024
+"Congo, Rep.",cog,Afrika,1975-01-01,49.71,1536658,1802.06461
+"Congo, Rep.",cog,Afrika,1980-01-01,52.75,1777932,1966.21823
+"Congo, Rep.",cog,Afrika,1985-01-01,55.58,2054308,2768.12582
+"Congo, Rep.",cog,Afrika,1990-01-01,53.97,2356740,2374.44742
+"Congo, Rep.",cog,Afrika,1995-01-01,52.32,2707532,2113.19155
+"Congo, Rep.",cog,Afrika,2000-01-01,53.05,3127420,2061.28727
+"Congo, Rep.",cog,Afrika,2005-01-01,56.99,3622775,2171.44314
+"Congo, Rep.",cog,Afrika,2010-01-01,60.87,4273738,2421.70903
+"Congo, Rep.",cog,Afrika,2015-01-01,63.52,4856093,2447.53931
+"Congo, Rep.",cog,Afrika,2019-01-01,65.43,5380504,1799.06647
+Colombia,col,Amerika,1800-01-01,32,1206000,NA
+Colombia,col,Amerika,1805-01-01,32,1206000,NA
+Colombia,col,Amerika,1810-01-01,32,1206000,NA
+Colombia,col,Amerika,1815-01-01,32,1206000,NA
+Colombia,col,Amerika,1820-01-01,32,1230935,NA
+Colombia,col,Amerika,1825-01-01,32,1427545,NA
+Colombia,col,Amerika,1830-01-01,32,1666969,NA
+Colombia,col,Amerika,1835-01-01,32,1805148,NA
+Colombia,col,Amerika,1840-01-01,32,1924150,NA
+Colombia,col,Amerika,1845-01-01,32,1997482,NA
+Colombia,col,Amerika,1850-01-01,32,2090483,NA
+Colombia,col,Amerika,1855-01-01,32,2365147,NA
+Colombia,col,Amerika,1860-01-01,32,2643758,NA
+Colombia,col,Amerika,1865-01-01,32,2554537,NA
+Colombia,col,Amerika,1870-01-01,32,2454190,NA
+Colombia,col,Amerika,1875-01-01,32.24,2633399,NA
+Colombia,col,Amerika,1880-01-01,32.47,2874649,NA
+Colombia,col,Amerika,1885-01-01,32.71,3137987,NA
+Colombia,col,Amerika,1890-01-01,32.94,3425421,NA
+Colombia,col,Amerika,1895-01-01,33.18,3739077,NA
+Colombia,col,Amerika,1900-01-01,33.41,4089052,NA
+Colombia,col,Amerika,1905-01-01,33.65,4523427,NA
+Colombia,col,Amerika,1910-01-01,33.89,5024586,NA
+Colombia,col,Amerika,1915-01-01,34.12,5662563,NA
+Colombia,col,Amerika,1920-01-01,34.36,6388898,NA
+Colombia,col,Amerika,1925-01-01,34.59,7209577,NA
+Colombia,col,Amerika,1930-01-01,34.83,8089358,NA
+Colombia,col,Amerika,1935-01-01,38.22,8757477,NA
+Colombia,col,Amerika,1940-01-01,42.31,9479203,NA
+Colombia,col,Amerika,1945-01-01,47.69,10602215,NA
+Colombia,col,Amerika,1950-01-01,54.09,11981576,NA
+Colombia,col,Amerika,1955-01-01,57.49,13774999,NA
+Colombia,col,Amerika,1960-01-01,59.26,16057714,1906.01503
+Colombia,col,Amerika,1965-01-01,61.58,18725242,2056.95077
+Colombia,col,Amerika,1970-01-01,65.93,21480064,2345.81162
+Colombia,col,Amerika,1975-01-01,66.27,24065502,2758.45007
+Colombia,col,Amerika,1980-01-01,68.92,26900508,3202.7307
+Colombia,col,Amerika,1985-01-01,67.21,29951194,3214.60824
+Colombia,col,Amerika,1990-01-01,71.45,33102569,3639.71922
+Colombia,col,Amerika,1995-01-01,72.55,36421438,4118.62803
+Colombia,col,Amerika,2000-01-01,74.23,39629965,3961.92972
+Colombia,col,Amerika,2005-01-01,76.52,42647731,4402.89908
+Colombia,col,Amerika,2010-01-01,77.89,45222699,5162.70564
+Colombia,col,Amerika,2015-01-01,79.69,47520667,6175.87603
+Colombia,col,Amerika,2019-01-01,80.19,50339443,6390.36806
+Costa Rica,cri,Amerika,1800-01-01,30.21,53000,NA
+Costa Rica,cri,Amerika,1805-01-01,30.21,55340,NA
+Costa Rica,cri,Amerika,1810-01-01,30.21,57788,NA
+Costa Rica,cri,Amerika,1815-01-01,30.21,60340,NA
+Costa Rica,cri,Amerika,1820-01-01,30.21,63498,NA
+Costa Rica,cri,Amerika,1825-01-01,30.21,70132,NA
+Costa Rica,cri,Amerika,1830-01-01,30.21,77905,NA
+Costa Rica,cri,Amerika,1835-01-01,30.21,85657,NA
+Costa Rica,cri,Amerika,1840-01-01,30.21,93371,NA
+Costa Rica,cri,Amerika,1845-01-01,30.21,97442,NA
+Costa Rica,cri,Amerika,1850-01-01,30.21,101627,NA
+Costa Rica,cri,Amerika,1855-01-01,30.21,110843,NA
+Costa Rica,cri,Amerika,1860-01-01,30.21,121306,NA
+Costa Rica,cri,Amerika,1865-01-01,30.21,130755,NA
+Costa Rica,cri,Amerika,1870-01-01,30.21,141928,NA
+Costa Rica,cri,Amerika,1875-01-01,30.26,163195,NA
+Costa Rica,cri,Amerika,1880-01-01,30.3,189347,NA
+Costa Rica,cri,Amerika,1885-01-01,30.35,220101,NA
+Costa Rica,cri,Amerika,1890-01-01,30.8,254502,NA
+Costa Rica,cri,Amerika,1895-01-01,32.91,284558,NA
+Costa Rica,cri,Amerika,1900-01-01,35.03,316531,NA
+Costa Rica,cri,Amerika,1905-01-01,35.28,352085,NA
+Costa Rica,cri,Amerika,1910-01-01,35.54,390292,NA
+Costa Rica,cri,Amerika,1915-01-01,35.6,423715,NA
+Costa Rica,cri,Amerika,1920-01-01,35.65,457669,NA
+Costa Rica,cri,Amerika,1925-01-01,39.32,498528,NA
+Costa Rica,cri,Amerika,1930-01-01,43,545312,NA
+Costa Rica,cri,Amerika,1935-01-01,45.46,605801,NA
+Costa Rica,cri,Amerika,1940-01-01,47.93,679682,NA
+Costa Rica,cri,Amerika,1945-01-01,52.72,798246,NA
+Costa Rica,cri,Amerika,1950-01-01,57.53,945683,NA
+Costa Rica,cri,Amerika,1955-01-01,61.93,1110088,NA
+Costa Rica,cri,Amerika,1960-01-01,65.35,1330787,3600.48303
+Costa Rica,cri,Amerika,1965-01-01,65.49,1592834,3874.08983
+Costa Rica,cri,Amerika,1970-01-01,67.04,1847394,4643.79056
+Costa Rica,cri,Amerika,1975-01-01,71.6,2094186,5492.30719
+Costa Rica,cri,Amerika,1980-01-01,74.68,2389973,6213.54496
+Costa Rica,cri,Amerika,1985-01-01,75.71,2736719,5503.2218
+Costa Rica,cri,Amerika,1990-01-01,76.94,3119436,6041.44391
+Costa Rica,cri,Amerika,1995-01-01,76.53,3545524,6920.57904
+Costa Rica,cri,Amerika,2000-01-01,77.9,3962369,7678.49155
+Costa Rica,cri,Amerika,2005-01-01,79.44,4285504,8606.3337
+Costa Rica,cri,Amerika,2010-01-01,79.51,4577371,10236.98032
+Costa Rica,cri,Amerika,2015-01-01,80.2,4847805,11642.77805
+Costa Rica,cri,Amerika,2019-01-01,80.07,5047561,12654.68652
+Denmark,dnk,Europa,1800-01-01,37.41,1000000,NA
+Denmark,dnk,Europa,1805-01-01,43.02,1036682,NA
+Denmark,dnk,Europa,1810-01-01,41.71,1074765,NA
+Denmark,dnk,Europa,1815-01-01,42.67,1114189,NA
+Denmark,dnk,Europa,1820-01-01,43.14,1156833,NA
+Denmark,dnk,Europa,1825-01-01,43.14,1212680,NA
+Denmark,dnk,Europa,1830-01-01,34.11,1270537,NA
+Denmark,dnk,Europa,1835-01-01,38.35,1314383,NA
+Denmark,dnk,Europa,1840-01-01,41.06,1359996,NA
+Denmark,dnk,Europa,1845-01-01,43.35,1426375,NA
+Denmark,dnk,Europa,1850-01-01,43.5,1501343,NA
+Denmark,dnk,Europa,1855-01-01,46.18,1594892,NA
+Denmark,dnk,Europa,1860-01-01,45.11,1694977,NA
+Denmark,dnk,Europa,1865-01-01,39.85,1790269,NA
+Denmark,dnk,Europa,1870-01-01,46.06,1887969,NA
+Denmark,dnk,Europa,1875-01-01,44.52,1983514,NA
+Denmark,dnk,Europa,1880-01-01,44.89,2082691,NA
+Denmark,dnk,Europa,1885-01-01,49.73,2186925,NA
+Denmark,dnk,Europa,1890-01-01,47.35,2298166,NA
+Denmark,dnk,Europa,1895-01-01,51,2426705,NA
+Denmark,dnk,Europa,1900-01-01,52.04,2565597,NA
+Denmark,dnk,Europa,1905-01-01,54.52,2720683,NA
+Denmark,dnk,Europa,1910-01-01,58.22,2886432,NA
+Denmark,dnk,Europa,1915-01-01,58.61,3061836,NA
+Denmark,dnk,Europa,1920-01-01,57.72,3241807,NA
+Denmark,dnk,Europa,1925-01-01,62.16,3394327,NA
+Denmark,dnk,Europa,1930-01-01,62.53,3545784,NA
+Denmark,dnk,Europa,1935-01-01,63.16,3690224,NA
+Denmark,dnk,Europa,1940-01-01,66.54,3845283,NA
+Denmark,dnk,Europa,1945-01-01,66.38,4052448,NA
+Denmark,dnk,Europa,1950-01-01,70.66,4268281,NA
+Denmark,dnk,Europa,1955-01-01,72.1,4440779,NA
+Denmark,dnk,Europa,1960-01-01,72.51,4581099,18107.37593
+Denmark,dnk,Europa,1965-01-01,72.66,4760461,22519.81153
+Denmark,dnk,Europa,1970-01-01,73.57,4931239,26927.95904
+Denmark,dnk,Europa,1975-01-01,74.24,5062731,28480.35548
+Denmark,dnk,Europa,1980-01-01,74.39,5123945,32073.64132
+Denmark,dnk,Europa,1985-01-01,74.82,5114250,36783.94104
+Denmark,dnk,Europa,1990-01-01,75.23,5141117,39295.24344
+Denmark,dnk,Europa,1995-01-01,75.6,5232709,43310.25009
+Denmark,dnk,Europa,2000-01-01,77.16,5341192,49241.928
+Denmark,dnk,Europa,2005-01-01,78.34,5421701,51835.83271
+Denmark,dnk,Europa,2010-01-01,79.52,5554849,51173.46616
+Denmark,dnk,Europa,2015-01-01,80.99,5688695,53254.85637
+Denmark,dnk,Europa,2019-01-01,81.13,5771877,57553.13124
+Dominican Republic,dom,Amerika,1800-01-01,29.9,150000,NA
+Dominican Republic,dom,Amerika,1805-01-01,29.9,131649,NA
+Dominican Republic,dom,Amerika,1810-01-01,29.9,115621,NA
+Dominican Republic,dom,Amerika,1815-01-01,29.9,101475,NA
+Dominican Republic,dom,Amerika,1820-01-01,29.9,91318,NA
+Dominican Republic,dom,Amerika,1825-01-01,29.9,96680,NA
+Dominican Republic,dom,Amerika,1830-01-01,29.9,104994,NA
+Dominican Republic,dom,Amerika,1835-01-01,29.9,114022,NA
+Dominican Republic,dom,Amerika,1840-01-01,29.9,123827,NA
+Dominican Republic,dom,Amerika,1845-01-01,29.9,134476,NA
+Dominican Republic,dom,Amerika,1850-01-01,29.9,146835,NA
+Dominican Republic,dom,Amerika,1855-01-01,29.9,165831,NA
+Dominican Republic,dom,Amerika,1860-01-01,29.9,188236,NA
+Dominican Republic,dom,Amerika,1865-01-01,29.9,213668,NA
+Dominican Republic,dom,Amerika,1870-01-01,29.9,242522,NA
+Dominican Republic,dom,Amerika,1875-01-01,30.4,275176,NA
+Dominican Republic,dom,Amerika,1880-01-01,30.9,312209,NA
+Dominican Republic,dom,Amerika,1885-01-01,31.41,354227,NA
+Dominican Republic,dom,Amerika,1890-01-01,31.91,401900,NA
+Dominican Republic,dom,Amerika,1895-01-01,32.41,455988,NA
+Dominican Republic,dom,Amerika,1900-01-01,32.91,518585,NA
+Dominican Republic,dom,Amerika,1905-01-01,33.41,598328,NA
+Dominican Republic,dom,Amerika,1910-01-01,33.92,689896,NA
+Dominican Republic,dom,Amerika,1915-01-01,34.42,782108,NA
+Dominican Republic,dom,Amerika,1920-01-01,34.92,890408,NA
+Dominican Republic,dom,Amerika,1925-01-01,35.42,1057616,NA
+Dominican Republic,dom,Amerika,1930-01-01,35.92,1258671,NA
+Dominican Republic,dom,Amerika,1935-01-01,36.43,1458870,NA
+Dominican Republic,dom,Amerika,1940-01-01,42.86,1689881,NA
+Dominican Republic,dom,Amerika,1945-01-01,49.46,1997444,NA
+Dominican Republic,dom,Amerika,1950-01-01,56.21,2364649,NA
+Dominican Republic,dom,Amerika,1955-01-01,60.36,2781338,NA
+Dominican Republic,dom,Amerika,1960-01-01,61.92,3294222,1375.41365
+Dominican Republic,dom,Amerika,1965-01-01,61.62,3877768,1329.50271
+Dominican Republic,dom,Amerika,1970-01-01,64.88,4499722,1765.25203
+Dominican Republic,dom,Amerika,1975-01-01,67.18,5144632,2378.93835
+Dominican Republic,dom,Amerika,1980-01-01,69.25,5803929,2723.65305
+Dominican Republic,dom,Amerika,1985-01-01,70.24,6464229,2689.12456
+Dominican Republic,dom,Amerika,1990-01-01,71.97,7133491,2801.05843
+Dominican Republic,dom,Amerika,1995-01-01,73.71,7819239,3340.04393
+Dominican Republic,dom,Amerika,2000-01-01,73.66,8471317,4209.41187
+Dominican Republic,dom,Amerika,2005-01-01,72.56,9097262,4647.03787
+Dominican Republic,dom,Amerika,2010-01-01,73.5,9695117,5771.91842
+Dominican Republic,dom,Amerika,2015-01-01,72,10281675,6921.52059
+Dominican Republic,dom,Amerika,2019-01-01,73.19,10738957,8314.34482
+Algeria,dza,Afrika,1800-01-01,28.82,2500000,NA
+Algeria,dza,Afrika,1805-01-01,28.82,2545967,NA
+Algeria,dza,Afrika,1810-01-01,28.82,2592813,NA
+Algeria,dza,Afrika,1815-01-01,28.82,2640486,NA
+Algeria,dza,Afrika,1820-01-01,28.82,2686052,NA
+Algeria,dza,Afrika,1825-01-01,28.82,2713360,NA
+Algeria,dza,Afrika,1830-01-01,28.82,2737931,NA
+Algeria,dza,Afrika,1835-01-01,28.82,2762725,NA
+Algeria,dza,Afrika,1840-01-01,28.82,2787744,NA
+Algeria,dza,Afrika,1845-01-01,28.82,2812989,NA
+Algeria,dza,Afrika,1850-01-01,15,2852648,NA
+Algeria,dza,Afrika,1855-01-01,28.82,2983114,NA
+Algeria,dza,Afrika,1860-01-01,28.82,3134829,NA
+Algeria,dza,Afrika,1865-01-01,28.82,3294259,NA
+Algeria,dza,Afrika,1870-01-01,22,3461795,NA
+Algeria,dza,Afrika,1875-01-01,29.38,3637850,NA
+Algeria,dza,Afrika,1880-01-01,29.94,3822857,NA
+Algeria,dza,Afrika,1885-01-01,30.5,4017272,NA
+Algeria,dza,Afrika,1890-01-01,31.05,4220676,NA
+Algeria,dza,Afrika,1895-01-01,31.61,4428517,NA
+Algeria,dza,Afrika,1900-01-01,32.21,4664019,NA
+Algeria,dza,Afrika,1905-01-01,30.31,5034093,NA
+Algeria,dza,Afrika,1910-01-01,35.55,5417110,NA
+Algeria,dza,Afrika,1915-01-01,33.65,5588466,NA
+Algeria,dza,Afrika,1920-01-01,32.82,5750516,NA
+Algeria,dza,Afrika,1925-01-01,38.37,6054766,NA
+Algeria,dza,Afrika,1930-01-01,38.36,6423262,NA
+Algeria,dza,Afrika,1935-01-01,40.79,6985082,NA
+Algeria,dza,Afrika,1940-01-01,42.85,7612711,NA
+Algeria,dza,Afrika,1945-01-01,38.7,8214538,NA
+Algeria,dza,Afrika,1950-01-01,55.12,8872250,NA
+Algeria,dza,Afrika,1955-01-01,53.07,9774280,NA
+Algeria,dza,Afrika,1960-01-01,52.38,11057864,2170.31134
+Algeria,dza,Afrika,1965-01-01,56.8,12550880,2003.19159
+Algeria,dza,Afrika,1970-01-01,56.23,14464992,2368.57316
+Algeria,dza,Afrika,1975-01-01,56.87,16607706,2732.32263
+Algeria,dza,Afrika,1980-01-01,58.73,19221659,3186.43514
+Algeria,dza,Afrika,1985-01-01,64.7,22431507,3453.81941
+Algeria,dza,Afrika,1990-01-01,67.48,25758872,3123.99568
+Algeria,dza,Afrika,1995-01-01,69.04,28757788,2834.2634
+Algeria,dza,Afrika,2000-01-01,70.96,31042238,3111.1742
+Algeria,dza,Afrika,2005-01-01,72.94,33149720,3752.09378
+Algeria,dza,Afrika,2010-01-01,74.48,35977451,3918.48393
+Algeria,dza,Afrika,2015-01-01,75.44,39728020,4177.88689
+Algeria,dza,Afrika,2019-01-01,76.2,43053054,4111.30619
+Ecuador,ecu,Amerika,1800-01-01,32.9,500000,NA
+Ecuador,ecu,Amerika,1805-01-01,32.9,500000,NA
+Ecuador,ecu,Amerika,1810-01-01,32.9,500000,NA
+Ecuador,ecu,Amerika,1815-01-01,32.9,500000,NA
+Ecuador,ecu,Amerika,1820-01-01,32.9,504965,NA
+Ecuador,ecu,Amerika,1825-01-01,32.9,542674,NA
+Ecuador,ecu,Amerika,1830-01-01,32.9,588833,NA
+Ecuador,ecu,Amerika,1835-01-01,32.9,638919,NA
+Ecuador,ecu,Amerika,1840-01-01,32.9,693265,NA
+Ecuador,ecu,Amerika,1845-01-01,32.9,752233,NA
+Ecuador,ecu,Amerika,1850-01-01,32.9,813456,NA
+Ecuador,ecu,Amerika,1855-01-01,32.9,863454,NA
+Ecuador,ecu,Amerika,1860-01-01,32.9,913555,NA
+Ecuador,ecu,Amerika,1865-01-01,32.9,966558,NA
+Ecuador,ecu,Amerika,1870-01-01,32.9,1022614,NA
+Ecuador,ecu,Amerika,1875-01-01,33.03,1081801,NA
+Ecuador,ecu,Amerika,1880-01-01,33.16,1144389,NA
+Ecuador,ecu,Amerika,1885-01-01,33.29,1210592,NA
+Ecuador,ecu,Amerika,1890-01-01,33.42,1280617,NA
+Ecuador,ecu,Amerika,1895-01-01,33.55,1354686,NA
+Ecuador,ecu,Amerika,1900-01-01,33.68,1436214,NA
+Ecuador,ecu,Amerika,1905-01-01,33.81,1543765,NA
+Ecuador,ecu,Amerika,1910-01-01,33.94,1658572,NA
+Ecuador,ecu,Amerika,1915-01-01,34.07,1753402,NA
+Ecuador,ecu,Amerika,1920-01-01,34.2,1844347,NA
+Ecuador,ecu,Amerika,1925-01-01,34.33,1924221,NA
+Ecuador,ecu,Amerika,1930-01-01,34.46,2024480,NA
+Ecuador,ecu,Amerika,1935-01-01,34.59,2259649,NA
+Ecuador,ecu,Amerika,1940-01-01,36.1,2556906,NA
+Ecuador,ecu,Amerika,1945-01-01,43.16,2976341,NA
+Ecuador,ecu,Amerika,1950-01-01,50.27,3470160,NA
+Ecuador,ecu,Amerika,1955-01-01,53.94,3956625,NA
+Ecuador,ecu,Amerika,1960-01-01,56.1,4543658,2571.35233
+Ecuador,ecu,Amerika,1965-01-01,59.75,5243980,2783.21334
+Ecuador,ecu,Amerika,1970-01-01,61.35,6069375,2858.267
+Ecuador,ecu,Amerika,1975-01-01,64.09,6994331,3893.45236
+Ecuador,ecu,Amerika,1980-01-01,67.01,7989178,4229.85751
+Ecuador,ecu,Amerika,1985-01-01,69.88,9066100,4210.53125
+Ecuador,ecu,Amerika,1990-01-01,71.95,10230931,4269.7829
+Ecuador,ecu,Amerika,1995-01-01,73.63,11455205,4414.92826
+Ecuador,ecu,Amerika,2000-01-01,74.46,12681123,4209.34498
+Ecuador,ecu,Amerika,2005-01-01,73.61,13825839,4892.69132
+Ecuador,ecu,Amerika,2010-01-01,74.27,15011114,5323.73748
+Ecuador,ecu,Amerika,2015-01-01,75.88,16212022,6124.49089
+Ecuador,ecu,Amerika,2019-01-01,76.38,17373657,5853.81306
+Egypt,egy,Afrika,1800-01-01,33,3500000,NA
+Egypt,egy,Afrika,1805-01-01,33,3661914,NA
+Egypt,egy,Afrika,1810-01-01,33,3831632,NA
+Egypt,egy,Afrika,1815-01-01,33,4008887,NA
+Egypt,egy,Afrika,1820-01-01,33,4179621,NA
+Egypt,egy,Afrika,1825-01-01,33,4262834,NA
+Egypt,egy,Afrika,1830-01-01,33,4332752,NA
+Egypt,egy,Afrika,1835-01-01,33,4403817,NA
+Egypt,egy,Afrika,1840-01-01,33,4532740,NA
+Egypt,egy,Afrika,1845-01-01,33,5046776,NA
+Egypt,egy,Afrika,1850-01-01,33,5638537,NA
+Egypt,egy,Afrika,1855-01-01,33,5949331,NA
+Egypt,egy,Afrika,1860-01-01,33,6226449,NA
+Egypt,egy,Afrika,1865-01-01,33,6516328,NA
+Egypt,egy,Afrika,1870-01-01,33,6819549,NA
+Egypt,egy,Afrika,1875-01-01,33.15,7136717,NA
+Egypt,egy,Afrika,1880-01-01,33.3,7484469,NA
+Egypt,egy,Afrika,1885-01-01,33.45,7954181,NA
+Egypt,egy,Afrika,1890-01-01,33.6,8475721,NA
+Egypt,egy,Afrika,1895-01-01,33.75,9065170,NA
+Egypt,egy,Afrika,1900-01-01,33.9,9697412,NA
+Egypt,egy,Afrika,1905-01-01,34.05,10349890,NA
+Egypt,egy,Afrika,1910-01-01,34.2,11026391,NA
+Egypt,egy,Afrika,1915-01-01,34.35,11643562,NA
+Egypt,egy,Afrika,1920-01-01,34.49,12311184,NA
+Egypt,egy,Afrika,1925-01-01,34.64,13016896,NA
+Egypt,egy,Afrika,1930-01-01,37.32,13779639,NA
+Egypt,egy,Afrika,1935-01-01,35.15,14725065,NA
+Egypt,egy,Afrika,1940-01-01,36.58,15881134,NA
+Egypt,egy,Afrika,1945-01-01,34.49,17967176,NA
+Egypt,egy,Afrika,1950-01-01,41.25,20451988,NA
+Egypt,egy,Afrika,1955-01-01,43.8,23223125,NA
+Egypt,egy,Afrika,1960-01-01,46.87,26632891,762.13411
+Egypt,egy,Afrika,1965-01-01,50.67,30433024,941.98672
+Egypt,egy,Afrika,1970-01-01,51.25,34513851,962.11655
+Egypt,egy,Afrika,1975-01-01,54.43,38549133,1057.84565
+Egypt,egy,Afrika,1980-01-01,58.48,43309063,1452.59824
+Egypt,egy,Afrika,1985-01-01,60.12,49258726,1838.57571
+Egypt,egy,Afrika,1990-01-01,63.92,56134478,2051.61226
+Egypt,egy,Afrika,1995-01-01,66.38,62334025,2185.30218
+Egypt,egy,Afrika,2000-01-01,68.54,68831561,2610.4765
+Egypt,egy,Afrika,2005-01-01,68.78,75523576,2830.35014
+Egypt,egy,Afrika,2010-01-01,69.44,82761244,3485.2822
+Egypt,egy,Afrika,2015-01-01,69.92,92442549,3562.93266
+Egypt,egy,Afrika,2019-01-01,70.97,100388076,3964.98713
+Spain,esp,Europa,1800-01-01,29.5,11500000,NA
+Spain,esp,Europa,1805-01-01,29.5,11671859,NA
+Spain,esp,Europa,1810-01-01,29.5,11846391,NA
+Spain,esp,Europa,1815-01-01,29.5,12023426,NA
+Spain,esp,Europa,1820-01-01,29.5,12230231,NA
+Spain,esp,Europa,1825-01-01,29.5,12615600,NA
+Spain,esp,Europa,1830-01-01,29.5,13041601,NA
+Spain,esp,Europa,1835-01-01,29.5,13482154,NA
+Spain,esp,Europa,1840-01-01,29.5,13937584,NA
+Spain,esp,Europa,1845-01-01,29.5,14408192,NA
+Spain,esp,Europa,1850-01-01,29.5,14878948,NA
+Spain,esp,Europa,1855-01-01,29.5,15263827,NA
+Spain,esp,Europa,1860-01-01,29.5,15629336,NA
+Spain,esp,Europa,1865-01-01,29.5,15919374,NA
+Spain,esp,Europa,1870-01-01,29.5,16205974,NA
+Spain,esp,Europa,1875-01-01,29.5,16527215,NA
+Spain,esp,Europa,1880-01-01,29.5,16871863,NA
+Spain,esp,Europa,1885-01-01,30.27,17302975,NA
+Spain,esp,Europa,1890-01-01,31.57,17749983,NA
+Spain,esp,Europa,1895-01-01,33.1,18157806,NA
+Spain,esp,Europa,1900-01-01,34.79,18592431,NA
+Spain,esp,Europa,1905-01-01,38.94,19202587,NA
+Spain,esp,Europa,1910-01-01,40.9,19859107,NA
+Spain,esp,Europa,1915-01-01,43.02,20535166,NA
+Spain,esp,Europa,1920-01-01,39.28,21275387,NA
+Spain,esp,Europa,1925-01-01,46.91,22314097,NA
+Spain,esp,Europa,1930-01-01,49.3,23440882,NA
+Spain,esp,Europa,1935-01-01,52.67,24576906,NA
+Spain,esp,Europa,1940-01-01,48.34,25747201,NA
+Spain,esp,Europa,1945-01-01,57.78,26888238,NA
+Spain,esp,Europa,1950-01-01,61.8,28069734,NA
+Spain,esp,Europa,1955-01-01,66.66,29048392,NA
+Spain,esp,Europa,1960-01-01,69.45,30402413,6212.53735
+Spain,esp,Europa,1965-01-01,70.94,32146255,8928.96545
+Spain,esp,Europa,1970-01-01,72.02,33883749,11431.59456
+Spain,esp,Europa,1975-01-01,73.59,35879210,14004.338
+Spain,esp,Europa,1980-01-01,75.51,37698200,14721.56758
+Spain,esp,Europa,1985-01-01,76.45,38733866,15375.87454
+Spain,esp,Europa,1990-01-01,76.96,39202524,18962.44605
+Spain,esp,Europa,1995-01-01,78.09,39787413,19994.02769
+Spain,esp,Europa,2000-01-01,79.47,40824745,23928.67166
+Spain,esp,Europa,2005-01-01,80.58,44019118,26135.65158
+Spain,esp,Europa,2010-01-01,82.08,46931011,25692.36964
+Spain,esp,Europa,2015-01-01,82.78,46671919,25732.01836
+Spain,esp,Europa,2019-01-01,83.09,46736782,28091.01233
+Finland,fin,Europa,1800-01-01,36.57,800000,NA
+Finland,fin,Europa,1805-01-01,39.8,879571,NA
+Finland,fin,Europa,1810-01-01,36.95,967405,NA
+Finland,fin,Europa,1815-01-01,35.72,1063628,NA
+Finland,fin,Europa,1820-01-01,37.29,1166867,NA
+Finland,fin,Europa,1825-01-01,37.26,1263042,NA
+Finland,fin,Europa,1830-01-01,36.3,1356050,NA
+Finland,fin,Europa,1835-01-01,37.79,1402014,NA
+Finland,fin,Europa,1840-01-01,41.47,1446931,NA
+Finland,fin,Europa,1845-01-01,40.86,1531877,NA
+Finland,fin,Europa,1850-01-01,37.35,1622623,NA
+Finland,fin,Europa,1855-01-01,31.94,1682000,NA
+Finland,fin,Europa,1860-01-01,38.15,1731819,NA
+Finland,fin,Europa,1865-01-01,35.78,1745445,NA
+Finland,fin,Europa,1870-01-01,45.66,1768778,NA
+Finland,fin,Europa,1875-01-01,40.66,1894324,NA
+Finland,fin,Europa,1880-01-01,39.69,2044906,NA
+Finland,fin,Europa,1885-01-01,41.33,2198671,NA
+Finland,fin,Europa,1890-01-01,44.66,2358017,NA
+Finland,fin,Europa,1895-01-01,47.7,2499034,NA
+Finland,fin,Europa,1900-01-01,41.87,2641828,NA
+Finland,fin,Europa,1905-01-01,46.12,2781048,NA
+Finland,fin,Europa,1910-01-01,48.63,2919589,NA
+Finland,fin,Europa,1915-01-01,49.66,3025375,NA
+Finland,fin,Europa,1920-01-01,47.67,3134303,NA
+Finland,fin,Europa,1925-01-01,53.57,3282983,NA
+Finland,fin,Europa,1930-01-01,54.64,3439042,NA
+Finland,fin,Europa,1935-01-01,57.55,3566588,NA
+Finland,fin,Europa,1940-01-01,46.82,3695561,NA
+Finland,fin,Europa,1945-01-01,57.41,3845264,NA
+Finland,fin,Europa,1950-01-01,64.51,4008292,NA
+Finland,fin,Europa,1955-01-01,67.73,4238274,NA
+Finland,fin,Europa,1960-01-01,69.22,4434593,11420.69956
+Finland,fin,Europa,1965-01-01,69.56,4568604,14060.01817
+Finland,fin,Europa,1970-01-01,70.66,4612365,17121.74368
+Finland,fin,Europa,1975-01-01,72.17,4718744,20755.98806
+Finland,fin,Europa,1980-01-01,74.01,4788247,23911.99614
+Finland,fin,Europa,1985-01-01,74.88,4911220,26846.79476
+Finland,fin,Europa,1990-01-01,75.43,4996220,31267.37495
+Finland,fin,Europa,1995-01-01,76.94,5119012,29900.87062
+Finland,fin,Europa,2000-01-01,78.04,5187953,37869.1588
+Finland,fin,Europa,2005-01-01,79.32,5258933,42513.519
+Finland,fin,Europa,2010-01-01,80.4,5365784,43546.05619
+Finland,fin,Europa,2015-01-01,81.68,5481128,42784.69836
+Finland,fin,Europa,2019-01-01,81.87,5532159,46172.5675
+Fiji,fji,Oseania,1800-01-01,26.1,130533,NA
+Fiji,fji,Oseania,1805-01-01,26.1,131680,NA
+Fiji,fji,Oseania,1810-01-01,26.1,132838,NA
+Fiji,fji,Oseania,1815-01-01,26.1,134006,NA
+Fiji,fji,Oseania,1820-01-01,26.1,135184,NA
+Fiji,fji,Oseania,1825-01-01,26.1,136372,NA
+Fiji,fji,Oseania,1830-01-01,26.1,137571,NA
+Fiji,fji,Oseania,1835-01-01,26.1,138780,NA
+Fiji,fji,Oseania,1840-01-01,26.1,139672,NA
+Fiji,fji,Oseania,1845-01-01,26.1,138493,NA
+Fiji,fji,Oseania,1850-01-01,26.1,136971,NA
+Fiji,fji,Oseania,1855-01-01,26.1,135205,NA
+Fiji,fji,Oseania,1860-01-01,26.1,133432,NA
+Fiji,fji,Oseania,1865-01-01,26.1,131683,NA
+Fiji,fji,Oseania,1870-01-01,26.1,129956,NA
+Fiji,fji,Oseania,1875-01-01,1.01,128252,NA
+Fiji,fji,Oseania,1880-01-01,26.62,126396,NA
+Fiji,fji,Oseania,1885-01-01,26.88,123477,NA
+Fiji,fji,Oseania,1890-01-01,27.14,120745,NA
+Fiji,fji,Oseania,1895-01-01,27.4,119887,NA
+Fiji,fji,Oseania,1900-01-01,27.66,120500,NA
+Fiji,fji,Oseania,1905-01-01,27.92,128841,NA
+Fiji,fji,Oseania,1910-01-01,28.18,138748,NA
+Fiji,fji,Oseania,1915-01-01,28.44,147188,NA
+Fiji,fji,Oseania,1920-01-01,28.7,156963,NA
+Fiji,fji,Oseania,1925-01-01,28.96,175073,NA
+Fiji,fji,Oseania,1930-01-01,34.82,197105,NA
+Fiji,fji,Oseania,1935-01-01,40.78,225343,NA
+Fiji,fji,Oseania,1940-01-01,46.84,255472,NA
+Fiji,fji,Oseania,1945-01-01,53,271292,NA
+Fiji,fji,Oseania,1950-01-01,59.26,288994,NA
+Fiji,fji,Oseania,1955-01-01,63,335096,NA
+Fiji,fji,Oseania,1960-01-01,64.6,393480,2196.91681
+Fiji,fji,Oseania,1965-01-01,65.57,463960,2168.81032
+Fiji,fji,Oseania,1970-01-01,65.17,520561,2734.08665
+Fiji,fji,Oseania,1975-01-01,65.03,576626,3264.6356
+Fiji,fji,Oseania,1980-01-01,66.47,635312,3626.30694
+Fiji,fji,Oseania,1985-01-01,66.11,711770,3213.17895
+Fiji,fji,Oseania,1990-01-01,66.34,728575,3624.69523
+Fiji,fji,Oseania,1995-01-01,66.12,775428,3868.23224
+Fiji,fji,Oseania,2000-01-01,65.75,811011,4106.94871
+Fiji,fji,Oseania,2005-01-01,67.11,821606,4570.26624
+Fiji,fji,Oseania,2010-01-01,67.64,859816,4523.84683
+Fiji,fji,Oseania,2015-01-01,68.02,868632,5390.71421
+Fiji,fji,Oseania,2019-01-01,68.38,889955,5869.01411
+France,fra,Europa,1800-01-01,33.97,29000000,NA
+France,fra,Europa,1805-01-01,34.88,29546838,NA
+France,fra,Europa,1810-01-01,37.4,30104407,NA
+France,fra,Europa,1815-01-01,36.5,30672069,NA
+France,fra,Europa,1820-01-01,39.21,31299931,NA
+France,fra,Europa,1825-01-01,38.53,32260022,NA
+France,fra,Europa,1830-01-01,39.56,33267853,NA
+France,fra,Europa,1835-01-01,39.48,34091365,NA
+France,fra,Europa,1840-01-01,40.37,34887644,NA
+France,fra,Europa,1845-01-01,43.58,35618212,NA
+France,fra,Europa,1850-01-01,43.28,36317907,NA
+France,fra,Europa,1855-01-01,37.54,36768948,NA
+France,fra,Europa,1860-01-01,43.33,37202052,NA
+France,fra,Europa,1865-01-01,40.16,37701824,NA
+France,fra,Europa,1870-01-01,36.41,38184704,NA
+France,fra,Europa,1875-01-01,43.2,38461370,NA
+France,fra,Europa,1880-01-01,42.79,38727144,NA
+France,fra,Europa,1885-01-01,44.06,39126760,NA
+France,fra,Europa,1890-01-01,43.48,39527583,NA
+France,fra,Europa,1895-01-01,45.36,39780605,NA
+France,fra,Europa,1900-01-01,45.27,40013112,NA
+France,fra,Europa,1905-01-01,48.6,40259319,NA
+France,fra,Europa,1910-01-01,51.66,40337510,NA
+France,fra,Europa,1915-01-01,35.85,39344212,NA
+France,fra,Europa,1920-01-01,51.96,38521777,NA
+France,fra,Europa,1925-01-01,54.81,39505129,NA
+France,fra,Europa,1930-01-01,57.35,40610060,NA
+France,fra,Europa,1935-01-01,58.85,40503806,NA
+France,fra,Europa,1940-01-01,49.93,40329369,NA
+France,fra,Europa,1945-01-01,55.54,40943803,NA
+France,fra,Europa,1950-01-01,67.13,41833873,NA
+France,fra,Europa,1955-01-01,69.33,43411377,NA
+France,fra,Europa,1960-01-01,71.19,45673147,11171.91895
+France,fra,Europa,1965-01-01,71.83,48746653,13932.59664
+France,fra,Europa,1970-01-01,72.6,50763921,17519.42717
+France,fra,Europa,1975-01-01,73.34,52688575,20408.17175
+France,fra,Europa,1980-01-01,74.68,53868006,23562.28241
+France,fra,Europa,1985-01-01,75.77,55254838,24822.98436
+France,fra,Europa,1990-01-01,77.21,56666861,28512.10871
+France,fra,Europa,1995-01-01,78.19,57801887,29734.04522
+France,fra,Europa,2000-01-01,79.19,59015092,33583.85744
+France,fra,Europa,2005-01-01,80.56,61120128,35199.73432
+France,fra,Europa,2010-01-01,81.58,62879535,35625.47404
+France,fra,Europa,2015-01-01,82.52,64453194,36638.18493
+France,fra,Europa,2019-01-01,82.87,65129731,38896.68543
+Gabon,gab,Afrika,1800-01-01,30.6,158227,NA
+Gabon,gab,Afrika,1805-01-01,30.6,158227,NA
+Gabon,gab,Afrika,1810-01-01,30.6,158227,NA
+Gabon,gab,Afrika,1815-01-01,30.6,158227,NA
+Gabon,gab,Afrika,1820-01-01,30.6,160259,NA
+Gabon,gab,Afrika,1825-01-01,30.6,175853,NA
+Gabon,gab,Afrika,1830-01-01,30.6,195356,NA
+Gabon,gab,Afrika,1835-01-01,30.6,217021,NA
+Gabon,gab,Afrika,1840-01-01,30.6,241090,NA
+Gabon,gab,Afrika,1845-01-01,30.6,267828,NA
+Gabon,gab,Afrika,1850-01-01,30.6,294784,NA
+Gabon,gab,Afrika,1855-01-01,30.6,306819,NA
+Gabon,gab,Afrika,1860-01-01,30.6,316524,NA
+Gabon,gab,Afrika,1865-01-01,30.6,326536,NA
+Gabon,gab,Afrika,1870-01-01,30.6,337067,NA
+Gabon,gab,Afrika,1875-01-01,31.27,349253,NA
+Gabon,gab,Afrika,1880-01-01,31.95,362093,NA
+Gabon,gab,Afrika,1885-01-01,32.62,375404,NA
+Gabon,gab,Afrika,1890-01-01,33.3,386400,NA
+Gabon,gab,Afrika,1895-01-01,33.97,380026,NA
+Gabon,gab,Afrika,1900-01-01,34.65,369964,NA
+Gabon,gab,Afrika,1905-01-01,35.32,353343,NA
+Gabon,gab,Afrika,1910-01-01,36,337238,NA
+Gabon,gab,Afrika,1915-01-01,36.67,326838,NA
+Gabon,gab,Afrika,1920-01-01,37.35,320929,NA
+Gabon,gab,Afrika,1925-01-01,38.02,338516,NA
+Gabon,gab,Afrika,1930-01-01,38.7,360880,NA
+Gabon,gab,Afrika,1935-01-01,39.37,383282,NA
+Gabon,gab,Afrika,1940-01-01,40.05,407822,NA
+Gabon,gab,Afrika,1945-01-01,40.72,440491,NA
+Gabon,gab,Afrika,1950-01-01,48.65,473296,NA
+Gabon,gab,Afrika,1955-01-01,48.87,484308,NA
+Gabon,gab,Afrika,1960-01-01,49.98,500922,3386.61587
+Gabon,gab,Afrika,1965-01-01,51.69,533357,4713.31848
+Gabon,gab,Afrika,1970-01-01,53.16,589317,5588.87631
+Gabon,gab,Afrika,1975-01-01,55.56,647538,11437.92454
+Gabon,gab,Afrika,1980-01-01,58.12,726335,9461.3395
+Gabon,gab,Afrika,1985-01-01,59.78,827107,9382.88765
+Gabon,gab,Afrika,1990-01-01,60.45,949493,8655.53787
+Gabon,gab,Afrika,1995-01-01,60.41,1084951,8815.22887
+Gabon,gab,Afrika,2000-01-01,59.59,1228359,7888.06209
+Gabon,gab,Afrika,2005-01-01,61.11,1390550,7504.25996
+Gabon,gab,Afrika,2010-01-01,63.27,1624146,6863.53876
+Gabon,gab,Afrika,2015-01-01,66.27,1947690,7384.7007
+Gabon,gab,Afrika,2019-01-01,67.81,2172578,7118.08946
+United Kingdom,gbr,Europa,1800-01-01,38.65,10750000,NA
+United Kingdom,gbr,Europa,1805-01-01,42.32,11343611,NA
+United Kingdom,gbr,Europa,1810-01-01,38.35,12325700,NA
+United Kingdom,gbr,Europa,1815-01-01,41.13,15997097,NA
+United Kingdom,gbr,Europa,1820-01-01,41.31,20706854,NA
+United Kingdom,gbr,Europa,1825-01-01,39.94,22646329,NA
+United Kingdom,gbr,Europa,1830-01-01,43.02,24105348,NA
+United Kingdom,gbr,Europa,1835-01-01,41.1,25411282,NA
+United Kingdom,gbr,Europa,1840-01-01,39.93,26607869,NA
+United Kingdom,gbr,Europa,1845-01-01,42.56,26962189,NA
+United Kingdom,gbr,Europa,1850-01-01,42.8,27254502,NA
+United Kingdom,gbr,Europa,1855-01-01,41.03,28042257,NA
+United Kingdom,gbr,Europa,1860-01-01,43.01,28969196,NA
+United Kingdom,gbr,Europa,1865-01-01,40.65,30183481,NA
+United Kingdom,gbr,Europa,1870-01-01,40.95,31518027,NA
+United Kingdom,gbr,Europa,1875-01-01,41.86,33091275,NA
+United Kingdom,gbr,Europa,1880-01-01,43.79,34733737,NA
+United Kingdom,gbr,Europa,1885-01-01,45.78,36205273,NA
+United Kingdom,gbr,Europa,1890-01-01,44.78,37730415,NA
+United Kingdom,gbr,Europa,1895-01-01,45.77,39529277,NA
+United Kingdom,gbr,Europa,1900-01-01,46.36,41433090,NA
+United Kingdom,gbr,Europa,1905-01-01,50.92,43330403,NA
+United Kingdom,gbr,Europa,1910-01-01,54.06,45172503,NA
+United Kingdom,gbr,Europa,1915-01-01,48.27,46278785,NA
+United Kingdom,gbr,Europa,1920-01-01,56.69,47086632,NA
+United Kingdom,gbr,Europa,1925-01-01,58.61,46778068,NA
+United Kingdom,gbr,Europa,1930-01-01,61.01,46495659,NA
+United Kingdom,gbr,Europa,1935-01-01,62.18,47475729,NA
+United Kingdom,gbr,Europa,1940-01-01,61.11,48647946,NA
+United Kingdom,gbr,Europa,1945-01-01,66.01,49631526,NA
+United Kingdom,gbr,Europa,1950-01-01,68.88,50616019,NA
+United Kingdom,gbr,Europa,1955-01-01,70.46,51063907,NA
+United Kingdom,gbr,Europa,1960-01-01,71.17,52370595,14914.88076
+United Kingdom,gbr,Europa,1965-01-01,71.65,54240855,16876.01736
+United Kingdom,gbr,Europa,1970-01-01,72.08,55573455,19112.91287
+United Kingdom,gbr,Europa,1975-01-01,72.78,56152325,20910.66213
+United Kingdom,gbr,Europa,1980-01-01,73.79,56209164,23315.53651
+United Kingdom,gbr,Europa,1985-01-01,74.81,56413555,26081.00297
+United Kingdom,gbr,Europa,1990-01-01,75.85,57134377,30599.81845
+United Kingdom,gbr,Europa,1995-01-01,76.84,57932450,32715.62039
+United Kingdom,gbr,Europa,2000-01-01,77.97,58923305,38450.22085
+United Kingdom,gbr,Europa,2005-01-01,79.33,60287953,42818.61696
+United Kingdom,gbr,Europa,2010-01-01,80.58,63459801,42275.28835
+United Kingdom,gbr,Europa,2015-01-01,81.05,65860149,45039.23595
+United Kingdom,gbr,Europa,2019-01-01,81.07,67530161,46611.84433
+Ghana,gha,Afrika,1800-01-01,28,2016034,NA
+Ghana,gha,Afrika,1805-01-01,28,2016034,NA
+Ghana,gha,Afrika,1810-01-01,28,2016034,NA
+Ghana,gha,Afrika,1815-01-01,28,2016034,NA
+Ghana,gha,Afrika,1820-01-01,28,2015328,NA
+Ghana,gha,Afrika,1825-01-01,28,2010161,NA
+Ghana,gha,Afrika,1830-01-01,28,2004304,NA
+Ghana,gha,Afrika,1835-01-01,28,1998465,NA
+Ghana,gha,Afrika,1840-01-01,28,1992642,NA
+Ghana,gha,Afrika,1845-01-01,28,1986836,NA
+Ghana,gha,Afrika,1850-01-01,28,1988311,NA
+Ghana,gha,Afrika,1855-01-01,28,2029160,NA
+Ghana,gha,Afrika,1860-01-01,28,2078362,NA
+Ghana,gha,Afrika,1865-01-01,28,2128787,NA
+Ghana,gha,Afrika,1870-01-01,28,2182048,NA
+Ghana,gha,Afrika,1875-01-01,28.26,2247117,NA
+Ghana,gha,Afrika,1880-01-01,28.51,2317666,NA
+Ghana,gha,Afrika,1885-01-01,28.77,2402539,NA
+Ghana,gha,Afrika,1890-01-01,29.02,2493504,NA
+Ghana,gha,Afrika,1895-01-01,29.28,2594699,NA
+Ghana,gha,Afrika,1900-01-01,29.54,2701076,NA
+Ghana,gha,Afrika,1905-01-01,29.79,2811813,NA
+Ghana,gha,Afrika,1910-01-01,30.05,2924488,NA
+Ghana,gha,Afrika,1915-01-01,30.3,3025010,NA
+Ghana,gha,Afrika,1920-01-01,30.56,3147731,NA
+Ghana,gha,Afrika,1925-01-01,30.82,3375970,NA
+Ghana,gha,Afrika,1930-01-01,33.98,3634675,NA
+Ghana,gha,Afrika,1935-01-01,37.2,3898578,NA
+Ghana,gha,Afrika,1940-01-01,40.46,4189363,NA
+Ghana,gha,Afrika,1945-01-01,43.78,4569715,NA
+Ghana,gha,Afrika,1950-01-01,47.14,5036151,NA
+Ghana,gha,Afrika,1955-01-01,48.33,5730592,NA
+Ghana,gha,Afrika,1960-01-01,51.03,6635229,1109.57377
+Ghana,gha,Afrika,1965-01-01,53,7739463,1108.04245
+Ghana,gha,Afrika,1970-01-01,54.46,8735493,1131.00771
+Ghana,gha,Afrika,1975-01-01,56.27,9985946,977.21023
+Ghana,gha,Afrika,1980-01-01,57.53,11056112,925.22453
+Ghana,gha,Afrika,1985-01-01,58.17,12783617,783.15943
+Ghana,gha,Afrika,1990-01-01,59.37,14773274,856.89014
+Ghana,gha,Afrika,1995-01-01,59.89,17014058,917.58902
+Ghana,gha,Afrika,2000-01-01,59.61,19278850,1000.45366
+Ghana,gha,Afrika,2005-01-01,60.01,21814648,1130.45988
+Ghana,gha,Afrika,2010-01-01,61.79,24779614,1364.32594
+Ghana,gha,Afrika,2015-01-01,64.22,27849203,1705.57508
+Ghana,gha,Afrika,2019-01-01,66.31,30417858,1974.29467
+Greece,grc,Europa,1800-01-01,36.6,2250000,NA
+Greece,grc,Europa,1805-01-01,36.6,2265342,NA
+Greece,grc,Europa,1810-01-01,36.6,2280794,NA
+Greece,grc,Europa,1815-01-01,36.6,2296346,NA
+Greece,grc,Europa,1820-01-01,36.6,2322933,NA
+Greece,grc,Europa,1825-01-01,36.6,2420660,NA
+Greece,grc,Europa,1830-01-01,36.6,2534195,NA
+Greece,grc,Europa,1835-01-01,36.6,2652941,NA
+Greece,grc,Europa,1840-01-01,36.6,2777272,NA
+Greece,grc,Europa,1845-01-01,36.6,2907682,NA
+Greece,grc,Europa,1850-01-01,36.6,3044219,NA
+Greece,grc,Europa,1855-01-01,36.6,3189315,NA
+Greece,grc,Europa,1860-01-01,36.6,3341341,NA
+Greece,grc,Europa,1865-01-01,36.6,3500971,NA
+Greece,grc,Europa,1870-01-01,36.6,3670510,NA
+Greece,grc,Europa,1875-01-01,36.73,3862846,NA
+Greece,grc,Europa,1880-01-01,37.15,4067591,NA
+Greece,grc,Europa,1885-01-01,37.84,4282815,NA
+Greece,grc,Europa,1890-01-01,38.7,4509403,NA
+Greece,grc,Europa,1895-01-01,39.71,4748229,NA
+Greece,grc,Europa,1900-01-01,40.82,4989983,NA
+Greece,grc,Europa,1905-01-01,41.86,5180533,NA
+Greece,grc,Europa,1910-01-01,43.15,5367935,NA
+Greece,grc,Europa,1915-01-01,44.66,5560693,NA
+Greece,grc,Europa,1920-01-01,46.18,5771301,NA
+Greece,grc,Europa,1925-01-01,48.77,6077897,NA
+Greece,grc,Europa,1930-01-01,52.21,6426741,NA
+Greece,grc,Europa,1935-01-01,54.19,6869288,NA
+Greece,grc,Europa,1940-01-01,56.94,7310690,NA
+Greece,grc,Europa,1945-01-01,60.98,7496355,NA
+Greece,grc,Europa,1950-01-01,69,7668792,NA
+Greece,grc,Europa,1955-01-01,71.5,8011132,NA
+Greece,grc,Europa,1960-01-01,72.43,8273628,5028.7208
+Greece,grc,Europa,1965-01-01,73.01,8453819,7546.37191
+Greece,grc,Europa,1970-01-01,73.82,8663568,10730.66847
+Greece,grc,Europa,1975-01-01,74.63,9014091,13328.47415
+Greece,grc,Europa,1980-01-01,75.3,9627004,15338.54467
+Greece,grc,Europa,1985-01-01,75.86,9968233,14989.55357
+Greece,grc,Europa,1990-01-01,77.23,10225990,15531.49558
+Greece,grc,Europa,1995-01-01,77.75,10745502,15952.63176
+Greece,grc,Europa,2000-01-01,78.44,11082103,18649.5914
+Greece,grc,Europa,2005-01-01,79.43,11224800,22193.60027
+Greece,grc,Europa,2010-01-01,80.4,10887640,21568.01821
+Greece,grc,Europa,2015-01-01,80.92,10659737,18050.09761
+Greece,grc,Europa,2019-01-01,80.94,10473452,18992.6602
+Guatemala,gtm,Amerika,1800-01-01,25.8,462930,NA
+Guatemala,gtm,Amerika,1805-01-01,25.8,493969,NA
+Guatemala,gtm,Amerika,1810-01-01,25.8,528719,NA
+Guatemala,gtm,Amerika,1815-01-01,25.8,563680,NA
+Guatemala,gtm,Amerika,1820-01-01,25.8,600125,NA
+Guatemala,gtm,Amerika,1825-01-01,25.8,621042,NA
+Guatemala,gtm,Amerika,1830-01-01,25.8,648175,NA
+Guatemala,gtm,Amerika,1835-01-01,25.81,676495,NA
+Guatemala,gtm,Amerika,1840-01-01,25.81,710389,NA
+Guatemala,gtm,Amerika,1845-01-01,25.81,774928,NA
+Guatemala,gtm,Amerika,1850-01-01,25.81,846846,NA
+Guatemala,gtm,Amerika,1855-01-01,25.81,905719,NA
+Guatemala,gtm,Amerika,1860-01-01,25.81,964941,NA
+Guatemala,gtm,Amerika,1865-01-01,25.81,1028022,NA
+Guatemala,gtm,Amerika,1870-01-01,25.81,1095633,NA
+Guatemala,gtm,Amerika,1875-01-01,25.86,1170448,NA
+Guatemala,gtm,Amerika,1880-01-01,25.91,1249401,NA
+Guatemala,gtm,Amerika,1885-01-01,25.97,1324324,NA
+Guatemala,gtm,Amerika,1890-01-01,26.02,1389046,NA
+Guatemala,gtm,Amerika,1895-01-01,26.07,1373419,NA
+Guatemala,gtm,Amerika,1900-01-01,26.12,1357590,NA
+Guatemala,gtm,Amerika,1905-01-01,26.17,1421312,NA
+Guatemala,gtm,Amerika,1910-01-01,26.22,1501413,NA
+Guatemala,gtm,Amerika,1915-01-01,26.28,1585901,NA
+Guatemala,gtm,Amerika,1920-01-01,26.33,1671829,NA
+Guatemala,gtm,Amerika,1925-01-01,26.37,1760486,NA
+Guatemala,gtm,Amerika,1930-01-01,26.41,1866879,NA
+Guatemala,gtm,Amerika,1935-01-01,27.24,2067043,NA
+Guatemala,gtm,Amerika,1940-01-01,31.19,2315787,NA
+Guatemala,gtm,Amerika,1945-01-01,36.92,2677499,NA
+Guatemala,gtm,Amerika,1950-01-01,42.67,3114956,NA
+Guatemala,gtm,Amerika,1955-01-01,44.31,3625305,NA
+Guatemala,gtm,Amerika,1960-01-01,47.9,4210751,1854.7933
+Guatemala,gtm,Amerika,1965-01-01,49.53,4869714,2071.64071
+Guatemala,gtm,Amerika,1970-01-01,49.87,5621794,2398.72329
+Guatemala,gtm,Amerika,1975-01-01,54.38,6433723,2800.96375
+Guatemala,gtm,Amerika,1980-01-01,57.95,7283456,3291.73703
+Guatemala,gtm,Amerika,1985-01-01,59.42,8240060,2718.25708
+Guatemala,gtm,Amerika,1990-01-01,61.4,9263820,2733.8666
+Guatemala,gtm,Amerika,1995-01-01,64.08,10408486,2965.89179
+Guatemala,gtm,Amerika,2000-01-01,66.74,11650744,3195.39434
+Guatemala,gtm,Amerika,2005-01-01,68.4,13096028,3320.16407
+Guatemala,gtm,Amerika,2010-01-01,70.27,14630420,3606.43055
+Guatemala,gtm,Amerika,2015-01-01,71.77,16252425,3994.63691
+Guatemala,gtm,Amerika,2019-01-01,72.58,17581476,4254.03516
+Guyana,guy,Amerika,1800-01-01,31.12,166034,NA
+Guyana,guy,Amerika,1805-01-01,31.12,166034,NA
+Guyana,guy,Amerika,1810-01-01,31.12,166034,NA
+Guyana,guy,Amerika,1815-01-01,31.12,166034,NA
+Guyana,guy,Amerika,1820-01-01,31.12,163465,NA
+Guyana,guy,Amerika,1825-01-01,31.12,145632,NA
+Guyana,guy,Amerika,1830-01-01,31.12,127648,NA
+Guyana,guy,Amerika,1835-01-01,31.12,111885,NA
+Guyana,guy,Amerika,1840-01-01,31.12,101190,NA
+Guyana,guy,Amerika,1845-01-01,31.12,112080,NA
+Guyana,guy,Amerika,1850-01-01,31.12,127122,NA
+Guyana,guy,Amerika,1855-01-01,31.12,137100,NA
+Guyana,guy,Amerika,1860-01-01,31.12,147910,NA
+Guyana,guy,Amerika,1865-01-01,31.12,167042,NA
+Guyana,guy,Amerika,1870-01-01,31.12,189974,NA
+Guyana,guy,Amerika,1875-01-01,30.94,216155,NA
+Guyana,guy,Amerika,1880-01-01,30.77,243395,NA
+Guyana,guy,Amerika,1885-01-01,30.59,257087,NA
+Guyana,guy,Amerika,1890-01-01,30.42,268844,NA
+Guyana,guy,Amerika,1895-01-01,30.24,280896,NA
+Guyana,guy,Amerika,1900-01-01,30.06,291626,NA
+Guyana,guy,Amerika,1905-01-01,29.89,291203,NA
+Guyana,guy,Amerika,1910-01-01,29.71,289113,NA
+Guyana,guy,Amerika,1915-01-01,30.87,287749,NA
+Guyana,guy,Amerika,1920-01-01,32.33,287642,NA
+Guyana,guy,Amerika,1925-01-01,35.3,290539,NA
+Guyana,guy,Amerika,1930-01-01,38.61,295412,NA
+Guyana,guy,Amerika,1935-01-01,41.98,310443,NA
+Guyana,guy,Amerika,1940-01-01,45.3,329944,NA
+Guyana,guy,Amerika,1945-01-01,48.57,364291,NA
+Guyana,guy,Amerika,1950-01-01,51.81,406559,NA
+Guyana,guy,Amerika,1955-01-01,55.05,482562,NA
+Guyana,guy,Amerika,1960-01-01,58.85,571813,2720.90733
+Guyana,guy,Amerika,1965-01-01,60.28,651865,2728.00216
+Guyana,guy,Amerika,1970-01-01,61.68,704930,3120.60209
+Guyana,guy,Amerika,1975-01-01,61.22,745847,3478.21039
+Guyana,guy,Amerika,1980-01-01,62.36,780153,3223.58837
+Guyana,guy,Amerika,1985-01-01,62.61,770439,2607.00563
+Guyana,guy,Amerika,1990-01-01,62.37,743306,2398.28894
+Guyana,guy,Amerika,1995-01-01,63.1,761298,3299.98963
+Guyana,guy,Amerika,2000-01-01,63.96,746718,3850.81137
+Guyana,guy,Amerika,2005-01-01,64.39,746156,3944.43818
+Guyana,guy,Amerika,2010-01-01,65.75,749430,4847.50014
+Guyana,guy,Amerika,2015-01-01,66.41,767433,5576.82607
+Guyana,guy,Amerika,2019-01-01,67.31,782775,6478.27877
+Honduras,hnd,Amerika,1800-01-01,33.9,130000,NA
+Honduras,hnd,Amerika,1805-01-01,33.9,131232,NA
+Honduras,hnd,Amerika,1810-01-01,33.9,132477,NA
+Honduras,hnd,Amerika,1815-01-01,33.9,133733,NA
+Honduras,hnd,Amerika,1820-01-01,33.9,137489,NA
+Honduras,hnd,Amerika,1825-01-01,33.9,158390,NA
+Honduras,hnd,Amerika,1830-01-01,33.9,185645,NA
+Honduras,hnd,Amerika,1835-01-01,33.9,217590,NA
+Honduras,hnd,Amerika,1840-01-01,33.9,255032,NA
+Honduras,hnd,Amerika,1845-01-01,33.9,298917,NA
+Honduras,hnd,Amerika,1850-01-01,33.9,345020,NA
+Honduras,hnd,Amerika,1855-01-01,33.9,364802,NA
+Honduras,hnd,Amerika,1860-01-01,33.9,380198,NA
+Honduras,hnd,Amerika,1865-01-01,33.9,396233,NA
+Honduras,hnd,Amerika,1870-01-01,33.9,404494,NA
+Honduras,hnd,Amerika,1875-01-01,33.9,362158,NA
+Honduras,hnd,Amerika,1880-01-01,33.9,327601,NA
+Honduras,hnd,Amerika,1885-01-01,33.89,363748,NA
+Honduras,hnd,Amerika,1890-01-01,33.89,415936,NA
+Honduras,hnd,Amerika,1895-01-01,33.89,469057,NA
+Honduras,hnd,Amerika,1900-01-01,33.89,527437,NA
+Honduras,hnd,Amerika,1905-01-01,33.89,590337,NA
+Honduras,hnd,Amerika,1910-01-01,33.88,657710,NA
+Honduras,hnd,Amerika,1915-01-01,33.88,715606,NA
+Honduras,hnd,Amerika,1920-01-01,33.88,779433,NA
+Honduras,hnd,Amerika,1925-01-01,33.88,888829,NA
+Honduras,hnd,Amerika,1930-01-01,33.88,1015487,NA
+Honduras,hnd,Amerika,1935-01-01,35.61,1122860,NA
+Honduras,hnd,Amerika,1940-01-01,37.34,1237551,NA
+Honduras,hnd,Amerika,1945-01-01,39.08,1378482,NA
+Honduras,hnd,Amerika,1950-01-01,40.81,1546719,NA
+Honduras,hnd,Amerika,1955-01-01,43.6,1771357,NA
+Honduras,hnd,Amerika,1960-01-01,49.05,2038636,1220.53114
+Honduras,hnd,Amerika,1965-01-01,54.39,2346005,1360.34033
+Honduras,hnd,Amerika,1970-01-01,57.69,2716652,1458.63948
+Honduras,hnd,Amerika,1975-01-01,62.45,3153252,1504.03663
+Honduras,hnd,Amerika,1980-01-01,67.86,3678274,1770.56165
+Honduras,hnd,Amerika,1985-01-01,68.86,4281167,1667.55574
+Honduras,hnd,Amerika,1990-01-01,69.09,4955302,1738.62155
+Honduras,hnd,Amerika,1995-01-01,69.45,5709010,1753.85641
+Honduras,hnd,Amerika,2000-01-01,70.07,6574510,1790.36408
+Honduras,hnd,Amerika,2005-01-01,70.89,7458982,1980.98606
+Honduras,hnd,Amerika,2010-01-01,71.1,8317467,2120.74289
+Honduras,hnd,Amerika,2015-01-01,69.9,9112904,2302.20441
+Honduras,hnd,Amerika,2019-01-01,72.07,9746115,2499.49282
+Haiti,hti,Amerika,1800-01-01,29,500000,NA
+Haiti,hti,Amerika,1805-01-01,29,548292,NA
+Haiti,hti,Amerika,1810-01-01,29,601453,NA
+Haiti,hti,Amerika,1815-01-01,29,659544,NA
+Haiti,hti,Amerika,1820-01-01,29,718914,NA
+Haiti,hti,Amerika,1825-01-01,29,755118,NA
+Haiti,hti,Amerika,1830-01-01,29,788604,NA
+Haiti,hti,Amerika,1835-01-01,29,823575,NA
+Haiti,hti,Amerika,1840-01-01,29,860097,NA
+Haiti,hti,Amerika,1845-01-01,29,898238,NA
+Haiti,hti,Amerika,1850-01-01,29,938934,NA
+Haiti,hti,Amerika,1855-01-01,29,989812,NA
+Haiti,hti,Amerika,1860-01-01,29,1044370,NA
+Haiti,hti,Amerika,1865-01-01,29,1101927,NA
+Haiti,hti,Amerika,1870-01-01,29,1162630,NA
+Haiti,hti,Amerika,1875-01-01,29.31,1226556,NA
+Haiti,hti,Amerika,1880-01-01,29.62,1293969,NA
+Haiti,hti,Amerika,1885-01-01,29.93,1365077,NA
+Haiti,hti,Amerika,1890-01-01,30.24,1440082,NA
+Haiti,hti,Amerika,1895-01-01,30.55,1519197,NA
+Haiti,hti,Amerika,1900-01-01,30.86,1607208,NA
+Haiti,hti,Amerika,1905-01-01,31.17,1730595,NA
+Haiti,hti,Amerika,1910-01-01,31.48,1869956,NA
+Haiti,hti,Amerika,1915-01-01,31.79,2030100,NA
+Haiti,hti,Amerika,1920-01-01,32.1,2198119,NA
+Haiti,hti,Amerika,1925-01-01,32.41,2351283,NA
+Haiti,hti,Amerika,1930-01-01,32.72,2510212,NA
+Haiti,hti,Amerika,1935-01-01,33.03,2675892,NA
+Haiti,hti,Amerika,1940-01-01,33.34,2850309,NA
+Haiti,hti,Amerika,1945-01-01,36.81,3025925,NA
+Haiti,hti,Amerika,1950-01-01,42.47,3221270,NA
+Haiti,hti,Amerika,1955-01-01,43.97,3514069,NA
+Haiti,hti,Amerika,1960-01-01,45.41,3866162,1666.15228
+Haiti,hti,Amerika,1965-01-01,46.51,4258734,1561.48315
+Haiti,hti,Amerika,1970-01-01,47.96,4676237,1492.05936
+Haiti,hti,Amerika,1975-01-01,49.73,5094570,1650.04466
+Haiti,hti,Amerika,1980-01-01,51.28,5643175,2054.90904
+Haiti,hti,Amerika,1985-01-01,53.05,6337275,1745.53892
+Haiti,hti,Amerika,1990-01-01,54.57,7037915,1525.02002
+Haiti,hti,Amerika,1995-01-01,55.35,7744509,1223.5075200000001
+Haiti,hti,Amerika,2000-01-01,57.43,8463802,1267.64015
+Haiti,hti,Amerika,2005-01-01,59.05,9195289,1241.46118
+Haiti,hti,Amerika,2010-01-01,32.52,9949318,1291.59556
+Haiti,hti,Amerika,2015-01-01,62.18,10695540,1389.11978
+Haiti,hti,Amerika,2019-01-01,63.79,11263079,1371.94239
+Indonesia,idn,Asia,1800-01-01,30,16108545,NA
+Indonesia,idn,Asia,1805-01-01,30,16320476,NA
+Indonesia,idn,Asia,1810-01-01,30,16537268,NA
+Indonesia,idn,Asia,1815-01-01,30,16824830,NA
+Indonesia,idn,Asia,1820-01-01,30,17236636,NA
+Indonesia,idn,Asia,1825-01-01,30,17779408,NA
+Indonesia,idn,Asia,1830-01-01,30,18460171,NA
+Indonesia,idn,Asia,1835-01-01,30,19239776,NA
+Indonesia,idn,Asia,1840-01-01,30,20052305,NA
+Indonesia,idn,Asia,1845-01-01,30,20951238,NA
+Indonesia,idn,Asia,1850-01-01,30,21979198,NA
+Indonesia,idn,Asia,1855-01-01,30,23026076,NA
+Indonesia,idn,Asia,1860-01-01,30,24210654,NA
+Indonesia,idn,Asia,1865-01-01,30,25621069,NA
+Indonesia,idn,Asia,1870-01-01,30,27065428,NA
+Indonesia,idn,Asia,1875-01-01,30,28625397,NA
+Indonesia,idn,Asia,1880-01-01,30,30090338,NA
+Indonesia,idn,Asia,1885-01-01,30,31854088,NA
+Indonesia,idn,Asia,1890-01-01,30,33754719,NA
+Indonesia,idn,Asia,1895-01-01,30,35830086,NA
+Indonesia,idn,Asia,1900-01-01,30,38169857,NA
+Indonesia,idn,Asia,1905-01-01,30,40562543,NA
+Indonesia,idn,Asia,1910-01-01,30,42807209,NA
+Indonesia,idn,Asia,1915-01-01,30,45103442,NA
+Indonesia,idn,Asia,1920-01-01,30,47287781,NA
+Indonesia,idn,Asia,1925-01-01,30,50222778,NA
+Indonesia,idn,Asia,1930-01-01,31.5,53403727,NA
+Indonesia,idn,Asia,1935-01-01,34,57406182,NA
+Indonesia,idn,Asia,1940-01-01,36.13,61821590,NA
+Indonesia,idn,Asia,1945-01-01,26,64871933,NA
+Indonesia,idn,Asia,1950-01-01,36.4,69543321,NA
+Indonesia,idn,Asia,1955-01-01,40.52,77273427,NA
+Indonesia,idn,Asia,1960-01-01,44.8,87751066,601.44692
+Indonesia,idn,Asia,1965-01-01,43.5,100267070,579.92464
+Indonesia,idn,Asia,1970-01-01,53.67,114793179,672.67672
+Indonesia,idn,Asia,1975-01-01,56.92,130680730,826.83318
+Indonesia,idn,Asia,1980-01-01,59.71,147447834,1072.61298
+Indonesia,idn,Asia,1985-01-01,62.11,164982452,1208.11681
+Indonesia,idn,Asia,1990-01-01,64.05,181413398,1487.84551
+Indonesia,idn,Asia,1995-01-01,66.04,196934257,1934.12343
+Indonesia,idn,Asia,2000-01-01,67.24,211513822,1867.5488
+Indonesia,idn,Asia,2005-01-01,68.26,226289468,2199.09391
+Indonesia,idn,Asia,2010-01-01,69.34,241834226,2720.19162
+Indonesia,idn,Asia,2015-01-01,70.44,258383257,3331.69511
+Indonesia,idn,Asia,2019-01-01,71.39,270625567,3877.38298
+India,ind,Asia,1800-01-01,25.44,200733034,NA
+India,ind,Asia,1805-01-01,25.44,202719931,NA
+India,ind,Asia,1810-01-01,25.44,204741058,NA
+India,ind,Asia,1815-01-01,25.44,207045590,NA
+India,ind,Asia,1820-01-01,25.44,209843353,NA
+India,ind,Asia,1825-01-01,25.44,213248635,NA
+India,ind,Asia,1830-01-01,25.44,217580116,NA
+India,ind,Asia,1835-01-01,25.44,221999558,NA
+India,ind,Asia,1840-01-01,25.44,226508764,NA
+India,ind,Asia,1845-01-01,25.44,231109563,NA
+India,ind,Asia,1850-01-01,25.44,235732435,NA
+India,ind,Asia,1855-01-01,25.44,240557565,NA
+India,ind,Asia,1860-01-01,23,245406706,NA
+India,ind,Asia,1865-01-01,25.25,250352166,NA
+India,ind,Asia,1870-01-01,25.44,255107500,NA
+India,ind,Asia,1875-01-01,25.5,258107664,NA
+India,ind,Asia,1880-01-01,26.23,261908874,NA
+India,ind,Asia,1885-01-01,26.13,272636189,NA
+India,ind,Asia,1890-01-01,25.89,283791657,NA
+India,ind,Asia,1895-01-01,25.8,288055133,NA
+India,ind,Asia,1900-01-01,20.05,291979136,NA
+India,ind,Asia,1905-01-01,24.26,300803415,NA
+India,ind,Asia,1910-01-01,26.04,309772810,NA
+India,ind,Asia,1915-01-01,27.23,313184465,NA
+India,ind,Asia,1920-01-01,28.53,316895450,NA
+India,ind,Asia,1925-01-01,31.16,330819124,NA
+India,ind,Asia,1930-01-01,34.21,348015421,NA
+India,ind,Asia,1935-01-01,36.77,372221763,NA
+India,ind,Asia,1940-01-01,39.23,393975786,NA
+India,ind,Asia,1945-01-01,41.36,384468277,NA
+India,ind,Asia,1950-01-01,43.42,376325200,NA
+India,ind,Asia,1955-01-01,45.84,409880606,NA
+India,ind,Asia,1960-01-01,45.75,450547675,302.67182
+India,ind,Asia,1965-01-01,45.71,499123328,323.46411
+India,ind,Asia,1970-01-01,49.33,555189797,362.99106
+India,ind,Asia,1975-01-01,51.59,623102900,372.96462
+India,ind,Asia,1980-01-01,55.17,698952837,387.64086
+India,ind,Asia,1985-01-01,57.3,784360012,444.23266
+India,ind,Asia,1990-01-01,59.58,873277799,532.75455
+India,ind,Asia,1995-01-01,61.74,963922586,618.36777
+India,ind,Asia,2000-01-01,62.94,1056575548,757.66875
+India,ind,Asia,2005-01-01,65.39,1147609924,953.56797
+India,ind,Asia,2010-01-01,67.28,1234281163,1244.36602
+India,ind,Asia,2015-01-01,69.36,1310152392,1605.60544
+India,ind,Asia,2019-01-01,70.77,1366417756,1972.75782
+Iran,irn,Asia,1800-01-01,25.6,6000000,NA
+Iran,irn,Asia,1805-01-01,25.6,6135351,NA
+Iran,irn,Asia,1810-01-01,25.6,6273880,NA
+Iran,irn,Asia,1815-01-01,25.6,6415409,NA
+Iran,irn,Asia,1820-01-01,25.6,6560139,NA
+Iran,irn,Asia,1825-01-01,25.6,6708191,NA
+Iran,irn,Asia,1830-01-01,25.6,6859592,NA
+Iran,irn,Asia,1835-01-01,25.6,7014411,NA
+Iran,irn,Asia,1840-01-01,25.6,7172724,NA
+Iran,irn,Asia,1845-01-01,25.6,7334610,NA
+Iran,irn,Asia,1850-01-01,25.6,7506013,NA
+Iran,irn,Asia,1855-01-01,25.6,7739063,NA
+Iran,irn,Asia,1860-01-01,25.6,7985429,NA
+Iran,irn,Asia,1865-01-01,25.6,8239583,NA
+Iran,irn,Asia,1870-01-01,25.6,8489461,NA
+Iran,irn,Asia,1875-01-01,25.6,8667628,NA
+Iran,irn,Asia,1880-01-01,25.6,8836855,NA
+Iran,irn,Asia,1885-01-01,25.6,9009328,NA
+Iran,irn,Asia,1890-01-01,25.6,9225116,NA
+Iran,irn,Asia,1895-01-01,25.6,9707301,NA
+Iran,irn,Asia,1900-01-01,25.6,10251461,NA
+Iran,irn,Asia,1905-01-01,25.6,10782559,NA
+Iran,irn,Asia,1910-01-01,25.6,11135222,NA
+Iran,irn,Asia,1915-01-01,25.6,10283552,NA
+Iran,irn,Asia,1920-01-01,25.6,9616421,NA
+Iran,irn,Asia,1925-01-01,25.6,11023644,NA
+Iran,irn,Asia,1930-01-01,25.6,12907265,NA
+Iran,irn,Asia,1935-01-01,25.61,14219801,NA
+Iran,irn,Asia,1940-01-01,25.61,15436984,NA
+Iran,irn,Asia,1945-01-01,32.52,16204359,NA
+Iran,irn,Asia,1950-01-01,39.43,17119262,NA
+Iran,irn,Asia,1955-01-01,41.21,19294136,NA
+Iran,irn,Asia,1960-01-01,44.48,21906909,2392.80515
+Iran,irn,Asia,1965-01-01,48.71,24954865,3490.54992
+Iran,irn,Asia,1970-01-01,54.51,28513872,5627.63753
+Iran,irn,Asia,1975-01-01,61.47,32729772,7250.33677
+Iran,irn,Asia,1980-01-01,64.7,38650244,3868.48831
+Iran,irn,Asia,1985-01-01,66.31,47347197,3850.0112
+Iran,irn,Asia,1990-01-01,66.68,56366212,3333.44439
+Iran,irn,Asia,1995-01-01,70.37,61442658,3599.60481
+Iran,irn,Asia,2000-01-01,71.94,65623397,3888.05098
+Iran,irn,Asia,2005-01-01,73.55,69762345,4634.01062
+Iran,irn,Asia,2010-01-01,75.45,73762519,5332.10806
+Iran,irn,Asia,2015-01-01,76.69,78492208,4904.32731
+Iran,irn,Asia,2019-01-01,77.76,82913893,4785.02788
+Italy,ita,Europa,1800-01-01,29.69,19000000,NA
+Italy,ita,Europa,1805-01-01,29.69,19287412,NA
+Italy,ita,Europa,1810-01-01,29.69,19579349,NA
+Italy,ita,Europa,1815-01-01,29.69,19875525,NA
+Italy,ita,Europa,1820-01-01,29.69,20217832,NA
+Italy,ita,Europa,1825-01-01,29.69,20834635,NA
+Italy,ita,Europa,1830-01-01,29.69,21513909,NA
+Italy,ita,Europa,1835-01-01,29.69,22215476,NA
+Italy,ita,Europa,1840-01-01,29.69,22939972,NA
+Italy,ita,Europa,1845-01-01,29.69,23688271,NA
+Italy,ita,Europa,1850-01-01,29.69,24460960,NA
+Italy,ita,Europa,1855-01-01,29.69,25237854,NA
+Italy,ita,Europa,1860-01-01,29.69,26043812,NA
+Italy,ita,Europa,1865-01-01,29.69,26904320,NA
+Italy,ita,Europa,1870-01-01,29.69,27781643,NA
+Italy,ita,Europa,1875-01-01,31.31,28582629,NA
+Italy,ita,Europa,1880-01-01,32.75,29413896,NA
+Italy,ita,Europa,1885-01-01,36.84,30424924,NA
+Italy,ita,Europa,1890-01-01,38.52,31475731,NA
+Italy,ita,Europa,1895-01-01,39.63,32432529,NA
+Italy,ita,Europa,1900-01-01,41.69,33442744,NA
+Italy,ita,Europa,1905-01-01,43.98,34778313,NA
+Italy,ita,Europa,1910-01-01,46.8,36082944,NA
+Italy,ita,Europa,1915-01-01,42.39,36589157,NA
+Italy,ita,Europa,1920-01-01,45.57,37132267,NA
+Italy,ita,Europa,1925-01-01,51.38,38631982,NA
+Italy,ita,Europa,1930-01-01,55.28,40338080,NA
+Italy,ita,Europa,1935-01-01,56.31,42065207,NA
+Italy,ita,Europa,1940-01-01,57.05,43796279,NA
+Italy,ita,Europa,1945-01-01,54.88,45202244,NA
+Italy,ita,Europa,1950-01-01,65.9,46598599,NA
+Italy,ita,Europa,1955-01-01,68.43,48335577,NA
+Italy,ita,Europa,1960-01-01,69.86,49699947,9683.75181
+Italy,ita,Europa,1965-01-01,70.87,51677247,12018.57835
+Italy,ita,Europa,1970-01-01,71.81,53518966,15729.85644
+Italy,ita,Europa,1975-01-01,72.86,55265280,17839.79865
+Italy,ita,Europa,1980-01-01,74.2,56349352,21786.4911
+Italy,ita,Europa,1985-01-01,75.79,56936776,23617.24945
+Italy,ita,Europa,1990-01-01,77.16,57048237,27479.57863
+Italy,ita,Europa,1995-01-01,78.22,57174412,29253.32217
+Italy,ita,Europa,2000-01-01,79.64,56692178,32337.89674
+Italy,ita,Europa,2005-01-01,80.99,58281209,33244.39755
+Italy,ita,Europa,2010-01-01,82.08,59325232,32045.28407
+Italy,ita,Europa,2015-01-01,82.74,60578489,30230.2263
+Italy,ita,Europa,2019-01-01,83.1,60550092,32043.90737
+Japan,jpn,Asia,1800-01-01,36.4,28000000,NA
+Japan,jpn,Asia,1805-01-01,36.4,28721621,NA
+Japan,jpn,Asia,1810-01-01,36.4,29462603,NA
+Japan,jpn,Asia,1815-01-01,36.41,30221918,NA
+Japan,jpn,Asia,1820-01-01,36.41,30925444,NA
+Japan,jpn,Asia,1825-01-01,36.41,31164504,NA
+Japan,jpn,Asia,1830-01-01,36.41,31329845,NA
+Japan,jpn,Asia,1835-01-01,36.41,31496064,NA
+Japan,jpn,Asia,1840-01-01,36.42,31663166,NA
+Japan,jpn,Asia,1845-01-01,36.42,31831155,NA
+Japan,jpn,Asia,1850-01-01,36.42,32050374,NA
+Japan,jpn,Asia,1855-01-01,36.42,32566801,NA
+Japan,jpn,Asia,1860-01-01,36.42,33143175,NA
+Japan,jpn,Asia,1865-01-01,36.43,33729730,NA
+Japan,jpn,Asia,1870-01-01,36.59,34388672,NA
+Japan,jpn,Asia,1875-01-01,36.82,35460646,NA
+Japan,jpn,Asia,1880-01-01,37.07,36672261,NA
+Japan,jpn,Asia,1885-01-01,37.38,38193692,NA
+Japan,jpn,Asia,1890-01-01,37.75,39847686,NA
+Japan,jpn,Asia,1895-01-01,38.19,41741258,NA
+Japan,jpn,Asia,1900-01-01,38.71,43805856,NA
+Japan,jpn,Asia,1905-01-01,39.35,46324792,NA
+Japan,jpn,Asia,1910-01-01,40.13,49058391,NA
+Japan,jpn,Asia,1915-01-01,41.08,52031339,NA
+Japan,jpn,Asia,1920-01-01,42.25,55292553,NA
+Japan,jpn,Asia,1925-01-01,44.68,59230123,NA
+Japan,jpn,Asia,1930-01-01,46.9,63476570,NA
+Japan,jpn,Asia,1935-01-01,48.54,67718104,NA
+Japan,jpn,Asia,1940-01-01,49.33,72238836,NA
+Japan,jpn,Asia,1945-01-01,30.76,77370299,NA
+Japan,jpn,Asia,1950-01-01,59.75,82802084,NA
+Japan,jpn,Asia,1955-01-01,66.12,89018255,NA
+Japan,jpn,Asia,1960-01-01,68.31,93673612,6260.67597
+Japan,jpn,Asia,1965-01-01,70.86,98447007,9319.70656
+Japan,jpn,Asia,1970-01-01,72.65,104929260,14122.30527
+Japan,jpn,Asia,1975-01-01,74.77,112413362,16342.92054
+Japan,jpn,Asia,1980-01-01,76.57,117816942,19345.31902
+Japan,jpn,Asia,1985-01-01,78.16,121883483,22920.24698
+Japan,jpn,Asia,1990-01-01,79.41,124505243,28508.39127
+Japan,jpn,Asia,1995-01-01,80.24,126365486,30171.16379
+Japan,jpn,Asia,2000-01-01,81.57,127524168,31430.63113
+Japan,jpn,Asia,2005-01-01,82.5,128326115,33098.54747
+Japan,jpn,Asia,2010-01-01,83.34,128542349,32942.20208
+Japan,jpn,Asia,2015-01-01,84.35,127985139,34960.63938
+Japan,jpn,Asia,2019-01-01,84.8,126860299,36362.35732
+Kenya,ken,Afrika,1800-01-01,25.5,2574000,NA
+Kenya,ken,Afrika,1805-01-01,25.5,2642955,NA
+Kenya,ken,Afrika,1810-01-01,25.5,2713833,NA
+Kenya,ken,Afrika,1815-01-01,25.5,2786533,NA
+Kenya,ken,Afrika,1820-01-01,25.5,2861182,NA
+Kenya,ken,Afrika,1825-01-01,25.5,2937830,NA
+Kenya,ken,Afrika,1830-01-01,25.5,3016531,NA
+Kenya,ken,Afrika,1835-01-01,25.5,3097341,NA
+Kenya,ken,Afrika,1840-01-01,25.5,3180316,NA
+Kenya,ken,Afrika,1845-01-01,25.5,3265513,NA
+Kenya,ken,Afrika,1850-01-01,25.5,3354404,NA
+Kenya,ken,Afrika,1855-01-01,25.5,3452962,NA
+Kenya,ken,Afrika,1860-01-01,25.5,3555884,NA
+Kenya,ken,Afrika,1865-01-01,25.5,3661872,NA
+Kenya,ken,Afrika,1870-01-01,25.5,3773291,NA
+Kenya,ken,Afrika,1875-01-01,25.78,3902807,NA
+Kenya,ken,Afrika,1880-01-01,26.05,4039148,NA
+Kenya,ken,Afrika,1885-01-01,26.33,4180250,NA
+Kenya,ken,Afrika,1890-01-01,26.6,4295113,NA
+Kenya,ken,Afrika,1895-01-01,26.88,4216818,NA
+Kenya,ken,Afrika,1900-01-01,27.15,4102855,NA
+Kenya,ken,Afrika,1905-01-01,27.43,3946438,NA
+Kenya,ken,Afrika,1910-01-01,27.7,3802626,NA
+Kenya,ken,Afrika,1915-01-01,27.98,3749031,NA
+Kenya,ken,Afrika,1920-01-01,28.25,3753401,NA
+Kenya,ken,Afrika,1925-01-01,27.47,4038350,NA
+Kenya,ken,Afrika,1930-01-01,27.85,4385493,NA
+Kenya,ken,Afrika,1935-01-01,29.51,4709329,NA
+Kenya,ken,Afrika,1940-01-01,31.41,5060586,NA
+Kenya,ken,Afrika,1945-01-01,33.49,5520037,NA
+Kenya,ken,Afrika,1950-01-01,48.76,6076757,NA
+Kenya,ken,Afrika,1955-01-01,50.93,6987658,NA
+Kenya,ken,Afrika,1960-01-01,54.29,8120082,657.30495
+Kenya,ken,Afrika,1965-01-01,56.31,9530163,658.48511
+Kenya,ken,Afrika,1970-01-01,58.15,11301394,731.90262
+Kenya,ken,Afrika,1975-01-01,60.24,13575898,968.92608
+Kenya,ken,Afrika,1980-01-01,62.21,16417203,1088.37662
+Kenya,ken,Afrika,1985-01-01,63.39,19877078,1018.1173
+Kenya,ken,Afrika,1990-01-01,62.12,23724574,1121.97367
+Kenya,ken,Afrika,1995-01-01,57.04,27768297,1037.26942
+Kenya,ken,Afrika,2000-01-01,54.83,31964557,1002.37486
+Kenya,ken,Afrika,2005-01-01,56.51,36624897,1045.92472
+Kenya,ken,Afrika,2010-01-01,61.18,42030684,1163.89697
+Kenya,ken,Afrika,2015-01-01,64.42,47878339,1336.88327
+Kenya,ken,Afrika,2019-01-01,66.51,52573967,1513.43727
+South Korea,kor,Asia,1800-01-01,25.8,9395000,NA
+South Korea,kor,Asia,1805-01-01,25.8,9395000,NA
+South Korea,kor,Asia,1810-01-01,25.8,9395000,NA
+South Korea,kor,Asia,1815-01-01,25.8,9395000,NA
+South Korea,kor,Asia,1820-01-01,25.8,9397978,NA
+South Korea,kor,Asia,1825-01-01,25.8,9419838,NA
+South Korea,kor,Asia,1830-01-01,25.8,9444739,NA
+South Korea,kor,Asia,1835-01-01,25.8,9469706,NA
+South Korea,kor,Asia,1840-01-01,25.8,9494738,NA
+South Korea,kor,Asia,1845-01-01,25.8,9519837,NA
+South Korea,kor,Asia,1850-01-01,25.8,9548156,NA
+South Korea,kor,Asia,1855-01-01,25.8,9544657,NA
+South Korea,kor,Asia,1860-01-01,25.8,9544021,NA
+South Korea,kor,Asia,1865-01-01,25.8,9543099,NA
+South Korea,kor,Asia,1870-01-01,25.8,9538488,NA
+South Korea,kor,Asia,1875-01-01,25.8,9512122,NA
+South Korea,kor,Asia,1880-01-01,25.8,9482164,NA
+South Korea,kor,Asia,1885-01-01,25.8,9452005,NA
+South Korea,kor,Asia,1890-01-01,25.8,9421653,NA
+South Korea,kor,Asia,1895-01-01,25.8,9391152,NA
+South Korea,kor,Asia,1900-01-01,25.8,9368981,NA
+South Korea,kor,Asia,1905-01-01,24.88,9400514,NA
+South Korea,kor,Asia,1910-01-01,24.1,9518738,NA
+South Korea,kor,Asia,1915-01-01,25.98,10151112,NA
+South Korea,kor,Asia,1920-01-01,28,10955505,NA
+South Korea,kor,Asia,1925-01-01,31.16,11883485,NA
+South Korea,kor,Asia,1930-01-01,35.12,12858761,NA
+South Korea,kor,Asia,1935-01-01,39.46,13671324,NA
+South Korea,kor,Asia,1940-01-01,43.73,14649622,NA
+South Korea,kor,Asia,1945-01-01,42.5,16753792,NA
+South Korea,kor,Asia,1950-01-01,43,19211387,NA
+South Korea,kor,Asia,1955-01-01,55.9,21514564,NA
+South Korea,kor,Asia,1960-01-01,59.11,25329521,1027.46854
+South Korea,kor,Asia,1965-01-01,61.36,28895557,1274.04151
+South Korea,kor,Asia,1970-01-01,63.57,32195679,1977.07104
+South Korea,kor,Asia,1975-01-01,65.73,35378657,2905.62382
+South Korea,kor,Asia,1980-01-01,67.33,38045605,4055.79084
+South Korea,kor,Asia,1985-01-01,69.87,40804406,5950.80043
+South Korea,kor,Asia,1990-01-01,72.13,42918416,9365.39499
+South Korea,kor,Asia,1995-01-01,74.34,45292521,13408.68142
+South Korea,kor,Asia,2000-01-01,76.34,47379237,16992.47908
+South Korea,kor,Asia,2005-01-01,78.78,48701069,21193.35751
+South Korea,kor,Asia,2010-01-01,80.82,49545638,25451.00416
+South Korea,kor,Asia,2015-01-01,82.61,50823087,28732.23108
+South Korea,kor,Asia,2019-01-01,82.92,51225321,31610.919
+Lesotho,lso,Afrika,1800-01-01,32.8,276361,NA
+Lesotho,lso,Afrika,1805-01-01,32.8,276361,NA
+Lesotho,lso,Afrika,1810-01-01,32.8,276361,NA
+Lesotho,lso,Afrika,1815-01-01,32.8,276361,NA
+Lesotho,lso,Afrika,1820-01-01,32.8,273955,NA
+Lesotho,lso,Afrika,1825-01-01,32.8,256850,NA
+Lesotho,lso,Afrika,1830-01-01,32.8,238664,NA
+Lesotho,lso,Afrika,1835-01-01,32.8,221767,NA
+Lesotho,lso,Afrika,1840-01-01,32.8,206065,NA
+Lesotho,lso,Afrika,1845-01-01,32.8,191475,NA
+Lesotho,lso,Afrika,1850-01-01,32.8,180549,NA
+Lesotho,lso,Afrika,1855-01-01,32.8,186541,NA
+Lesotho,lso,Afrika,1860-01-01,32.8,195602,NA
+Lesotho,lso,Afrika,1865-01-01,32.8,205101,NA
+Lesotho,lso,Afrika,1870-01-01,32.8,215060,NA
+Lesotho,lso,Afrika,1875-01-01,33.35,225501,NA
+Lesotho,lso,Afrika,1880-01-01,33.89,236447,NA
+Lesotho,lso,Afrika,1885-01-01,34.44,247922,NA
+Lesotho,lso,Afrika,1890-01-01,34.99,259951,NA
+Lesotho,lso,Afrika,1895-01-01,35.54,272562,NA
+Lesotho,lso,Afrika,1900-01-01,36.08,286881,NA
+Lesotho,lso,Afrika,1905-01-01,36.63,309224,NA
+Lesotho,lso,Afrika,1910-01-01,37.18,334338,NA
+Lesotho,lso,Afrika,1915-01-01,37.73,360217,NA
+Lesotho,lso,Afrika,1920-01-01,38.27,389867,NA
+Lesotho,lso,Afrika,1925-01-01,38.82,431235,NA
+Lesotho,lso,Afrika,1930-01-01,39.37,478254,NA
+Lesotho,lso,Afrika,1935-01-01,39.92,528759,NA
+Lesotho,lso,Afrika,1940-01-01,40.46,583968,NA
+Lesotho,lso,Afrika,1945-01-01,41.01,642557,NA
+Lesotho,lso,Afrika,1950-01-01,51.97,704686,NA
+Lesotho,lso,Afrika,1955-01-01,52.62,766763,NA
+Lesotho,lso,Afrika,1960-01-01,53.28,837264,231.13696
+Lesotho,lso,Afrika,1965-01-01,53.58,922307,301.53106
+Lesotho,lso,Afrika,1970-01-01,54.61,1028930,308.64646
+Lesotho,lso,Afrika,1975-01-01,56.2,1160795,348.19858
+Lesotho,lso,Afrika,1980-01-01,58.48,1340258,482.98996
+Lesotho,lso,Afrika,1985-01-01,60,1526132,492.72801
+Lesotho,lso,Afrika,1990-01-01,60.63,1703757,567.05998
+Lesotho,lso,Afrika,1995-01-01,57.15,1898598,659.66803
+Lesotho,lso,Afrika,2000-01-01,48.47,2032805,715.00851
+Lesotho,lso,Afrika,2005-01-01,43.88,1996115,835.60978
+Lesotho,lso,Afrika,2010-01-01,48.12,1995575,995.58136
+Lesotho,lso,Afrika,2015-01-01,48.47,2059011,1146.06469
+Lesotho,lso,Afrika,2019-01-01,51.77,2125267,1096.21697
+Luxembourg,lux,Europa,1800-01-01,36.9,127030,NA
+Luxembourg,lux,Europa,1805-01-01,36.9,127030,NA
+Luxembourg,lux,Europa,1810-01-01,36.9,127030,NA
+Luxembourg,lux,Europa,1815-01-01,36.9,127030,NA
+Luxembourg,lux,Europa,1820-01-01,36.9,129306,NA
+Luxembourg,lux,Europa,1825-01-01,36.9,147078,NA
+Luxembourg,lux,Europa,1830-01-01,36.9,167685,NA
+Luxembourg,lux,Europa,1835-01-01,36.9,174934,NA
+Luxembourg,lux,Europa,1840-01-01,36.9,180143,NA
+Luxembourg,lux,Europa,1845-01-01,36.9,186396,NA
+Luxembourg,lux,Europa,1850-01-01,36.9,192785,NA
+Luxembourg,lux,Europa,1855-01-01,36.9,197893,NA
+Luxembourg,lux,Europa,1860-01-01,36.9,201985,NA
+Luxembourg,lux,Europa,1865-01-01,36.9,200338,NA
+Luxembourg,lux,Europa,1870-01-01,36.9,198803,NA
+Luxembourg,lux,Europa,1875-01-01,36.94,203668,NA
+Luxembourg,lux,Europa,1880-01-01,37.48,209013,NA
+Luxembourg,lux,Europa,1885-01-01,40.05,210137,NA
+Luxembourg,lux,Europa,1890-01-01,42.62,211953,NA
+Luxembourg,lux,Europa,1895-01-01,45.2,222684,NA
+Luxembourg,lux,Europa,1900-01-01,47.78,235231,NA
+Luxembourg,lux,Europa,1905-01-01,46.56,247062,NA
+Luxembourg,lux,Europa,1910-01-01,50.09,258268,NA
+Luxembourg,lux,Europa,1915-01-01,51.97,263618,NA
+Luxembourg,lux,Europa,1920-01-01,55.21,269337,NA
+Luxembourg,lux,Europa,1925-01-01,55.44,283174,NA
+Luxembourg,lux,Europa,1930-01-01,57.53,297131,NA
+Luxembourg,lux,Europa,1935-01-01,59.93,299508,NA
+Luxembourg,lux,Europa,1940-01-01,62.88,299621,NA
+Luxembourg,lux,Europa,1945-01-01,50.2,297298,NA
+Luxembourg,lux,Europa,1950-01-01,66.37,296005,NA
+Luxembourg,lux,Europa,1955-01-01,67.48,305262,NA
+Luxembourg,lux,Europa,1960-01-01,68.94,314585,25509.9213
+Luxembourg,lux,Europa,1965-01-01,69.62,330160,28161.93877
+Luxembourg,lux,Europa,1970-01-01,70.15,339672,33394.55721
+Luxembourg,lux,Europa,1975-01-01,71.15,353984,36418.41917
+Luxembourg,lux,Europa,1980-01-01,72.63,364048,40156.94617
+Luxembourg,lux,Europa,1985-01-01,73.88,366882,45084.73832
+Luxembourg,lux,Europa,1990-01-01,75.25,381780,62086.98726
+Luxembourg,lux,Europa,1995-01-01,76.64,408145,70426.7596
+Luxembourg,lux,Europa,2000-01-01,78.01,436106,88025.83966
+Luxembourg,lux,Europa,2005-01-01,79.55,457848,95483.07764
+Luxembourg,lux,Europa,2010-01-01,81.02,507890,98859.0833
+Luxembourg,lux,Europa,2015-01-01,82.34,566741,101376.49657
+Luxembourg,lux,Europa,2019-01-01,82.92,615730,104583.7159
+Madagascar,mdg,Afrika,1800-01-01,30.5,1500000,NA
+Madagascar,mdg,Afrika,1805-01-01,30.5,1543794,NA
+Madagascar,mdg,Afrika,1810-01-01,30.5,1588920,NA
+Madagascar,mdg,Afrika,1815-01-01,30.5,1635311,NA
+Madagascar,mdg,Afrika,1820-01-01,30.5,1692445,NA
+Madagascar,mdg,Afrika,1825-01-01,30.5,1813529,NA
+Madagascar,mdg,Afrika,1830-01-01,30.5,1953749,NA
+Madagascar,mdg,Afrika,1835-01-01,30.5,2104810,NA
+Madagascar,mdg,Afrika,1840-01-01,30.5,2267551,NA
+Madagascar,mdg,Afrika,1845-01-01,30.5,2442874,NA
+Madagascar,mdg,Afrika,1850-01-01,30.5,2612685,NA
+Madagascar,mdg,Afrika,1855-01-01,30.5,2663048,NA
+Madagascar,mdg,Afrika,1860-01-01,30.5,2695264,NA
+Madagascar,mdg,Afrika,1865-01-01,30.5,2727847,NA
+Madagascar,mdg,Afrika,1870-01-01,30.5,2762459,NA
+Madagascar,mdg,Afrika,1875-01-01,30.82,2808101,NA
+Madagascar,mdg,Afrika,1880-01-01,31.14,2856168,NA
+Madagascar,mdg,Afrika,1885-01-01,31.46,2905031,NA
+Madagascar,mdg,Afrika,1890-01-01,31.78,2935223,NA
+Madagascar,mdg,Afrika,1895-01-01,32.1,2844235,NA
+Madagascar,mdg,Afrika,1900-01-01,32.42,2742689,NA
+Madagascar,mdg,Afrika,1905-01-01,32.74,2675244,NA
+Madagascar,mdg,Afrika,1910-01-01,33.06,2617331,NA
+Madagascar,mdg,Afrika,1915-01-01,33.38,2580246,NA
+Madagascar,mdg,Afrika,1920-01-01,33.7,2577561,NA
+Madagascar,mdg,Afrika,1925-01-01,34.03,2749206,NA
+Madagascar,mdg,Afrika,1930-01-01,34.35,2959882,NA
+Madagascar,mdg,Afrika,1935-01-01,34.67,3174789,NA
+Madagascar,mdg,Afrika,1940-01-01,34.99,3411589,NA
+Madagascar,mdg,Afrika,1945-01-01,35.31,3721327,NA
+Madagascar,mdg,Afrika,1950-01-01,41.29,4083548,NA
+Madagascar,mdg,Afrika,1955-01-01,42.5,4543540,NA
+Madagascar,mdg,Afrika,1960-01-01,44.83,5099368,814.10797
+Madagascar,mdg,Afrika,1965-01-01,46.87,5769215,770.00693
+Madagascar,mdg,Afrika,1970-01-01,48.44,6576305,848.71437
+Madagascar,mdg,Afrika,1975-01-01,52.03,7556032,762.36671
+Madagascar,mdg,Afrika,1980-01-01,54.9,8716549,707.85355
+Madagascar,mdg,Afrika,1985-01-01,54.79,10063493,563.47799
+Madagascar,mdg,Afrika,1990-01-01,55.92,11598647,559.75498
+Madagascar,mdg,Afrika,1995-01-01,57.92,13475403,473.96276
+Madagascar,mdg,Afrika,2000-01-01,59.52,15766806,487.66025
+Madagascar,mdg,Afrika,2005-01-01,61.1,18336722,471.19502
+Madagascar,mdg,Afrika,2010-01-01,62.57,21151640,469.24061
+Madagascar,mdg,Afrika,2015-01-01,64.16,24234080,467.23555
+Madagascar,mdg,Afrika,2019-01-01,65.48,26969306,488.91386
+Mexico,mex,Amerika,1800-01-01,26.9,5100000,NA
+Mexico,mex,Amerika,1805-01-01,26.9,5436878,NA
+Mexico,mex,Amerika,1810-01-01,26.9,5796956,NA
+Mexico,mex,Amerika,1815-01-01,26.9,6179870,NA
+Mexico,mex,Amerika,1820-01-01,26.9,6524512,NA
+Mexico,mex,Amerika,1825-01-01,26.9,6483755,NA
+Mexico,mex,Amerika,1830-01-01,26.9,6432243,NA
+Mexico,mex,Amerika,1835-01-01,26.9,6705488,NA
+Mexico,mex,Amerika,1840-01-01,26.9,7038422,NA
+Mexico,mex,Amerika,1845-01-01,26.9,7347024,NA
+Mexico,mex,Amerika,1850-01-01,26.9,7688866,NA
+Mexico,mex,Amerika,1855-01-01,26.9,8209252,NA
+Mexico,mex,Amerika,1860-01-01,26.9,8742630,NA
+Mexico,mex,Amerika,1865-01-01,26.9,8978788,NA
+Mexico,mex,Amerika,1870-01-01,26.9,9211475,NA
+Mexico,mex,Amerika,1875-01-01,26.91,9726329,NA
+Mexico,mex,Amerika,1880-01-01,26.91,10315914,NA
+Mexico,mex,Amerika,1885-01-01,26.92,10940851,NA
+Mexico,mex,Amerika,1890-01-01,26.93,11623615,NA
+Mexico,mex,Amerika,1895-01-01,29.56,12481874,NA
+Mexico,mex,Amerika,1900-01-01,27.62,13383654,NA
+Mexico,mex,Amerika,1905-01-01,26.85,14074971,NA
+Mexico,mex,Amerika,1910-01-01,27.47,14664634,NA
+Mexico,mex,Amerika,1915-01-01,29.64,14686634,NA
+Mexico,mex,Amerika,1920-01-01,31.82,14761605,NA
+Mexico,mex,Amerika,1925-01-01,32.19,15709880,NA
+Mexico,mex,Amerika,1930-01-01,36.32,16897410,NA
+Mexico,mex,Amerika,1935-01-01,40.54,18380643,NA
+Mexico,mex,Amerika,1940-01-01,39.35,20232300,NA
+Mexico,mex,Amerika,1945-01-01,44.38,23690741,NA
+Mexico,mex,Amerika,1950-01-01,48.76,27944671,NA
+Mexico,mex,Amerika,1955-01-01,53.59,32350593,NA
+Mexico,mex,Amerika,1960-01-01,57.15,37771861,3741.92977
+Mexico,mex,Amerika,1965-01-01,59.87,44123863,4561.13604
+Mexico,mex,Amerika,1970-01-01,61.44,51493565,5290.20428
+Mexico,mex,Amerika,1975-01-01,64.21,59607947,6191.80955
+Mexico,mex,Amerika,1980-01-01,66.19,67761367,7677.2031
+Mexico,mex,Amerika,1985-01-01,68.62,75983486,7538.47354
+Mexico,mex,Amerika,1990-01-01,70.85,83943135,7460.69661
+Mexico,mex,Amerika,1995-01-01,72.35,91663290,7390.71472
+Mexico,mex,Amerika,2000-01-01,74.21,98899845,8861.86957
+Mexico,mex,Amerika,2005-01-01,75.01,106005199,8877.85129
+Mexico,mex,Amerika,2010-01-01,75.25,114092961,8878.56138
+Mexico,mex,Amerika,2015-01-01,75.73,121858251,9616.64556
+Mexico,mex,Amerika,2019-01-01,75.63,127575529,9832.45748
+Myanmar,mmr,Asia,1800-01-01,30.8,6000000,NA
+Myanmar,mmr,Asia,1805-01-01,30.8,5245857,NA
+Myanmar,mmr,Asia,1810-01-01,30.8,4589813,NA
+Myanmar,mmr,Asia,1815-01-01,30.8,4012916,NA
+Myanmar,mmr,Asia,1820-01-01,30.8,3571864,NA
+Myanmar,mmr,Asia,1825-01-01,30.8,3573704,NA
+Myanmar,mmr,Asia,1830-01-01,30.8,3642661,NA
+Myanmar,mmr,Asia,1835-01-01,30.8,3712950,NA
+Myanmar,mmr,Asia,1840-01-01,30.8,3784594,NA
+Myanmar,mmr,Asia,1845-01-01,30.8,3857621,NA
+Myanmar,mmr,Asia,1850-01-01,30.8,3932075,NA
+Myanmar,mmr,Asia,1855-01-01,30.8,3981824,NA
+Myanmar,mmr,Asia,1860-01-01,30.8,4032045,NA
+Myanmar,mmr,Asia,1865-01-01,30.8,4082719,NA
+Myanmar,mmr,Asia,1870-01-01,30.8,4093037,NA
+Myanmar,mmr,Asia,1875-01-01,30.87,3853099,NA
+Myanmar,mmr,Asia,1880-01-01,30.95,3776681,NA
+Myanmar,mmr,Asia,1885-01-01,31.02,5072095,NA
+Myanmar,mmr,Asia,1890-01-01,31.1,6950909,NA
+Myanmar,mmr,Asia,1895-01-01,31.17,8222031,NA
+Myanmar,mmr,Asia,1900-01-01,31.24,9429855,NA
+Myanmar,mmr,Asia,1905-01-01,31.32,10231085,NA
+Myanmar,mmr,Asia,1910-01-01,31.39,10960381,NA
+Myanmar,mmr,Asia,1915-01-01,31.47,11441848,NA
+Myanmar,mmr,Asia,1920-01-01,31.54,11955367,NA
+Myanmar,mmr,Asia,1925-01-01,31.61,12578523,NA
+Myanmar,mmr,Asia,1930-01-01,31.69,13267571,NA
+Myanmar,mmr,Asia,1935-01-01,31.76,14160146,NA
+Myanmar,mmr,Asia,1940-01-01,31.84,15165332,NA
+Myanmar,mmr,Asia,1945-01-01,29.01,16408672,NA
+Myanmar,mmr,Asia,1950-01-01,34.56,17779635,NA
+Myanmar,mmr,Asia,1955-01-01,36.63,19550067,NA
+Myanmar,mmr,Asia,1960-01-01,38.74,21736947,131.43922
+Myanmar,mmr,Asia,1965-01-01,40.76,24259356,145.4247
+Myanmar,mmr,Asia,1970-01-01,43.09,27269063,140.71435
+Myanmar,mmr,Asia,1975-01-01,47.02,30611093,145.28009
+Myanmar,mmr,Asia,1980-01-01,50.57,34224316,176.65073
+Myanmar,mmr,Asia,1985-01-01,53.38,37977087,201.44308
+Myanmar,mmr,Asia,1990-01-01,55.42,41335188,166.13987
+Myanmar,mmr,Asia,1995-01-01,56.96,43901598,207.72568
+Myanmar,mmr,Asia,2000-01-01,58.93,46719698,293.2675
+Myanmar,mmr,Asia,2005-01-01,61.38,48949931,512.6354
+Myanmar,mmr,Asia,2010-01-01,64.76,50600827,839.19711
+Myanmar,mmr,Asia,2015-01-01,67.73,52680724,1144.47434
+Myanmar,mmr,Asia,2019-01-01,69.46,54045422,1362.72544
+Malawi,mwi,Afrika,1800-01-01,30.3,737000,NA
+Malawi,mwi,Afrika,1805-01-01,30.3,820447,NA
+Malawi,mwi,Afrika,1810-01-01,30.3,913763,NA
+Malawi,mwi,Afrika,1815-01-01,30.3,1017225,NA
+Malawi,mwi,Afrika,1820-01-01,30.3,1132401,NA
+Malawi,mwi,Afrika,1825-01-01,30.3,1260617,NA
+Malawi,mwi,Afrika,1830-01-01,30.3,1403351,NA
+Malawi,mwi,Afrika,1835-01-01,30.3,1562247,NA
+Malawi,mwi,Afrika,1840-01-01,30.3,1739133,NA
+Malawi,mwi,Afrika,1845-01-01,30.3,1936047,NA
+Malawi,mwi,Afrika,1850-01-01,30.3,2126398,NA
+Malawi,mwi,Afrika,1855-01-01,30.3,2152788,NA
+Malawi,mwi,Afrika,1860-01-01,30.3,2150641,NA
+Malawi,mwi,Afrika,1865-01-01,30.3,2144298,NA
+Malawi,mwi,Afrika,1870-01-01,30.3,2136649,NA
+Malawi,mwi,Afrika,1875-01-01,30.21,2124862,NA
+Malawi,mwi,Afrika,1880-01-01,30.13,2116286,NA
+Malawi,mwi,Afrika,1885-01-01,30.04,2131931,NA
+Malawi,mwi,Afrika,1890-01-01,29.95,2144475,NA
+Malawi,mwi,Afrika,1895-01-01,29.86,2112530,NA
+Malawi,mwi,Afrika,1900-01-01,29.78,2069220,NA
+Malawi,mwi,Afrika,1905-01-01,29.69,1996047,NA
+Malawi,mwi,Afrika,1910-01-01,29.6,1925351,NA
+Malawi,mwi,Afrika,1915-01-01,29.51,1885782,NA
+Malawi,mwi,Afrika,1920-01-01,29.43,1870792,NA
+Malawi,mwi,Afrika,1925-01-01,29.34,1992986,NA
+Malawi,mwi,Afrika,1930-01-01,29.25,2145712,NA
+Malawi,mwi,Afrika,1935-01-01,29.16,2301506,NA
+Malawi,mwi,Afrika,1940-01-01,29.08,2473169,NA
+Malawi,mwi,Afrika,1945-01-01,28.99,2697708,NA
+Malawi,mwi,Afrika,1950-01-01,34.36,2953871,NA
+Malawi,mwi,Afrika,1955-01-01,35.85,3270545,NA
+Malawi,mwi,Afrika,1960-01-01,37.71,3659980,178.8129
+Malawi,mwi,Afrika,1965-01-01,39.55,4134464,197.28176
+Malawi,mwi,Afrika,1970-01-01,42.05,4703783,219.82924
+Malawi,mwi,Afrika,1975-01-01,45.55,5384798,275.75844
+Malawi,mwi,Afrika,1980-01-01,48.83,6250434,301.05823
+Malawi,mwi,Afrika,1985-01-01,50.16,7268271,287.21602
+Malawi,mwi,Afrika,1990-01-01,49.38,9404499,248.77129
+Malawi,mwi,Afrika,1995-01-01,46.33,9844418,275.20465
+Malawi,mwi,Afrika,2000-01-01,45.9,11148751,294.34392
+Malawi,mwi,Afrika,2005-01-01,48.88,12625950,289.04686
+Malawi,mwi,Afrika,2010-01-01,56.32,14539609,358.9409
+Malawi,mwi,Afrika,2015-01-01,62.04,16745305,380.59699
+Malawi,mwi,Afrika,2019-01-01,64.71,18628749,402.54311
+Malaysia,mys,Asia,1800-01-01,30.6,287000,NA
+Malaysia,mys,Asia,1805-01-01,30.6,287000,NA
+Malaysia,mys,Asia,1810-01-01,30.6,287000,NA
+Malaysia,mys,Asia,1815-01-01,30.6,287000,NA
+Malaysia,mys,Asia,1820-01-01,30.6,290582,NA
+Malaysia,mys,Asia,1825-01-01,30.6,318026,NA
+Malaysia,mys,Asia,1830-01-01,30.6,352258,NA
+Malaysia,mys,Asia,1835-01-01,30.6,390176,NA
+Malaysia,mys,Asia,1840-01-01,30.6,432175,NA
+Malaysia,mys,Asia,1845-01-01,30.6,478694,NA
+Malaysia,mys,Asia,1850-01-01,30.6,530268,NA
+Malaysia,mys,Asia,1855-01-01,30.6,585230,NA
+Malaysia,mys,Asia,1860-01-01,30.6,645930,NA
+Malaysia,mys,Asia,1865-01-01,30.6,712913,NA
+Malaysia,mys,Asia,1870-01-01,30.6,793546,NA
+Malaysia,mys,Asia,1875-01-01,30.6,930186,NA
+Malaysia,mys,Asia,1880-01-01,30.6,1098824,NA
+Malaysia,mys,Asia,1885-01-01,30.6,1298011,NA
+Malaysia,mys,Asia,1890-01-01,30.61,1533320,NA
+Malaysia,mys,Asia,1895-01-01,30.61,1811562,NA
+Malaysia,mys,Asia,1900-01-01,30.61,2129124,NA
+Malaysia,mys,Asia,1905-01-01,30.61,2424761,NA
+Malaysia,mys,Asia,1910-01-01,30.61,2738718,NA
+Malaysia,mys,Asia,1915-01-01,30.61,3028000,NA
+Malaysia,mys,Asia,1920-01-01,30.61,3349182,NA
+Malaysia,mys,Asia,1925-01-01,30.62,3733371,NA
+Malaysia,mys,Asia,1930-01-01,30.62,4162611,NA
+Malaysia,mys,Asia,1935-01-01,36.34,4622029,NA
+Malaysia,mys,Asia,1940-01-01,42.07,5116462,NA
+Malaysia,mys,Asia,1945-01-01,38.13,5580013,NA
+Malaysia,mys,Asia,1950-01-01,53.52,6109902,NA
+Malaysia,mys,Asia,1955-01-01,58.94,7038910,NA
+Malaysia,mys,Asia,1960-01-01,62.82,8156342,1235.23979
+Malaysia,mys,Asia,1965-01-01,65.51,9526558,1474.77312
+Malaysia,mys,Asia,1970-01-01,67.29,10804131,1747.86479
+Malaysia,mys,Asia,1975-01-01,67.51,12162189,2279.35875
+Malaysia,mys,Asia,1980-01-01,70.48,13798094,3026.37217
+Malaysia,mys,Asia,1985-01-01,70.03,15598924,3437.12776
+Malaysia,mys,Asia,1990-01-01,71.91,18029824,4139.11079
+Malaysia,mys,Asia,1995-01-01,71.82,20487604,5727.11506
+Malaysia,mys,Asia,2000-01-01,73,23194252,6392.58085
+Malaysia,mys,Asia,2005-01-01,74.12,25690615,7274.9711
+Malaysia,mys,Asia,2010-01-01,74.44,28208028,8247.78226
+Malaysia,mys,Asia,2015-01-01,75.04,30270965,9955.24272
+Malaysia,mys,Asia,2019-01-01,75.04,31949789,11391.69172
+Niger,ner,Afrika,1800-01-01,30.8,852737,NA
+Niger,ner,Afrika,1805-01-01,30.8,852737,NA
+Niger,ner,Afrika,1810-01-01,30.8,852737,NA
+Niger,ner,Afrika,1815-01-01,30.8,855962,NA
+Niger,ner,Afrika,1820-01-01,30.8,864668,NA
+Niger,ner,Afrika,1825-01-01,30.8,879001,NA
+Niger,ner,Afrika,1830-01-01,30.8,899109,NA
+Niger,ner,Afrika,1835-01-01,30.8,923000,NA
+Niger,ner,Afrika,1840-01-01,30.8,947525,NA
+Niger,ner,Afrika,1845-01-01,30.8,972702,NA
+Niger,ner,Afrika,1850-01-01,30.8,998548,NA
+Niger,ner,Afrika,1855-01-01,30.8,1017666,NA
+Niger,ner,Afrika,1860-01-01,30.8,1039722,NA
+Niger,ner,Afrika,1865-01-01,30.8,1066166,NA
+Niger,ner,Afrika,1870-01-01,30.8,1094468,NA
+Niger,ner,Afrika,1875-01-01,30.96,1127658,NA
+Niger,ner,Afrika,1880-01-01,31.12,1162418,NA
+Niger,ner,Afrika,1885-01-01,31.28,1198121,NA
+Niger,ner,Afrika,1890-01-01,31.44,1234792,NA
+Niger,ner,Afrika,1895-01-01,31.6,1272454,NA
+Niger,ner,Afrika,1900-01-01,31.77,1316667,NA
+Niger,ner,Afrika,1905-01-01,31.93,1398752,NA
+Niger,ner,Afrika,1910-01-01,32.09,1489224,NA
+Niger,ner,Afrika,1915-01-01,32.25,1567602,NA
+Niger,ner,Afrika,1920-01-01,32.41,1643551,NA
+Niger,ner,Afrika,1925-01-01,32.57,1755728,NA
+Niger,ner,Afrika,1930-01-01,32.73,1880979,NA
+Niger,ner,Afrika,1935-01-01,32.89,2007625,NA
+Niger,ner,Afrika,1940-01-01,33.05,2146748,NA
+Niger,ner,Afrika,1945-01-01,33.21,2330159,NA
+Niger,ner,Afrika,1950-01-01,37.79,2559706,NA
+Niger,ner,Afrika,1955-01-01,38.95,2955536,NA
+Niger,ner,Afrika,1960-01-01,40.33,3388774,768.01813
+Niger,ner,Afrika,1965-01-01,42.32,3914118,898.12542
+Niger,ner,Afrika,1970-01-01,43.05,4510645,760.03264
+Niger,ner,Afrika,1975-01-01,43.14,5184940,581.21358
+Niger,ner,Afrika,1980-01-01,44.94,5989000,647.45946
+Niger,ner,Afrika,1985-01-01,45.46,6915994,492.58214
+Niger,ner,Afrika,1990-01-01,47.41,8026592,481.07024
+Niger,ner,Afrika,1995-01-01,48.57,9490289,432.58306
+Niger,ner,Afrika,2000-01-01,51.85,11331561,399.14326
+Niger,ner,Afrika,2005-01-01,55.62,13624474,411.20015
+Niger,ner,Afrika,2010-01-01,59.05,16464025,443.42956
+Niger,ner,Afrika,2015-01-01,60.64,20001663,484.23863
+Niger,ner,Afrika,2019-01-01,62.51,23310719,523.65878
+Nigeria,nga,Afrika,1800-01-01,30.4,12100860,NA
+Nigeria,nga,Afrika,1805-01-01,30.4,12100860,NA
+Nigeria,nga,Afrika,1810-01-01,30.4,12100860,NA
+Nigeria,nga,Afrika,1815-01-01,30.4,12100860,NA
+Nigeria,nga,Afrika,1820-01-01,30.4,12128130,NA
+Nigeria,nga,Afrika,1825-01-01,30.4,12329705,NA
+Nigeria,nga,Afrika,1830-01-01,30.4,12562702,NA
+Nigeria,nga,Afrika,1835-01-01,30.4,12800102,NA
+Nigeria,nga,Afrika,1840-01-01,30.4,13041988,NA
+Nigeria,nga,Afrika,1845-01-01,30.4,13288445,NA
+Nigeria,nga,Afrika,1850-01-01,30.4,13540231,NA
+Nigeria,nga,Afrika,1855-01-01,30.4,13915978,NA
+Nigeria,nga,Afrika,1860-01-01,30.4,14305550,NA
+Nigeria,nga,Afrika,1865-01-01,30.4,14728818,NA
+Nigeria,nga,Afrika,1870-01-01,30.4,15176955,NA
+Nigeria,nga,Afrika,1875-01-01,31.05,15699396,NA
+Nigeria,nga,Afrika,1880-01-01,31.7,16258955,NA
+Nigeria,nga,Afrika,1885-01-01,32.35,16903552,NA
+Nigeria,nga,Afrika,1890-01-01,33.01,17575410,NA
+Nigeria,nga,Afrika,1895-01-01,33.66,18220932,NA
+Nigeria,nga,Afrika,1900-01-01,34.31,18920724,NA
+Nigeria,nga,Afrika,1905-01-01,34.96,19909123,NA
+Nigeria,nga,Afrika,1910-01-01,35.61,20992384,NA
+Nigeria,nga,Afrika,1915-01-01,36.26,22140113,NA
+Nigeria,nga,Afrika,1920-01-01,36.91,23340876,NA
+Nigeria,nga,Afrika,1925-01-01,37.57,25162929,NA
+Nigeria,nga,Afrika,1930-01-01,38.22,27217036,NA
+Nigeria,nga,Afrika,1935-01-01,38.87,29329302,NA
+Nigeria,nga,Afrika,1940-01-01,39.52,31645899,NA
+Nigeria,nga,Afrika,1945-01-01,40.17,34537826,NA
+Nigeria,nga,Afrika,1950-01-01,44.75,37859750,NA
+Nigeria,nga,Afrika,1955-01-01,45.86,41086100,NA
+Nigeria,nga,Afrika,1960-01-01,46.81,45138460,1433.91992
+Nigeria,nga,Afrika,1965-01-01,48.15,50127920,1609.64235
+Nigeria,nga,Afrika,1970-01-01,49.05,55982142,1782.75107
+Nigeria,nga,Afrika,1975-01-01,52.01,63374289,2064.6645
+Nigeria,nga,Afrika,1980-01-01,54.06,73423646,2159.91539
+Nigeria,nga,Afrika,1985-01-01,54.91,83562776,1433.43406
+Nigeria,nga,Afrika,1990-01-01,54.69,95212454,1588.5023
+Nigeria,nga,Afrika,1995-01-01,54.63,107948339,1414.10138
+Nigeria,nga,Afrika,2000-01-01,54.63,122283853,1450.78384
+Nigeria,nga,Afrika,2005-01-01,56.63,138865014,1948.04844
+Nigeria,nga,Afrika,2010-01-01,59.64,158503203,2403.64526
+Nigeria,nga,Afrika,2015-01-01,62.11,181137454,2687.48006
+Nigeria,nga,Afrika,2019-01-01,64.34,200963603,2502.65228
+Nicaragua,nic,Amerika,1800-01-01,25.4,186000,NA
+Nicaragua,nic,Amerika,1805-01-01,25.4,186000,NA
+Nicaragua,nic,Amerika,1810-01-01,25.4,186000,NA
+Nicaragua,nic,Amerika,1815-01-01,25.4,186000,NA
+Nicaragua,nic,Amerika,1820-01-01,25.4,187802,NA
+Nicaragua,nic,Amerika,1825-01-01,25.4,201477,NA
+Nicaragua,nic,Amerika,1830-01-01,25.4,218186,NA
+Nicaragua,nic,Amerika,1835-01-01,25.4,236280,NA
+Nicaragua,nic,Amerika,1840-01-01,25.4,255876,NA
+Nicaragua,nic,Amerika,1845-01-01,25.4,277096,NA
+Nicaragua,nic,Amerika,1850-01-01,25.4,298221,NA
+Nicaragua,nic,Amerika,1855-01-01,25.4,312930,NA
+Nicaragua,nic,Amerika,1860-01-01,25.4,326352,NA
+Nicaragua,nic,Amerika,1865-01-01,25.4,340293,NA
+Nicaragua,nic,Amerika,1870-01-01,25.4,356033,NA
+Nicaragua,nic,Amerika,1875-01-01,25.66,380798,NA
+Nicaragua,nic,Amerika,1880-01-01,25.91,408630,NA
+Nicaragua,nic,Amerika,1885-01-01,26.17,438430,NA
+Nicaragua,nic,Amerika,1890-01-01,26.42,470335,NA
+Nicaragua,nic,Amerika,1895-01-01,26.68,504490,NA
+Nicaragua,nic,Amerika,1900-01-01,26.94,542021,NA
+Nicaragua,nic,Amerika,1905-01-01,27.19,588771,NA
+Nicaragua,nic,Amerika,1910-01-01,27.45,640581,NA
+Nicaragua,nic,Amerika,1915-01-01,27.7,696955,NA
+Nicaragua,nic,Amerika,1920-01-01,27.04,749222,NA
+Nicaragua,nic,Amerika,1925-01-01,29.42,776193,NA
+Nicaragua,nic,Amerika,1930-01-01,32.67,806886,NA
+Nicaragua,nic,Amerika,1935-01-01,35.98,884251,NA
+Nicaragua,nic,Amerika,1940-01-01,39.34,981826,NA
+Nicaragua,nic,Amerika,1945-01-01,43.47,1124017,NA
+Nicaragua,nic,Amerika,1950-01-01,47.67,1294994,NA
+Nicaragua,nic,Amerika,1955-01-01,52.29,1508103,NA
+Nicaragua,nic,Amerika,1960-01-01,53.6,1773132,1680.99035
+Nicaragua,nic,Amerika,1965-01-01,57.19,2068379,2329.8529
+Nicaragua,nic,Amerika,1970-01-01,58.08,2406523,2414.60523
+Nicaragua,nic,Amerika,1975-01-01,62.65,2806859,2652.51064
+Nicaragua,nic,Amerika,1980-01-01,66.37,3265520,1842.5713
+Nicaragua,nic,Amerika,1985-01-01,63.31,3734343,1663.12099
+Nicaragua,nic,Amerika,1990-01-01,72.72,4173435,1257.58899
+Nicaragua,nic,Amerika,1995-01-01,71.46,4652185,1232.31311
+Nicaragua,nic,Amerika,2000-01-01,73.73,5069310,1444.94769
+Nicaragua,nic,Amerika,2005-01-01,73.46,5438692,1573.04778
+Nicaragua,nic,Amerika,2010-01-01,74.37,5824058,1679.0045
+Nicaragua,nic,Amerika,2015-01-01,74.91,6223234,2049.85167
+Nicaragua,nic,Amerika,2019-01-01,75.38,6545503,1984.79344
+Netherlands,nld,Europa,1800-01-01,39.86,2000000,NA
+Netherlands,nld,Europa,1805-01-01,39.86,2023364,NA
+Netherlands,nld,Europa,1810-01-01,39.86,2060391,NA
+Netherlands,nld,Europa,1815-01-01,39.86,2185700,NA
+Netherlands,nld,Europa,1820-01-01,39.86,2331997,NA
+Netherlands,nld,Europa,1825-01-01,39.86,2478828,NA
+Netherlands,nld,Europa,1830-01-01,39.86,2628686,NA
+Netherlands,nld,Europa,1835-01-01,39.86,2756831,NA
+Netherlands,nld,Europa,1840-01-01,39.86,2882581,NA
+Netherlands,nld,Europa,1845-01-01,39.86,2990272,NA
+Netherlands,nld,Europa,1850-01-01,39.86,3097727,NA
+Netherlands,nld,Europa,1855-01-01,34.53,3204576,NA
+Netherlands,nld,Europa,1860-01-01,36.91,3317831,NA
+Netherlands,nld,Europa,1865-01-01,36.37,3455699,NA
+Netherlands,nld,Europa,1870-01-01,37.34,3609009,NA
+Netherlands,nld,Europa,1875-01-01,38.24,3810799,NA
+Netherlands,nld,Europa,1880-01-01,40.4,4031125,NA
+Netherlands,nld,Europa,1885-01-01,43.32,4266715,NA
+Netherlands,nld,Europa,1890-01-01,44.42,4519467,NA
+Netherlands,nld,Europa,1895-01-01,46.67,4806840,NA
+Netherlands,nld,Europa,1900-01-01,48.43,5120625,NA
+Netherlands,nld,Europa,1905-01-01,52.15,5487360,NA
+Netherlands,nld,Europa,1910-01-01,55.19,5887210,NA
+Netherlands,nld,Europa,1915-01-01,57.28,6325924,NA
+Netherlands,nld,Europa,1920-01-01,57.91,6799265,NA
+Netherlands,nld,Europa,1925-01-01,63.26,7297354,NA
+Netherlands,nld,Europa,1930-01-01,64.82,7819340,NA
+Netherlands,nld,Europa,1935-01-01,66.64,8308847,NA
+Netherlands,nld,Europa,1940-01-01,65.51,8823701,NA
+Netherlands,nld,Europa,1945-01-01,55.55,9410898,NA
+Netherlands,nld,Europa,1950-01-01,71.58,10042051,NA
+Netherlands,nld,Europa,1955-01-01,72.62,10709621,NA
+Netherlands,nld,Europa,1960-01-01,73.5,11448815,14271.12963
+Netherlands,nld,Europa,1965-01-01,73.69,12248333,17416.24934
+Netherlands,nld,Europa,1970-01-01,73.73,13001941,21354.2581
+Netherlands,nld,Europa,1975-01-01,74.68,13683287,24000.10418
+Netherlands,nld,Europa,1980-01-01,75.88,14148410,26355.07088
+Netherlands,nld,Europa,1985-01-01,76.49,14513947,27209.27476
+Netherlands,nld,Europa,1990-01-01,77.16,14965442,31093.54487
+Netherlands,nld,Europa,1995-01-01,77.69,15467852,33683.19507
+Netherlands,nld,Europa,2000-01-01,78.28,15926188,40440.67534
+Netherlands,nld,Europa,2005-01-01,79.63,16367153,42184.80696
+Netherlands,nld,Europa,2010-01-01,80.95,16682927,44372.65591
+Netherlands,nld,Europa,2015-01-01,81.66,16938492,45175.23189
+Netherlands,nld,Europa,2019-01-01,81.74,17097123,48424.25384
+Norway,nor,Europa,1800-01-01,37.92,900000,NA
+Norway,nor,Europa,1805-01-01,44.27,892468,NA
+Norway,nor,Europa,1810-01-01,36.48,890801,NA
+Norway,nor,Europa,1815-01-01,45.58,926604,NA
+Norway,nor,Europa,1820-01-01,46.96,973385,NA
+Norway,nor,Europa,1825-01-01,49.23,1044391,NA
+Norway,nor,Europa,1830-01-01,45.75,1120917,NA
+Norway,nor,Europa,1835-01-01,46.1,1181168,NA
+Norway,nor,Europa,1840-01-01,45.62,1242319,NA
+Norway,nor,Europa,1845-01-01,50.07,1314507,NA
+Norway,nor,Europa,1850-01-01,49.53,1394054,NA
+Norway,nor,Europa,1855-01-01,50.44,1490797,NA
+Norway,nor,Europa,1860-01-01,50,1591113,NA
+Norway,nor,Europa,1865-01-01,50.42,1664179,NA
+Norway,nor,Europa,1870-01-01,50.86,1736968,NA
+Norway,nor,Europa,1875-01-01,47.65,1824893,NA
+Norway,nor,Europa,1880-01-01,51.94,1912126,NA
+Norway,nor,Europa,1885-01-01,51.1,1957681,NA
+Norway,nor,Europa,1890-01-01,48.65,2005632,NA
+Norway,nor,Europa,1895-01-01,52.87,2110597,NA
+Norway,nor,Europa,1900-01-01,53.56,2224417,NA
+Norway,nor,Europa,1905-01-01,55.21,2305889,NA
+Norway,nor,Europa,1910-01-01,58.12,2389021,NA
+Norway,nor,Europa,1915-01-01,58.31,2506703,NA
+Norway,nor,Europa,1920-01-01,59.05,2629454,NA
+Norway,nor,Europa,1925-01-01,62.71,2719852,NA
+Norway,nor,Europa,1930-01-01,64.32,2806235,NA
+Norway,nor,Europa,1935-01-01,66.07,2889012,NA
+Norway,nor,Europa,1940-01-01,66.14,2979763,NA
+Norway,nor,Europa,1945-01-01,68.47,3116032,NA
+Norway,nor,Europa,1950-01-01,71.91,3265274,NA
+Norway,nor,Europa,1955-01-01,73.21,3430335,NA
+Norway,nor,Europa,1960-01-01,73.4,3582508,19134.05988
+Norway,nor,Europa,1965-01-01,73.64,3724457,23074.75689
+Norway,nor,Europa,1970-01-01,74.25,3876049,26630.95052
+Norway,nor,Europa,1975-01-01,75.12,4008026,32686.09264
+Norway,nor,Europa,1980-01-01,75.96,4086070,40059.98021
+Norway,nor,Europa,1985-01-01,76.35,4153111,46717.22069
+Norway,nor,Europa,1990-01-01,76.86,4247286,49741.42576
+Norway,nor,Europa,1995-01-01,78.04,4366996,58151.59918
+Norway,nor,Europa,2000-01-01,78.9,4499375,67437.74336
+Norway,nor,Europa,2005-01-01,80.37,4632359,73036.74036
+Norway,nor,Europa,2010-01-01,81.3,4885878,72426.56522
+Norway,nor,Europa,2015-01-01,82.41,5199827,74355.51586
+Norway,nor,Europa,2019-01-01,82.9,5378859,76085.24552
+Nepal,npl,Asia,1800-01-01,32.8,4000000,NA
+Nepal,npl,Asia,1805-01-01,32.8,3969912,NA
+Nepal,npl,Asia,1810-01-01,32.8,3940060,NA
+Nepal,npl,Asia,1815-01-01,32.8,3910423,NA
+Nepal,npl,Asia,1820-01-01,32.8,3893440,NA
+Nepal,npl,Asia,1825-01-01,32.8,3955859,NA
+Nepal,npl,Asia,1830-01-01,32.8,4032104,NA
+Nepal,npl,Asia,1835-01-01,32.8,4109818,NA
+Nepal,npl,Asia,1840-01-01,32.8,4189030,NA
+Nepal,npl,Asia,1845-01-01,32.8,4269769,NA
+Nepal,npl,Asia,1850-01-01,32.8,4352082,NA
+Nepal,npl,Asia,1855-01-01,32.8,4424032,NA
+Nepal,npl,Asia,1860-01-01,32.8,4497158,NA
+Nepal,npl,Asia,1865-01-01,32.8,4571458,NA
+Nepal,npl,Asia,1870-01-01,32.8,4650247,NA
+Nepal,npl,Asia,1875-01-01,33.16,4751513,NA
+Nepal,npl,Asia,1880-01-01,33.52,4858341,NA
+Nepal,npl,Asia,1885-01-01,33.87,4967533,NA
+Nepal,npl,Asia,1890-01-01,34.23,5069145,NA
+Nepal,npl,Asia,1895-01-01,34.59,5109099,NA
+Nepal,npl,Asia,1900-01-01,34.95,5154160,NA
+Nepal,npl,Asia,1905-01-01,35.3,5295005,NA
+Nepal,npl,Asia,1910-01-01,35.66,5432566,NA
+Nepal,npl,Asia,1915-01-01,36.02,5430161,NA
+Nepal,npl,Asia,1920-01-01,36.38,5414633,NA
+Nepal,npl,Asia,1925-01-01,36.73,5405247,NA
+Nepal,npl,Asia,1930-01-01,37.09,5397000,NA
+Nepal,npl,Asia,1935-01-01,37.45,5395876,NA
+Nepal,npl,Asia,1940-01-01,37.81,5555340,NA
+Nepal,npl,Asia,1945-01-01,38.16,6852015,NA
+Nepal,npl,Asia,1950-01-01,40.63,8483322,NA
+Nepal,npl,Asia,1955-01-01,42.61,9316916,NA
+Nepal,npl,Asia,1960-01-01,44.61,10105060,328.48419
+Nepal,npl,Asia,1965-01-01,47.16,10972912,340.09079
+Nepal,npl,Asia,1970-01-01,49.27,12074628,351.27423
+Nepal,npl,Asia,1975-01-01,50.51,13420367,345.73412
+Nepal,npl,Asia,1980-01-01,51.85,15016408,346.93206
+Nepal,npl,Asia,1985-01-01,54.73,16858315,392.47146
+Nepal,npl,Asia,1990-01-01,58.32,18905480,437.53573
+Nepal,npl,Asia,1995-01-01,61.83,21576074,493.6546
+Nepal,npl,Asia,2000-01-01,65.39,23941099,562.30313
+Nepal,npl,Asia,2005-01-01,67.69,25744500,617.79399
+Nepal,npl,Asia,2010-01-01,69.04,27013207,731.66181
+Nepal,npl,Asia,2015-01-01,69.35,27015033,901.74961
+Nepal,npl,Asia,2019-01-01,71.07,28608715,1069.7891
+Pakistan,pak,Asia,1800-01-01,25.8,13119841,NA
+Pakistan,pak,Asia,1805-01-01,25.8,13249704,NA
+Pakistan,pak,Asia,1810-01-01,25.8,13381804,NA
+Pakistan,pak,Asia,1815-01-01,25.8,13527230,NA
+Pakistan,pak,Asia,1820-01-01,25.8,13696004,NA
+Pakistan,pak,Asia,1825-01-01,25.8,13877407,NA
+Pakistan,pak,Asia,1830-01-01,25.8,14107416,NA
+Pakistan,pak,Asia,1835-01-01,25.8,14341238,NA
+Pakistan,pak,Asia,1840-01-01,25.8,14578935,NA
+Pakistan,pak,Asia,1845-01-01,25.8,14820571,NA
+Pakistan,pak,Asia,1850-01-01,25.8,15066213,NA
+Pakistan,pak,Asia,1855-01-01,25.8,15256157,NA
+Pakistan,pak,Asia,1860-01-01,25.8,15448258,NA
+Pakistan,pak,Asia,1865-01-01,25.8,15642536,NA
+Pakistan,pak,Asia,1870-01-01,25.8,15859694,NA
+Pakistan,pak,Asia,1875-01-01,26.25,16212205,NA
+Pakistan,pak,Asia,1880-01-01,27.23,16593617,NA
+Pakistan,pak,Asia,1885-01-01,28.37,16983731,NA
+Pakistan,pak,Asia,1890-01-01,27.31,17382737,NA
+Pakistan,pak,Asia,1895-01-01,25.63,17790828,NA
+Pakistan,pak,Asia,1900-01-01,23.25,18208202,NA
+Pakistan,pak,Asia,1905-01-01,22.52,18635060,NA
+Pakistan,pak,Asia,1910-01-01,25.55,19160708,NA
+Pakistan,pak,Asia,1915-01-01,27.72,20283702,NA
+Pakistan,pak,Asia,1920-01-01,29.96,21691279,NA
+Pakistan,pak,Asia,1925-01-01,32.24,23693346,NA
+Pakistan,pak,Asia,1930-01-01,34.83,25957952,NA
+Pakistan,pak,Asia,1935-01-01,37.53,28439009,NA
+Pakistan,pak,Asia,1940-01-01,40.29,31157204,NA
+Pakistan,pak,Asia,1945-01-01,43.12,34135204,NA
+Pakistan,pak,Asia,1950-01-01,46.01,37542370,NA
+Pakistan,pak,Asia,1955-01-01,48.64,40488032,NA
+Pakistan,pak,Asia,1960-01-01,51.32,44988690,379.02652
+Pakistan,pak,Asia,1965-01-01,54.62,50917975,478.76373
+Pakistan,pak,Asia,1970-01-01,57.08,58142062,588.98949
+Pakistan,pak,Asia,1975-01-01,59.03,66816875,599.69201
+Pakistan,pak,Asia,1980-01-01,60.24,78054346,693.35049
+Pakistan,pak,Asia,1985-01-01,60.88,92191505,814.68392
+Pakistan,pak,Asia,1990-01-01,61.05,107647918,924.63474
+Pakistan,pak,Asia,1995-01-01,60.34,123776835,1008.22476
+Pakistan,pak,Asia,2000-01-01,61.04,142343583,1029.11259
+Pakistan,pak,Asia,2005-01-01,61.05,160304007,1175.43745
+Pakistan,pak,Asia,2010-01-01,63.27,179424643,1238.87348
+Pakistan,pak,Asia,2015-01-01,64.42,199426953,1356.66783
+Pakistan,pak,Asia,2019-01-01,65.86,216565317,1487.35722
+Panama,pan,Amerika,1800-01-01,32.9,75600,NA
+Panama,pan,Amerika,1805-01-01,32.9,78389,NA
+Panama,pan,Amerika,1810-01-01,32.9,81284,NA
+Panama,pan,Amerika,1815-01-01,32.9,84282,NA
+Panama,pan,Amerika,1820-01-01,32.9,87391,NA
+Panama,pan,Amerika,1825-01-01,32.9,90615,NA
+Panama,pan,Amerika,1830-01-01,32.9,93957,NA
+Panama,pan,Amerika,1835-01-01,32.9,97423,NA
+Panama,pan,Amerika,1840-01-01,32.9,101016,NA
+Panama,pan,Amerika,1845-01-01,32.9,104742,NA
+Panama,pan,Amerika,1850-01-01,32.9,109736,NA
+Panama,pan,Amerika,1855-01-01,32.9,122259,NA
+Panama,pan,Amerika,1860-01-01,32.9,137555,NA
+Panama,pan,Amerika,1865-01-01,32.9,154764,NA
+Panama,pan,Amerika,1870-01-01,32.9,172966,NA
+Panama,pan,Amerika,1875-01-01,33.09,185576,NA
+Panama,pan,Amerika,1880-01-01,33.28,197859,NA
+Panama,pan,Amerika,1885-01-01,33.46,210954,NA
+Panama,pan,Amerika,1890-01-01,33.65,224914,NA
+Panama,pan,Amerika,1895-01-01,33.84,239795,NA
+Panama,pan,Amerika,1900-01-01,34.03,256935,NA
+Panama,pan,Amerika,1905-01-01,34.21,283894,NA
+Panama,pan,Amerika,1910-01-01,34.4,318871,NA
+Panama,pan,Amerika,1915-01-01,34.59,384519,NA
+Panama,pan,Amerika,1920-01-01,35.83,459331,NA
+Panama,pan,Amerika,1925-01-01,37.09,481970,NA
+Panama,pan,Amerika,1930-01-01,38.36,503191,NA
+Panama,pan,Amerika,1935-01-01,42.05,577106,NA
+Panama,pan,Amerika,1940-01-01,45.79,669047,NA
+Panama,pan,Amerika,1945-01-01,53.26,759494,NA
+Panama,pan,Amerika,1950-01-01,60.82,859658,NA
+Panama,pan,Amerika,1955-01-01,62.48,981083,NA
+Panama,pan,Amerika,1960-01-01,65.88,1133005,2708.60094
+Panama,pan,Amerika,1965-01-01,67.48,1314679,3468.02624
+Panama,pan,Amerika,1970-01-01,68.1,1519286,4348.57171
+Panama,pan,Amerika,1975-01-01,71.63,1745142,4766.33144
+Panama,pan,Amerika,1980-01-01,74.21,1978489,5606.99116
+Panama,pan,Amerika,1985-01-01,75.35,2219200,5920.36405
+Panama,pan,Amerika,1990-01-01,76.42,2470946,5142.22
+Panama,pan,Amerika,1995-01-01,76.54,2739667,6059.81881
+Panama,pan,Amerika,2000-01-01,77.98,3030333,6955.27312
+Panama,pan,Amerika,2005-01-01,78.22,3330222,7815.21161
+Panama,pan,Amerika,2010-01-01,78.5,3642691,10232.32721
+Panama,pan,Amerika,2015-01-01,79.26,3968490,13630.32287
+Panama,pan,Amerika,2019-01-01,80.03,4246440,15069.06582
+Peru,per,Amerika,1800-01-01,35.7,1271000,NA
+Peru,per,Amerika,1805-01-01,35.7,1282347,NA
+Peru,per,Amerika,1810-01-01,35.7,1293800,NA
+Peru,per,Amerika,1815-01-01,35.7,1305350,NA
+Peru,per,Amerika,1820-01-01,35.7,1318957,NA
+Peru,per,Amerika,1825-01-01,35.7,1345222,NA
+Peru,per,Amerika,1830-01-01,35.7,1408988,NA
+Peru,per,Amerika,1835-01-01,35.7,1723594,NA
+Peru,per,Amerika,1840-01-01,35.7,2157778,NA
+Peru,per,Amerika,1845-01-01,35.7,2701335,NA
+Peru,per,Amerika,1850-01-01,35.7,3227122,NA
+Peru,per,Amerika,1855-01-01,35.7,2903227,NA
+Peru,per,Amerika,1860-01-01,35.7,2546502,NA
+Peru,per,Amerika,1865-01-01,35.7,2553678,NA
+Peru,per,Amerika,1870-01-01,35.7,2628547,NA
+Peru,per,Amerika,1875-01-01,35.44,2787739,NA
+Peru,per,Amerika,1880-01-01,35.18,2970320,NA
+Peru,per,Amerika,1885-01-01,34.92,3164856,NA
+Peru,per,Amerika,1890-01-01,34.66,3364190,NA
+Peru,per,Amerika,1895-01-01,34.4,3524077,NA
+Peru,per,Amerika,1900-01-01,34.14,3692024,NA
+Peru,per,Amerika,1905-01-01,33.88,3926308,NA
+Peru,per,Amerika,1910-01-01,33.62,4185061,NA
+Peru,per,Amerika,1915-01-01,33.36,4460303,NA
+Peru,per,Amerika,1920-01-01,33.1,4759673,NA
+Peru,per,Amerika,1925-01-01,32.84,5135856,NA
+Peru,per,Amerika,1930-01-01,32.58,5553548,NA
+Peru,per,Amerika,1935-01-01,32.32,6018348,NA
+Peru,per,Amerika,1940-01-01,32.06,6527645,NA
+Peru,per,Amerika,1945-01-01,35.1,7102849,NA
+Peru,per,Amerika,1950-01-01,38.09,7777452,NA
+Peru,per,Amerika,1955-01-01,43.67,8858392,NA
+Peru,per,Amerika,1960-01-01,47.26,10155011,2709.49344
+Peru,per,Amerika,1965-01-01,54.12,11711402,3258.23119
+Peru,per,Amerika,1970-01-01,48.63,13459789,3415.01305
+Peru,per,Amerika,1975-01-01,63.4,15424745,3910.5972
+Peru,per,Amerika,1980-01-01,65.1,17547612,3757.08694
+Peru,per,Amerika,1985-01-01,65.94,19772871,3326.76028
+Peru,per,Amerika,1990-01-01,69.24,22071433,2700.00636
+Peru,per,Amerika,1995-01-01,71.49,24299168,3165.48997
+Peru,per,Amerika,2000-01-01,74.61,26459944,3303.50094
+Peru,per,Amerika,2005-01-01,77.16,27866140,3867.5274
+Peru,per,Amerika,2010-01-01,77.32,29027680,5177.84128
+Peru,per,Amerika,2015-01-01,79.4,30470739,6229.10067
+Peru,per,Amerika,2019-01-01,80.25,32510462,6611.49276
+Philippines,phl,Asia,1800-01-01,30.9,2500000,NA
+Philippines,phl,Asia,1805-01-01,30.9,2198295,NA
+Philippines,phl,Asia,1810-01-01,30.9,1977352,NA
+Philippines,phl,Asia,1815-01-01,30.9,2051192,NA
+Philippines,phl,Asia,1820-01-01,30.9,2184052,NA
+Philippines,phl,Asia,1825-01-01,30.9,2377275,NA
+Philippines,phl,Asia,1830-01-01,30.9,2596360,NA
+Philippines,phl,Asia,1835-01-01,30.9,2835636,NA
+Philippines,phl,Asia,1840-01-01,30.9,3092731,NA
+Philippines,phl,Asia,1845-01-01,30.9,3344857,NA
+Philippines,phl,Asia,1850-01-01,30.9,3616131,NA
+Philippines,phl,Asia,1855-01-01,30.9,3894805,NA
+Philippines,phl,Asia,1860-01-01,30.9,4198186,NA
+Philippines,phl,Asia,1865-01-01,30.9,4524794,NA
+Philippines,phl,Asia,1870-01-01,30.9,4875900,NA
+Philippines,phl,Asia,1875-01-01,30.91,5250664,NA
+Philippines,phl,Asia,1880-01-01,30.93,5622571,NA
+Philippines,phl,Asia,1885-01-01,30.94,5821421,NA
+Philippines,phl,Asia,1890-01-01,30.96,6011548,NA
+Philippines,phl,Asia,1895-01-01,30.97,6312457,NA
+Philippines,phl,Asia,1900-01-01,30.98,6672632,NA
+Philippines,phl,Asia,1905-01-01,31,7235831,NA
+Philippines,phl,Asia,1910-01-01,31.01,7876852,NA
+Philippines,phl,Asia,1915-01-01,31.03,8575077,NA
+Philippines,phl,Asia,1920-01-01,31.04,9403619,NA
+Philippines,phl,Asia,1925-01-01,31.05,10420173,NA
+Philippines,phl,Asia,1930-01-01,34.59,11573008,NA
+Philippines,phl,Asia,1935-01-01,38.12,12959099,NA
+Philippines,phl,Asia,1940-01-01,42.73,14541537,NA
+Philippines,phl,Asia,1945-01-01,30.1,16401248,NA
+Philippines,phl,Asia,1950-01-01,55.14,18580483,NA
+Philippines,phl,Asia,1955-01-01,58.15,22177060,NA
+Philippines,phl,Asia,1960-01-01,61.26,26269741,1206.94072
+Philippines,phl,Asia,1965-01-01,62.55,30909997,1323.30249
+Philippines,phl,Asia,1970-01-01,62.69,35803591,1432.01124
+Philippines,phl,Asia,1975-01-01,64.11,41285741,1643.91076
+Philippines,phl,Asia,1980-01-01,65.74,47357741,1923.74487
+Philippines,phl,Asia,1985-01-01,66.51,54275836,1574.25285
+Philippines,phl,Asia,1990-01-01,68.41,61895169,1739.66476
+Philippines,phl,Asia,1995-01-01,69.77,69784087,1717.56457
+Philippines,phl,Asia,2000-01-01,70.31,77991757,1830.91325
+Philippines,phl,Asia,2005-01-01,70.31,86326251,2077.76798
+Philippines,phl,Asia,2010-01-01,70.58,93966784,2433.00852
+Philippines,phl,Asia,2015-01-01,70.91,102113206,3001.04318
+Philippines,phl,Asia,2019-01-01,71.84,108116622,3664.79067
+Papua New Guinea,png,Oseania,1800-01-01,31.5,754894,NA
+Papua New Guinea,png,Oseania,1805-01-01,31.5,754894,NA
+Papua New Guinea,png,Oseania,1810-01-01,31.5,754894,NA
+Papua New Guinea,png,Oseania,1815-01-01,31.5,754894,NA
+Papua New Guinea,png,Oseania,1820-01-01,31.5,755065,NA
+Papua New Guinea,png,Oseania,1825-01-01,31.5,756321,NA
+Papua New Guinea,png,Oseania,1830-01-01,31.5,757751,NA
+Papua New Guinea,png,Oseania,1835-01-01,31.5,759184,NA
+Papua New Guinea,png,Oseania,1840-01-01,31.5,760619,NA
+Papua New Guinea,png,Oseania,1845-01-01,31.5,762057,NA
+Papua New Guinea,png,Oseania,1850-01-01,31.5,763498,NA
+Papua New Guinea,png,Oseania,1855-01-01,31.5,790071,NA
+Papua New Guinea,png,Oseania,1860-01-01,31.5,816742,NA
+Papua New Guinea,png,Oseania,1865-01-01,31.5,843511,NA
+Papua New Guinea,png,Oseania,1870-01-01,31.5,870378,NA
+Papua New Guinea,png,Oseania,1875-01-01,32.43,897344,NA
+Papua New Guinea,png,Oseania,1880-01-01,33.36,924409,NA
+Papua New Guinea,png,Oseania,1885-01-01,34.29,951573,NA
+Papua New Guinea,png,Oseania,1890-01-01,35.23,978836,NA
+Papua New Guinea,png,Oseania,1895-01-01,36.16,1006199,NA
+Papua New Guinea,png,Oseania,1900-01-01,37.09,1033662,NA
+Papua New Guinea,png,Oseania,1905-01-01,38.02,1061225,NA
+Papua New Guinea,png,Oseania,1910-01-01,38.95,1058467,NA
+Papua New Guinea,png,Oseania,1915-01-01,39.88,878513,NA
+Papua New Guinea,png,Oseania,1920-01-01,40.81,719608,NA
+Papua New Guinea,png,Oseania,1925-01-01,41.75,721816,NA
+Papua New Guinea,png,Oseania,1930-01-01,42.68,769030,NA
+Papua New Guinea,png,Oseania,1935-01-01,43.61,963847,NA
+Papua New Guinea,png,Oseania,1940-01-01,44.54,1237376,NA
+Papua New Guinea,png,Oseania,1945-01-01,40.42,1588530,NA
+Papua New Guinea,png,Oseania,1950-01-01,49.62,2002147,NA
+Papua New Guinea,png,Oseania,1955-01-01,51.3,2086253,NA
+Papua New Guinea,png,Oseania,1960-01-01,53.68,2255858,1160.85013
+Papua New Guinea,png,Oseania,1965-01-01,56.15,2485433,1482.74888
+Papua New Guinea,png,Oseania,1970-01-01,59.02,2783132,1826.27999
+Papua New Guinea,png,Oseania,1975-01-01,61.09,3139944,1969.51167
+Papua New Guinea,png,Oseania,1980-01-01,62.15,3571209,1821.79374
+Papua New Guinea,png,Oseania,1985-01-01,62.23,4081022,1706.66564
+Papua New Guinea,png,Oseania,1990-01-01,62.61,4615843,1597.40473
+Papua New Guinea,png,Oseania,1995-01-01,63.22,5187063,2146.54082
+Papua New Guinea,png,Oseania,2000-01-01,63.14,5847590,1883.9339
+Papua New Guinea,png,Oseania,2005-01-01,62.21,6494902,1887.67318
+Papua New Guinea,png,Oseania,2010-01-01,62.78,7310512,2235.09632
+Papua New Guinea,png,Oseania,2015-01-01,63.93,8107772,2679.34658
+Papua New Guinea,png,Oseania,2019-01-01,64.66,8776119,2853.90544
+Portugal,prt,Europa,1800-01-01,35.6,2750000,NA
+Portugal,prt,Europa,1805-01-01,35.6,2877592,NA
+Portugal,prt,Europa,1810-01-01,35.6,3011352,NA
+Portugal,prt,Europa,1815-01-01,35.6,3151070,NA
+Portugal,prt,Europa,1820-01-01,35.6,3290556,NA
+Portugal,prt,Europa,1825-01-01,35.6,3392725,NA
+Portugal,prt,Europa,1830-01-01,35.6,3491548,NA
+Portugal,prt,Europa,1835-01-01,35.6,3596049,NA
+Portugal,prt,Europa,1840-01-01,35.6,3697539,NA
+Portugal,prt,Europa,1845-01-01,35.6,3759616,NA
+Portugal,prt,Europa,1850-01-01,35.6,3820021,NA
+Portugal,prt,Europa,1855-01-01,35.6,3906571,NA
+Portugal,prt,Europa,1860-01-01,35.6,4006839,NA
+Portugal,prt,Europa,1865-01-01,35.6,4159164,NA
+Portugal,prt,Europa,1870-01-01,35.6,4321353,NA
+Portugal,prt,Europa,1875-01-01,35.63,4463967,NA
+Portugal,prt,Europa,1880-01-01,35.66,4613685,NA
+Portugal,prt,Europa,1885-01-01,35.68,4811099,NA
+Portugal,prt,Europa,1890-01-01,35.71,5019444,NA
+Portugal,prt,Europa,1895-01-01,35.74,5207690,NA
+Portugal,prt,Europa,1900-01-01,35.77,5402560,NA
+Portugal,prt,Europa,1905-01-01,35.8,5632439,NA
+Portugal,prt,Europa,1910-01-01,35.83,5854996,NA
+Portugal,prt,Europa,1915-01-01,35.85,5947525,NA
+Portugal,prt,Europa,1920-01-01,35.88,6054323,NA
+Portugal,prt,Europa,1925-01-01,35.91,6386774,NA
+Portugal,prt,Europa,1930-01-01,41.27,6777129,NA
+Portugal,prt,Europa,1935-01-01,46.63,7206158,NA
+Portugal,prt,Europa,1940-01-01,52,7651645,NA
+Portugal,prt,Europa,1945-01-01,54.45,8038521,NA
+Portugal,prt,Europa,1950-01-01,59.27,8416971,NA
+Portugal,prt,Europa,1955-01-01,61.43,8625538,NA
+Portugal,prt,Europa,1960-01-01,64.73,8844638,3933.36258
+Portugal,prt,Europa,1965-01-01,65.9,8862277,5269.52705
+Portugal,prt,Europa,1970-01-01,67.39,8651334,7655.66487
+Portugal,prt,Europa,1975-01-01,69.32,9172240,9055.36468
+Portugal,prt,Europa,1980-01-01,71.75,9750966,10812.60253
+Portugal,prt,Europa,1985-01-01,73.26,9929176,11010.66418
+Portugal,prt,Europa,1990-01-01,74.28,9895358,14566.42917
+Portugal,prt,Europa,1995-01-01,75.47,10091322,15782.63468
+Portugal,prt,Europa,2000-01-01,76.84,10297117,18787.47406
+Portugal,prt,Europa,2005-01-01,78.75,10508494,19216.30507
+Portugal,prt,Europa,2010-01-01,80.24,10596055,19662.45203
+Portugal,prt,Europa,2015-01-01,81.54,10368346,19242.36647
+Portugal,prt,Europa,2019-01-01,81.72,10226178,21567.93597
+Paraguay,pry,Amerika,1800-01-01,35.5,300000,NA
+Paraguay,pry,Amerika,1805-01-01,35.5,249273,NA
+Paraguay,pry,Amerika,1810-01-01,35.5,207408,NA
+Paraguay,pry,Amerika,1815-01-01,35.5,172337,NA
+Paraguay,pry,Amerika,1820-01-01,35.5,148904,NA
+Paraguay,pry,Amerika,1825-01-01,35.5,166154,NA
+Paraguay,pry,Amerika,1830-01-01,35.5,192886,NA
+Paraguay,pry,Amerika,1835-01-01,35.5,223918,NA
+Paraguay,pry,Amerika,1840-01-01,35.5,259942,NA
+Paraguay,pry,Amerika,1845-01-01,35.5,301763,NA
+Paraguay,pry,Amerika,1850-01-01,35.5,344865,NA
+Paraguay,pry,Amerika,1855-01-01,35.5,358193,NA
+Paraguay,pry,Amerika,1860-01-01,35.5,366569,NA
+Paraguay,pry,Amerika,1865-01-01,35.5,375142,NA
+Paraguay,pry,Amerika,1870-01-01,35.5,374476,NA
+Paraguay,pry,Amerika,1875-01-01,35.45,318746,NA
+Paraguay,pry,Amerika,1880-01-01,35.39,285254,NA
+Paraguay,pry,Amerika,1885-01-01,35.34,415440,NA
+Paraguay,pry,Amerika,1890-01-01,35.28,597420,NA
+Paraguay,pry,Amerika,1895-01-01,35.23,532797,NA
+Paraguay,pry,Amerika,1900-01-01,35.17,456307,NA
+Paraguay,pry,Amerika,1905-01-01,35.12,493653,NA
+Paraguay,pry,Amerika,1910-01-01,35.06,553963,NA
+Paraguay,pry,Amerika,1915-01-01,35.01,622136,NA
+Paraguay,pry,Amerika,1920-01-01,34.95,698712,NA
+Paraguay,pry,Amerika,1925-01-01,34.9,784073,NA
+Paraguay,pry,Amerika,1930-01-01,34.84,879905,NA
+Paraguay,pry,Amerika,1935-01-01,39.23,988510,NA
+Paraguay,pry,Amerika,1940-01-01,46.56,1114229,NA
+Paraguay,pry,Amerika,1945-01-01,53.86,1280407,NA
+Paraguay,pry,Amerika,1950-01-01,61.14,1473241,NA
+Paraguay,pry,Amerika,1955-01-01,67.23,1673667,NA
+Paraguay,pry,Amerika,1960-01-01,69.07,1903990,1491.93916
+Paraguay,pry,Amerika,1965-01-01,70.48,2172309,1672.9273
+Paraguay,pry,Amerika,1970-01-01,70.82,2474757,1888.46042
+Paraguay,pry,Amerika,1975-01-01,71.4,2791236,2341.47162
+Paraguay,pry,Amerika,1980-01-01,73.07,3181627,3447.5792
+Paraguay,pry,Amerika,1985-01-01,74.5,3676206,3346.66904
+Paraguay,pry,Amerika,1990-01-01,75.79,4223413,3879.37065
+Paraguay,pry,Amerika,1995-01-01,75.39,4776838,4261.82856
+Paraguay,pry,Amerika,2000-01-01,75.62,5323202,3904.30236
+Paraguay,pry,Amerika,2005-01-01,75.59,5824095,3922.55853
+Paraguay,pry,Amerika,2010-01-01,75.74,6248017,4767.2779
+Paraguay,pry,Amerika,2015-01-01,76.49,6688746,5413.77602
+Paraguay,pry,Amerika,2019-01-01,76.61,7044639,5774.16616
+Rwanda,rwa,Afrika,1800-01-01,31.8,928368,NA
+Rwanda,rwa,Afrika,1805-01-01,31.8,928368,NA
+Rwanda,rwa,Afrika,1810-01-01,31.8,928368,NA
+Rwanda,rwa,Afrika,1815-01-01,31.8,928368,NA
+Rwanda,rwa,Afrika,1820-01-01,31.8,937586,NA
+Rwanda,rwa,Afrika,1825-01-01,31.8,1007589,NA
+Rwanda,rwa,Afrika,1830-01-01,31.8,1093278,NA
+Rwanda,rwa,Afrika,1835-01-01,31.8,1186255,NA
+Rwanda,rwa,Afrika,1840-01-01,31.8,1287139,NA
+Rwanda,rwa,Afrika,1845-01-01,31.8,1396603,NA
+Rwanda,rwa,Afrika,1850-01-01,31.8,1501243,NA
+Rwanda,rwa,Afrika,1855-01-01,31.8,1523010,NA
+Rwanda,rwa,Afrika,1860-01-01,31.8,1531088,NA
+Rwanda,rwa,Afrika,1865-01-01,31.8,1539210,NA
+Rwanda,rwa,Afrika,1870-01-01,31.8,1547374,NA
+Rwanda,rwa,Afrika,1875-01-01,31.65,1555582,NA
+Rwanda,rwa,Afrika,1880-01-01,31.51,1566652,NA
+Rwanda,rwa,Afrika,1885-01-01,31.36,1595851,NA
+Rwanda,rwa,Afrika,1890-01-01,31.22,1618737,NA
+Rwanda,rwa,Afrika,1895-01-01,31.07,1580723,NA
+Rwanda,rwa,Afrika,1900-01-01,24.31,1532482,NA
+Rwanda,rwa,Afrika,1905-01-01,30.78,1474389,NA
+Rwanda,rwa,Afrika,1910-01-01,30.63,1420149,NA
+Rwanda,rwa,Afrika,1915-01-01,30.49,1388992,NA
+Rwanda,rwa,Afrika,1920-01-01,30.34,1377171,NA
+Rwanda,rwa,Afrika,1925-01-01,23.74,1467123,NA
+Rwanda,rwa,Afrika,1930-01-01,30.05,1579551,NA
+Rwanda,rwa,Afrika,1935-01-01,31.47,1694237,NA
+Rwanda,rwa,Afrika,1940-01-01,33.26,1820606,NA
+Rwanda,rwa,Afrika,1945-01-01,34.93,1985899,NA
+Rwanda,rwa,Afrika,1950-01-01,36.52,2186183,NA
+Rwanda,rwa,Afrika,1955-01-01,38.94,2527293,NA
+Rwanda,rwa,Afrika,1960-01-01,42.24,2935575,345.15926
+Rwanda,rwa,Afrika,1965-01-01,42.85,3235536,281.8571
+Rwanda,rwa,Afrika,1970-01-01,43.58,3757351,349.67082
+Rwanda,rwa,Afrika,1975-01-01,45.02,4364709,313.6301
+Rwanda,rwa,Afrika,1980-01-01,48.43,5153314,430.74484
+Rwanda,rwa,Afrika,1985-01-01,51.49,6146884,410.72712
+Rwanda,rwa,Afrika,1990-01-01,50.01,7288883,372.38008
+Rwanda,rwa,Afrika,1995-01-01,46.41,5836490,296.72815
+Rwanda,rwa,Afrika,2000-01-01,50.51,7933688,344.93998
+Rwanda,rwa,Afrika,2005-01-01,58.22,8840220,456.59075
+Rwanda,rwa,Afrika,2010-01-01,64.54,10039338,599.20743
+Rwanda,rwa,Afrika,2015-01-01,67.39,11369066,751.07739
+Rwanda,rwa,Afrika,2019-01-01,68.65,12626938,885.59961
+Sudan,sdn,Afrika,1800-01-01,31.4,3994154,NA
+Sudan,sdn,Afrika,1805-01-01,31.4,4020628,NA
+Sudan,sdn,Afrika,1810-01-01,31.4,4047408,NA
+Sudan,sdn,Afrika,1815-01-01,31.4,4083486,NA
+Sudan,sdn,Afrika,1820-01-01,31.4,4135488,NA
+Sudan,sdn,Afrika,1825-01-01,31.4,4203871,NA
+Sudan,sdn,Afrika,1830-01-01,31.4,4289105,NA
+Sudan,sdn,Afrika,1835-01-01,31.4,4385515,NA
+Sudan,sdn,Afrika,1840-01-01,31.4,4484092,NA
+Sudan,sdn,Afrika,1845-01-01,31.4,4584885,NA
+Sudan,sdn,Afrika,1850-01-01,31.4,4687944,NA
+Sudan,sdn,Afrika,1855-01-01,31.4,4714662,NA
+Sudan,sdn,Afrika,1860-01-01,31.4,4740213,NA
+Sudan,sdn,Afrika,1865-01-01,31.4,4764531,NA
+Sudan,sdn,Afrika,1870-01-01,31.4,4787547,NA
+Sudan,sdn,Afrika,1875-01-01,31.56,4807923,NA
+Sudan,sdn,Afrika,1880-01-01,31.72,4828115,NA
+Sudan,sdn,Afrika,1885-01-01,31.88,4846785,NA
+Sudan,sdn,Afrika,1890-01-01,32.04,4863856,NA
+Sudan,sdn,Afrika,1895-01-01,32.2,4879245,NA
+Sudan,sdn,Afrika,1900-01-01,32.36,4892868,NA
+Sudan,sdn,Afrika,1905-01-01,32.52,4904638,NA
+Sudan,sdn,Afrika,1910-01-01,32.67,4914466,NA
+Sudan,sdn,Afrika,1915-01-01,32.83,4921803,NA
+Sudan,sdn,Afrika,1920-01-01,32.99,4990445,NA
+Sudan,sdn,Afrika,1925-01-01,33.15,5102620,NA
+Sudan,sdn,Afrika,1930-01-01,33.31,5217316,NA
+Sudan,sdn,Afrika,1935-01-01,33.47,5334591,NA
+Sudan,sdn,Afrika,1940-01-01,33.63,5454501,NA
+Sudan,sdn,Afrika,1945-01-01,40.25,5577107,NA
+Sudan,sdn,Afrika,1950-01-01,46.94,5733789,NA
+Sudan,sdn,Afrika,1955-01-01,47.92,6549294,NA
+Sudan,sdn,Afrika,1960-01-01,49.76,7544498,897.40187
+Sudan,sdn,Afrika,1965-01-01,50.53,8770094,859.01501
+Sudan,sdn,Afrika,1970-01-01,51.6,10281695,794.90849
+Sudan,sdn,Afrika,1975-01-01,52.8,12144128,857.47876
+Sudan,sdn,Afrika,1980-01-01,54.8,14507466,815.64169
+Sudan,sdn,Afrika,1985-01-01,52.17,17210182,714.99829
+Sudan,sdn,Afrika,1990-01-01,58.66,20147592,772.95796
+Sudan,sdn,Afrika,1995-01-01,61.29,24094741,870.29701
+Sudan,sdn,Afrika,2000-01-01,63.26,27275019,1017.28626
+Sudan,sdn,Afrika,2005-01-01,65.48,30949514,1206.51193
+Sudan,sdn,Afrika,2010-01-01,67.44,34545014,1489.87409
+Sudan,sdn,Afrika,2015-01-01,69.03,38902948,2019.49888
+Sudan,sdn,Afrika,2019-01-01,70.49,42813237,2018.40804
+Senegal,sen,Afrika,1800-01-01,25.2,1009886,NA
+Senegal,sen,Afrika,1805-01-01,25.2,1009886,NA
+Senegal,sen,Afrika,1810-01-01,25.2,1009886,NA
+Senegal,sen,Afrika,1815-01-01,25.2,1009886,NA
+Senegal,sen,Afrika,1820-01-01,25.2,1008261,NA
+Senegal,sen,Afrika,1825-01-01,25.2,996411,NA
+Senegal,sen,Afrika,1830-01-01,25.2,983109,NA
+Senegal,sen,Afrika,1835-01-01,25.2,969985,NA
+Senegal,sen,Afrika,1840-01-01,25.2,957035,NA
+Senegal,sen,Afrika,1845-01-01,25.2,944259,NA
+Senegal,sen,Afrika,1850-01-01,25.2,936513,NA
+Senegal,sen,Afrika,1855-01-01,25.2,958032,NA
+Senegal,sen,Afrika,1860-01-01,25.2,986312,NA
+Senegal,sen,Afrika,1865-01-01,25.2,1023118,NA
+Senegal,sen,Afrika,1870-01-01,25.2,1064467,NA
+Senegal,sen,Afrika,1875-01-01,25.69,1120064,NA
+Senegal,sen,Afrika,1880-01-01,26.18,1179201,NA
+Senegal,sen,Afrika,1885-01-01,26.67,1232152,NA
+Senegal,sen,Afrika,1890-01-01,27.15,1284418,NA
+Senegal,sen,Afrika,1895-01-01,27.64,1328842,NA
+Senegal,sen,Afrika,1900-01-01,28.13,1373181,NA
+Senegal,sen,Afrika,1905-01-01,28.62,1418994,NA
+Senegal,sen,Afrika,1910-01-01,29.11,1465445,NA
+Senegal,sen,Afrika,1915-01-01,29.6,1507708,NA
+Senegal,sen,Afrika,1920-01-01,30.09,1560638,NA
+Senegal,sen,Afrika,1925-01-01,29.63,1672469,NA
+Senegal,sen,Afrika,1930-01-01,30.39,1800633,NA
+Senegal,sen,Afrika,1935-01-01,32.43,1931371,NA
+Senegal,sen,Afrika,1940-01-01,34.71,2075427,NA
+Senegal,sen,Afrika,1945-01-01,37.18,2263855,NA
+Senegal,sen,Afrika,1950-01-01,45.21,2486642,NA
+Senegal,sen,Afrika,1955-01-01,46.04,2808239,NA
+Senegal,sen,Afrika,1960-01-01,46.91,3206757,1199.15263
+Senegal,sen,Afrika,1965-01-01,47.1,3682879,1151.56684
+Senegal,sen,Afrika,1970-01-01,47.87,4257508,1091.54584
+Senegal,sen,Afrika,1975-01-01,49.91,4929846,1059.49607
+Senegal,sen,Afrika,1980-01-01,52.92,5583157,1059.75161
+Senegal,sen,Afrika,1985-01-01,56.22,6471329,1053.88792
+Senegal,sen,Afrika,1990-01-01,58.61,7526306,1016.34462
+Senegal,sen,Afrika,1995-01-01,59.17,8690155,978.31075
+Senegal,sen,Afrika,2000-01-01,60.63,9797731,1066.62164
+Senegal,sen,Afrika,2005-01-01,63.19,11090123,1133.71699
+Senegal,sen,Afrika,2010-01-01,65.67,12678143,1149.64647
+Senegal,sen,Afrika,2015-01-01,66.98,14578450,1219.24942
+Senegal,sen,Afrika,2019-01-01,68.47,16296362,1381.60179
+Singapore,sgp,Asia,1800-01-01,29.1,30000,NA
+Singapore,sgp,Asia,1805-01-01,29.1,30000,NA
+Singapore,sgp,Asia,1810-01-01,29.1,30000,NA
+Singapore,sgp,Asia,1815-01-01,29.1,30000,NA
+Singapore,sgp,Asia,1820-01-01,30.08,30381,NA
+Singapore,sgp,Asia,1825-01-01,34,33303,NA
+Singapore,sgp,Asia,1830-01-01,34,36954,NA
+Singapore,sgp,Asia,1835-01-01,34,41006,NA
+Singapore,sgp,Asia,1840-01-01,34,45501,NA
+Singapore,sgp,Asia,1845-01-01,34,50489,NA
+Singapore,sgp,Asia,1850-01-01,34,56006,NA
+Singapore,sgp,Asia,1855-01-01,34,61946,NA
+Singapore,sgp,Asia,1860-01-01,34,68495,NA
+Singapore,sgp,Asia,1865-01-01,34,75736,NA
+Singapore,sgp,Asia,1870-01-01,34,84320,NA
+Singapore,sgp,Asia,1875-01-01,33.95,97886,NA
+Singapore,sgp,Asia,1880-01-01,33.9,114353,NA
+Singapore,sgp,Asia,1885-01-01,33.85,133591,NA
+Singapore,sgp,Asia,1890-01-01,33.8,156080,NA
+Singapore,sgp,Asia,1895-01-01,33.75,182472,NA
+Singapore,sgp,Asia,1900-01-01,33.7,214605,NA
+Singapore,sgp,Asia,1905-01-01,33.65,261444,NA
+Singapore,sgp,Asia,1910-01-01,33.6,315816,NA
+Singapore,sgp,Asia,1915-01-01,33.55,351501,NA
+Singapore,sgp,Asia,1920-01-01,33.5,392224,NA
+Singapore,sgp,Asia,1925-01-01,37.45,477979,NA
+Singapore,sgp,Asia,1930-01-01,41.39,583019,NA
+Singapore,sgp,Asia,1935-01-01,45.32,661608,NA
+Singapore,sgp,Asia,1940-01-01,49.23,746263,NA
+Singapore,sgp,Asia,1945-01-01,34.13,866772,NA
+Singapore,sgp,Asia,1950-01-01,57.02,1022095,NA
+Singapore,sgp,Asia,1955-01-01,62.61,1305103,NA
+Singapore,sgp,Asia,1960-01-01,65.55,1633133,3609.58944
+Singapore,sgp,Asia,1965-01-01,67.4,1877826,4211.77186
+Singapore,sgp,Asia,1970-01-01,69.01,2072284,6992.62787
+Singapore,sgp,Asia,1975-01-01,70.52,2259721,9967.04042
+Singapore,sgp,Asia,1980-01-01,71.72,2411690,13943.83865
+Singapore,sgp,Asia,1985-01-01,73.45,2705537,17136.99905
+Singapore,sgp,Asia,1990-01-01,75.61,3012968,23255.98397
+Singapore,sgp,Asia,1995-01-01,77.13,3525964,30366.68618
+Singapore,sgp,Asia,2000-01-01,79.39,4028872,34876.66603
+Singapore,sgp,Asia,2005-01-01,81.31,4265693,41726.11407
+Singapore,sgp,Asia,2010-01-01,82.76,5131170,48668.57662
+Singapore,sgp,Asia,2015-01-01,84.14,5592143,55646.61875
+Singapore,sgp,Asia,2019-01-01,84.85,5804343,61173.90477
+Sierra Leone,sle,Afrika,1800-01-01,25.1,794264,NA
+Sierra Leone,sle,Afrika,1805-01-01,25.1,794264,NA
+Sierra Leone,sle,Afrika,1810-01-01,25.1,794264,NA
+Sierra Leone,sle,Afrika,1815-01-01,25.1,794264,NA
+Sierra Leone,sle,Afrika,1820-01-01,25.1,793950,NA
+Sierra Leone,sle,Afrika,1825-01-01,25.1,791652,NA
+Sierra Leone,sle,Afrika,1830-01-01,25.1,789048,NA
+Sierra Leone,sle,Afrika,1835-01-01,25.1,786452,NA
+Sierra Leone,sle,Afrika,1840-01-01,25.1,783865,NA
+Sierra Leone,sle,Afrika,1845-01-01,25.1,781287,NA
+Sierra Leone,sle,Afrika,1850-01-01,25.1,781365,NA
+Sierra Leone,sle,Afrika,1855-01-01,25.1,801473,NA
+Sierra Leone,sle,Afrika,1860-01-01,25.1,825359,NA
+Sierra Leone,sle,Afrika,1865-01-01,25.1,853163,NA
+Sierra Leone,sle,Afrika,1870-01-01,25.1,882944,NA
+Sierra Leone,sle,Afrika,1875-01-01,25.74,917208,NA
+Sierra Leone,sle,Afrika,1880-01-01,26.38,953350,NA
+Sierra Leone,sle,Afrika,1885-01-01,27.02,990902,NA
+Sierra Leone,sle,Afrika,1890-01-01,27.66,1029918,NA
+Sierra Leone,sle,Afrika,1895-01-01,28.3,1070456,NA
+Sierra Leone,sle,Afrika,1900-01-01,28.95,1112574,NA
+Sierra Leone,sle,Afrika,1905-01-01,29.59,1156334,NA
+Sierra Leone,sle,Afrika,1910-01-01,30.23,1201074,NA
+Sierra Leone,sle,Afrika,1915-01-01,30.87,1242828,NA
+Sierra Leone,sle,Afrika,1920-01-01,31.51,1289414,NA
+Sierra Leone,sle,Afrika,1925-01-01,32.15,1381810,NA
+Sierra Leone,sle,Afrika,1930-01-01,32.16,1487700,NA
+Sierra Leone,sle,Afrika,1935-01-01,32.86,1595717,NA
+Sierra Leone,sle,Afrika,1940-01-01,33.78,1714737,NA
+Sierra Leone,sle,Afrika,1945-01-01,34.71,1870419,NA
+Sierra Leone,sle,Afrika,1950-01-01,40.03,2041201,NA
+Sierra Leone,sle,Afrika,1955-01-01,41.37,2165816,NA
+Sierra Leone,sle,Afrika,1960-01-01,42.7,2317638,496.99051
+Sierra Leone,sle,Afrika,1965-01-01,44.17,2508226,568.37944
+Sierra Leone,sle,Afrika,1970-01-01,45.74,2744890,635.45811
+Sierra Leone,sle,Afrika,1975-01-01,47.36,3037158,645.14079
+Sierra Leone,sle,Afrika,1980-01-01,48.35,3388494,646.24044
+Sierra Leone,sle,Afrika,1985-01-01,49.33,3805304,598.58255
+Sierra Leone,sle,Afrika,1990-01-01,51.09,4319763,553.71797
+Sierra Leone,sle,Afrika,1995-01-01,50.6,4303953,421.27927
+Sierra Leone,sle,Afrika,2000-01-01,51.63,4584570,403.04987
+Sierra Leone,sle,Afrika,2005-01-01,53.28,5645629,471.88816
+Sierra Leone,sle,Afrika,2010-01-01,55.99,6415636,535.82074
+Sierra Leone,sle,Afrika,2015-01-01,58.67,7171909,588.22886
+Sierra Leone,sle,Afrika,2019-01-01,61.78,7813207,651.89774
+Suriname,sur,Amerika,1800-01-01,32.9,80721,NA
+Suriname,sur,Amerika,1805-01-01,32.9,80721,NA
+Suriname,sur,Amerika,1810-01-01,32.9,80721,NA
+Suriname,sur,Amerika,1815-01-01,32.9,80721,NA
+Suriname,sur,Amerika,1820-01-01,32.9,80809,NA
+Suriname,sur,Amerika,1825-01-01,32.9,81455,NA
+Suriname,sur,Amerika,1830-01-01,32.9,82195,NA
+Suriname,sur,Amerika,1835-01-01,32.9,82943,NA
+Suriname,sur,Amerika,1840-01-01,32.9,83697,NA
+Suriname,sur,Amerika,1845-01-01,32.9,84457,NA
+Suriname,sur,Amerika,1850-01-01,32.9,85225,NA
+Suriname,sur,Amerika,1855-01-01,32.9,86136,NA
+Suriname,sur,Amerika,1860-01-01,32.9,87056,NA
+Suriname,sur,Amerika,1865-01-01,32.9,87986,NA
+Suriname,sur,Amerika,1870-01-01,32.9,88925,NA
+Suriname,sur,Amerika,1875-01-01,33.01,89874,NA
+Suriname,sur,Amerika,1880-01-01,33.13,90834,NA
+Suriname,sur,Amerika,1885-01-01,33.24,91803,NA
+Suriname,sur,Amerika,1890-01-01,33.35,92782,NA
+Suriname,sur,Amerika,1895-01-01,33.47,93772,NA
+Suriname,sur,Amerika,1900-01-01,33.58,94772,NA
+Suriname,sur,Amerika,1905-01-01,33.7,95782,NA
+Suriname,sur,Amerika,1910-01-01,33.81,98845,NA
+Suriname,sur,Amerika,1915-01-01,33.92,116152,NA
+Suriname,sur,Amerika,1920-01-01,34.04,136970,NA
+Suriname,sur,Amerika,1925-01-01,34.15,147326,NA
+Suriname,sur,Amerika,1930-01-01,38.8,156905,NA
+Suriname,sur,Amerika,1935-01-01,43.47,171399,NA
+Suriname,sur,Amerika,1940-01-01,48.18,187250,NA
+Suriname,sur,Amerika,1945-01-01,52.92,199840,NA
+Suriname,sur,Amerika,1950-01-01,57.69,214996,NA
+Suriname,sur,Amerika,1955-01-01,61.15,249002,NA
+Suriname,sur,Amerika,1960-01-01,62.97,287870,3612.21505
+Suriname,sur,Amerika,1965-01-01,64.81,328939,4335.73786
+Suriname,sur,Amerika,1970-01-01,65.85,367926,5981.34397
+Suriname,sur,Amerika,1975-01-01,66.21,359234,6412.42163
+Suriname,sur,Amerika,1980-01-01,66.77,359531,7423.55754
+Suriname,sur,Amerika,1985-01-01,69.07,368636,7143.28904
+Suriname,sur,Amerika,1990-01-01,68.94,405169,6591.93598
+Suriname,sur,Amerika,1995-01-01,70.91,441851,6012.84057
+Suriname,sur,Amerika,2000-01-01,69.8,470944,6202.41627
+Suriname,sur,Amerika,2005-01-01,70.64,499461,7550.37857
+Suriname,sur,Amerika,2010-01-01,72.29,529126,8941.99324
+Suriname,sur,Amerika,2015-01-01,72.45,559136,9168.23716
+Suriname,sur,Amerika,2019-01-01,72.71,581363,9035.19701
+Sweden,swe,Europa,1800-01-01,32.16,2500000,NA
+Sweden,swe,Europa,1805-01-01,41.05,2447448,NA
+Sweden,swe,Europa,1810-01-01,31.99,2412437,NA
+Sweden,swe,Europa,1815-01-01,40.42,2483049,NA
+Sweden,swe,Europa,1820-01-01,40.23,2579409,NA
+Sweden,swe,Europa,1825-01-01,45.24,2720622,NA
+Sweden,swe,Europa,1830-01-01,40.97,2871282,NA
+Sweden,swe,Europa,1835-01-01,47.14,2997160,NA
+Sweden,swe,Europa,1840-01-01,43.98,3127143,NA
+Sweden,swe,Europa,1845-01-01,45.99,3288483,NA
+Sweden,swe,Europa,1850-01-01,44.69,3461607,NA
+Sweden,swe,Europa,1855-01-01,43.08,3639240,NA
+Sweden,swe,Europa,1860-01-01,48.47,3821850,NA
+Sweden,swe,Europa,1865-01-01,45.4,3991919,NA
+Sweden,swe,Europa,1870-01-01,45.01,4168145,NA
+Sweden,swe,Europa,1875-01-01,44.62,4365892,NA
+Sweden,swe,Europa,1880-01-01,47.64,4561661,NA
+Sweden,swe,Europa,1885-01-01,48.97,4678351,NA
+Sweden,swe,Europa,1890-01-01,50.52,4790934,NA
+Sweden,swe,Europa,1895-01-01,54.21,4950505,NA
+Sweden,swe,Europa,1900-01-01,52.33,5120942,NA
+Sweden,swe,Europa,1905-01-01,54.62,5286661,NA
+Sweden,swe,Europa,1910-01-01,57.89,5460205,NA
+Sweden,swe,Europa,1915-01-01,57.3,5666472,NA
+Sweden,swe,Europa,1920-01-01,58.92,5872799,NA
+Sweden,swe,Europa,1925-01-01,62.69,6010647,NA
+Sweden,swe,Europa,1930-01-01,63.34,6137296,NA
+Sweden,swe,Europa,1935-01-01,65.02,6251296,NA
+Sweden,swe,Europa,1940-01-01,66.92,6389096,NA
+Sweden,swe,Europa,1945-01-01,68.54,6686887,NA
+Sweden,swe,Europa,1950-01-01,71.36,7009913,NA
+Sweden,swe,Europa,1955-01-01,72.76,7262625,NA
+Sweden,swe,Europa,1960-01-01,73.41,7482536,16525.36105
+Sweden,swe,Europa,1965-01-01,74.19,7745678,20583.86673
+Sweden,swe,Europa,1970-01-01,74.83,8054909,24388.29821
+Sweden,swe,Europa,1975-01-01,75.26,8197341,27202.34389
+Sweden,swe,Europa,1980-01-01,76.07,8316331,28654.97106
+Sweden,swe,Europa,1985-01-01,77.09,8357650,31472.59161
+Sweden,swe,Europa,1990-01-01,77.95,8567375,34570.30573
+Sweden,swe,Europa,1995-01-01,79.12,8836421,34648.11892
+Sweden,swe,Europa,2000-01-01,80,8881642,41117.15243
+Sweden,swe,Europa,2005-01-01,80.98,9038627,45990.37433
+Sweden,swe,Europa,2010-01-01,81.86,9390157,48369.91004
+Sweden,swe,Europa,2015-01-01,82.55,9764949,51545.48361
+Sweden,swe,Europa,2019-01-01,82.83,10036391,53490.35182
+Seychelles,syc,Afrika,1800-01-01,37,12522,NA
+Seychelles,syc,Afrika,1805-01-01,37,12522,NA
+Seychelles,syc,Afrika,1810-01-01,37,12522,NA
+Seychelles,syc,Afrika,1815-01-01,37,12522,NA
+Seychelles,syc,Afrika,1820-01-01,37,12548,NA
+Seychelles,syc,Afrika,1825-01-01,37,12743,NA
+Seychelles,syc,Afrika,1830-01-01,37,12968,NA
+Seychelles,syc,Afrika,1835-01-01,37,13197,NA
+Seychelles,syc,Afrika,1840-01-01,37,13431,NA
+Seychelles,syc,Afrika,1845-01-01,37,13668,NA
+Seychelles,syc,Afrika,1850-01-01,37,13909,NA
+Seychelles,syc,Afrika,1855-01-01,37,14250,NA
+Seychelles,syc,Afrika,1860-01-01,37,14598,NA
+Seychelles,syc,Afrika,1865-01-01,37,14955,NA
+Seychelles,syc,Afrika,1870-01-01,37,15319,NA
+Seychelles,syc,Afrika,1875-01-01,38.39,15692,NA
+Seychelles,syc,Afrika,1880-01-01,39.79,16073,NA
+Seychelles,syc,Afrika,1885-01-01,41.2,16462,NA
+Seychelles,syc,Afrika,1890-01-01,42.61,17001,NA
+Seychelles,syc,Afrika,1895-01-01,44.02,18496,NA
+Seychelles,syc,Afrika,1900-01-01,45.44,20307,NA
+Seychelles,syc,Afrika,1905-01-01,46.87,22458,NA
+Seychelles,syc,Afrika,1910-01-01,48.3,24700,NA
+Seychelles,syc,Afrika,1915-01-01,49.74,26076,NA
+Seychelles,syc,Afrika,1920-01-01,51.18,27243,NA
+Seychelles,syc,Afrika,1925-01-01,52.63,28323,NA
+Seychelles,syc,Afrika,1930-01-01,54.08,29601,NA
+Seychelles,syc,Afrika,1935-01-01,55.54,32051,NA
+Seychelles,syc,Afrika,1940-01-01,57.01,34590,NA
+Seychelles,syc,Afrika,1945-01-01,58.48,35371,NA
+Seychelles,syc,Afrika,1950-01-01,59.96,36325,NA
+Seychelles,syc,Afrika,1955-01-01,62.01,38963,NA
+Seychelles,syc,Afrika,1960-01-01,63.64,41611,3163.8797
+Seychelles,syc,Afrika,1965-01-01,63.89,46787,3305.67027
+Seychelles,syc,Afrika,1970-01-01,65.73,52371,3926.67054
+Seychelles,syc,Afrika,1975-01-01,68.91,59584,4983.23834
+Seychelles,syc,Afrika,1980-01-01,71.06,66237,6843.50097
+Seychelles,syc,Afrika,1985-01-01,71.25,69772,6874.6917
+Seychelles,syc,Afrika,1990-01-01,70.56,70572,8433.49158
+Seychelles,syc,Afrika,1995-01-01,70.95,76653,8955.91677
+Seychelles,syc,Afrika,2000-01-01,72.2,80998,10946.70408
+Seychelles,syc,Afrika,2005-01-01,72.24,88652,10566.55274
+Seychelles,syc,Afrika,2010-01-01,73.21,91273,12080.94101
+Seychelles,syc,Afrika,2015-01-01,73.41,94981,14745.34146
+Seychelles,syc,Afrika,2019-01-01,73.56,97741,15913.77484
+Chad,tcd,Afrika,1800-01-01,30.9,1432000,NA
+Chad,tcd,Afrika,1805-01-01,30.9,1464111,NA
+Chad,tcd,Afrika,1810-01-01,30.9,1496970,NA
+Chad,tcd,Afrika,1815-01-01,30.9,1530538,NA
+Chad,tcd,Afrika,1820-01-01,30.9,1564858,NA
+Chad,tcd,Afrika,1825-01-01,30.9,1599948,NA
+Chad,tcd,Afrika,1830-01-01,30.9,1635824,NA
+Chad,tcd,Afrika,1835-01-01,30.9,1672505,NA
+Chad,tcd,Afrika,1840-01-01,30.9,1710008,NA
+Chad,tcd,Afrika,1845-01-01,30.9,1748353,NA
+Chad,tcd,Afrika,1850-01-01,30.9,1783856,NA
+Chad,tcd,Afrika,1855-01-01,30.9,1800140,NA
+Chad,tcd,Afrika,1860-01-01,30.9,1812837,NA
+Chad,tcd,Afrika,1865-01-01,30.9,1825616,NA
+Chad,tcd,Afrika,1870-01-01,30.9,1839582,NA
+Chad,tcd,Afrika,1875-01-01,31.41,1860694,NA
+Chad,tcd,Afrika,1880-01-01,31.93,1883166,NA
+Chad,tcd,Afrika,1885-01-01,32.44,1905902,NA
+Chad,tcd,Afrika,1890-01-01,32.96,1917354,NA
+Chad,tcd,Afrika,1895-01-01,33.47,1856800,NA
+Chad,tcd,Afrika,1900-01-01,33.99,1791548,NA
+Chad,tcd,Afrika,1905-01-01,34.5,1755228,NA
+Chad,tcd,Afrika,1910-01-01,35.01,1723831,NA
+Chad,tcd,Afrika,1915-01-01,35.53,1692989,NA
+Chad,tcd,Afrika,1920-01-01,36.04,1677707,NA
+Chad,tcd,Afrika,1925-01-01,36.56,1771774,NA
+Chad,tcd,Afrika,1930-01-01,37.07,1888830,NA
+Chad,tcd,Afrika,1935-01-01,37.59,2006077,NA
+Chad,tcd,Afrika,1940-01-01,38.1,2134522,NA
+Chad,tcd,Afrika,1945-01-01,38.61,2305506,NA
+Chad,tcd,Afrika,1950-01-01,45.02,2502321,NA
+Chad,tcd,Afrika,1955-01-01,46.24,2735205,NA
+Chad,tcd,Afrika,1960-01-01,47.41,3001604,565.35217
+Chad,tcd,Afrika,1965-01-01,48.47,3309583,528.66672
+Chad,tcd,Afrika,1970-01-01,48.36,3643608,514.91633
+Chad,tcd,Afrika,1975-01-01,50.42,4088568,475.63481
+Chad,tcd,Afrika,1980-01-01,50.77,4514427,333.16161
+Chad,tcd,Afrika,1985-01-01,52.36,5095400,451.74053
+Chad,tcd,Afrika,1990-01-01,53.54,5963250,419.44651
+Chad,tcd,Afrika,1995-01-01,53.46,7010159,393.07794
+Chad,tcd,Afrika,2000-01-01,52.25,8355654,374.96962
+Chad,tcd,Afrika,2005-01-01,53.73,10096630,676.16211
+Chad,tcd,Afrika,2010-01-01,56.5,11952134,724.03059
+Chad,tcd,Afrika,2015-01-01,58.75,14110971,776.01975
+Chad,tcd,Afrika,2019-01-01,60.38,15946882,660.06993
+Togo,tgo,Afrika,1800-01-01,31.3,445985,NA
+Togo,tgo,Afrika,1805-01-01,31.3,445985,NA
+Togo,tgo,Afrika,1810-01-01,31.3,445985,NA
+Togo,tgo,Afrika,1815-01-01,31.3,445985,NA
+Togo,tgo,Afrika,1820-01-01,31.3,447125,NA
+Togo,tgo,Afrika,1825-01-01,31.3,455564,NA
+Togo,tgo,Afrika,1830-01-01,31.3,465340,NA
+Togo,tgo,Afrika,1835-01-01,31.3,475326,NA
+Togo,tgo,Afrika,1840-01-01,31.3,485526,NA
+Togo,tgo,Afrika,1845-01-01,31.3,495945,NA
+Togo,tgo,Afrika,1850-01-01,31.3,507119,NA
+Togo,tgo,Afrika,1855-01-01,31.3,523939,NA
+Togo,tgo,Afrika,1860-01-01,31.3,541867,NA
+Togo,tgo,Afrika,1865-01-01,31.3,560402,NA
+Togo,tgo,Afrika,1870-01-01,31.3,580611,NA
+Togo,tgo,Afrika,1875-01-01,31.92,608387,NA
+Togo,tgo,Afrika,1880-01-01,32.55,637837,NA
+Togo,tgo,Afrika,1885-01-01,33.17,663683,NA
+Togo,tgo,Afrika,1890-01-01,33.8,689755,NA
+Togo,tgo,Afrika,1895-01-01,34.42,716842,NA
+Togo,tgo,Afrika,1900-01-01,35.05,744983,NA
+Togo,tgo,Afrika,1905-01-01,35.67,774219,NA
+Togo,tgo,Afrika,1910-01-01,36.3,805076,NA
+Togo,tgo,Afrika,1915-01-01,36.92,840316,NA
+Togo,tgo,Afrika,1920-01-01,37.55,879430,NA
+Togo,tgo,Afrika,1925-01-01,38.17,943553,NA
+Togo,tgo,Afrika,1930-01-01,38.8,1015859,NA
+Togo,tgo,Afrika,1935-01-01,39.42,1089617,NA
+Togo,tgo,Afrika,1940-01-01,40.05,1170889,NA
+Togo,tgo,Afrika,1945-01-01,40.67,1277194,NA
+Togo,tgo,Afrika,1950-01-01,44.77,1395451,NA
+Togo,tgo,Afrika,1955-01-01,45.94,1473835,NA
+Togo,tgo,Afrika,1960-01-01,46.95,1580508,339.00344
+Togo,tgo,Afrika,1965-01-01,48.58,1708631,505.73765
+Togo,tgo,Afrika,1970-01-01,51.42,2115522,562.64801
+Togo,tgo,Afrika,1975-01-01,53.7,2410451,592.6431
+Togo,tgo,Afrika,1980-01-01,55.77,2720835,663.68008
+Togo,tgo,Afrika,1985-01-01,57.11,3252997,545.357
+Togo,tgo,Afrika,1990-01-01,57.98,3774310,531.28457
+Togo,tgo,Afrika,1995-01-01,57.55,4226293,476.29605
+Togo,tgo,Afrika,2000-01-01,56.38,4924406,505.50089
+Togo,tgo,Afrika,2005-01-01,56.91,5611643,467.81885
+Togo,tgo,Afrika,2010-01-01,59.5,6421674,483.2361
+Togo,tgo,Afrika,2015-01-01,62.38,7323162,570.90997
+Togo,tgo,Afrika,2019-01-01,65.03,8082359,630.79051
+Thailand,tha,Asia,1800-01-01,30.4,3000000,NA
+Thailand,tha,Asia,1805-01-01,30.4,3350070,NA
+Thailand,tha,Asia,1810-01-01,30.4,3742812,NA
+Thailand,tha,Asia,1815-01-01,30.4,4179561,NA
+Thailand,tha,Asia,1820-01-01,30.4,4615037,NA
+Thailand,tha,Asia,1825-01-01,30.4,4754808,NA
+Thailand,tha,Asia,1830-01-01,30.4,4846274,NA
+Thailand,tha,Asia,1835-01-01,30.4,4939500,NA
+Thailand,tha,Asia,1840-01-01,30.4,5034519,NA
+Thailand,tha,Asia,1845-01-01,30.4,5131366,NA
+Thailand,tha,Asia,1850-01-01,30.4,5233697,NA
+Thailand,tha,Asia,1855-01-01,30.4,5372867,NA
+Thailand,tha,Asia,1860-01-01,30.4,5519475,NA
+Thailand,tha,Asia,1865-01-01,30.4,5670059,NA
+Thailand,tha,Asia,1870-01-01,30.4,5832659,NA
+Thailand,tha,Asia,1875-01-01,30.51,6051372,NA
+Thailand,tha,Asia,1880-01-01,30.62,6286640,NA
+Thailand,tha,Asia,1885-01-01,30.73,6531026,NA
+Thailand,tha,Asia,1890-01-01,30.84,6793527,NA
+Thailand,tha,Asia,1895-01-01,30.95,7123039,NA
+Thailand,tha,Asia,1900-01-01,31.06,7492954,NA
+Thailand,tha,Asia,1905-01-01,31.17,7982318,NA
+Thailand,tha,Asia,1910-01-01,31.28,8540940,NA
+Thailand,tha,Asia,1915-01-01,31.39,9276803,NA
+Thailand,tha,Asia,1920-01-01,31.5,10129685,NA
+Thailand,tha,Asia,1925-01-01,31.62,11344393,NA
+Thailand,tha,Asia,1930-01-01,31.73,12747597,NA
+Thailand,tha,Asia,1935-01-01,39.24,14270927,NA
+Thailand,tha,Asia,1940-01-01,41.3,15998627,NA
+Thailand,tha,Asia,1945-01-01,41.48,18151553,NA
+Thailand,tha,Asia,1950-01-01,53.82,20710353,NA
+Thailand,tha,Asia,1955-01-01,58.28,23711122,NA
+Thailand,tha,Asia,1960-01-01,60.87,27397208,580.67031
+Thailand,tha,Asia,1965-01-01,62.85,31822656,707.10793
+Thailand,tha,Asia,1970-01-01,64.15,36884525,945.06401
+Thailand,tha,Asia,1975-01-01,65.49,42326307,1088.96578
+Thailand,tha,Asia,1980-01-01,66.5,47374463,1428.13982
+Thailand,tha,Asia,1985-01-01,70.03,52026901,1695.40124
+Thailand,tha,Asia,1990-01-01,71.29,56558196,2546.84685
+Thailand,tha,Asia,1995-01-01,70.72,59467272,3592.5008
+Thailand,tha,Asia,2000-01-01,71.81,62952639,3517.79891
+Thailand,tha,Asia,2005-01-01,74.75,65416189,4412.44429
+Thailand,tha,Asia,2010-01-01,77,67195032,5163.59766
+Thailand,tha,Asia,2015-01-01,78.19,68714519,5840.05307
+Thailand,tha,Asia,2019-01-01,78.42,69625581,6617.54282
+Trinidad and Tobago,tto,Amerika,1800-01-01,32.9,20000,NA
+Trinidad and Tobago,tto,Amerika,1805-01-01,32.9,26321,NA
+Trinidad and Tobago,tto,Amerika,1810-01-01,32.9,34746,NA
+Trinidad and Tobago,tto,Amerika,1815-01-01,32.9,45728,NA
+Trinidad and Tobago,tto,Amerika,1820-01-01,32.9,58458,NA
+Trinidad and Tobago,tto,Amerika,1825-01-01,32.9,62953,NA
+Trinidad and Tobago,tto,Amerika,1830-01-01,32.9,66045,NA
+Trinidad and Tobago,tto,Amerika,1835-01-01,32.9,69288,NA
+Trinidad and Tobago,tto,Amerika,1840-01-01,34.87,72692,NA
+Trinidad and Tobago,tto,Amerika,1845-01-01,38.8,76262,NA
+Trinidad and Tobago,tto,Amerika,1850-01-01,38.8,80585,NA
+Trinidad and Tobago,tto,Amerika,1855-01-01,38.8,89172,NA
+Trinidad and Tobago,tto,Amerika,1860-01-01,38.8,99424,NA
+Trinidad and Tobago,tto,Amerika,1865-01-01,38.8,111364,NA
+Trinidad and Tobago,tto,Amerika,1870-01-01,38.8,125579,NA
+Trinidad and Tobago,tto,Amerika,1875-01-01,38.82,146886,NA
+Trinidad and Tobago,tto,Amerika,1880-01-01,38.84,171902,NA
+Trinidad and Tobago,tto,Amerika,1885-01-01,38.86,195266,NA
+Trinidad and Tobago,tto,Amerika,1890-01-01,38.88,220310,NA
+Trinidad and Tobago,tto,Amerika,1895-01-01,38.9,245157,NA
+Trinidad and Tobago,tto,Amerika,1900-01-01,38.92,272312,NA
+Trinidad and Tobago,tto,Amerika,1905-01-01,38.94,303007,NA
+Trinidad and Tobago,tto,Amerika,1910-01-01,38.96,336216,NA
+Trinidad and Tobago,tto,Amerika,1915-01-01,38.98,366092,NA
+Trinidad and Tobago,tto,Amerika,1920-01-01,39,394176,NA
+Trinidad and Tobago,tto,Amerika,1925-01-01,41.8,405097,NA
+Trinidad and Tobago,tto,Amerika,1930-01-01,45.29,416401,NA
+Trinidad and Tobago,tto,Amerika,1935-01-01,48.37,448222,NA
+Trinidad and Tobago,tto,Amerika,1940-01-01,51.35,489614,NA
+Trinidad and Tobago,tto,Amerika,1945-01-01,54.33,560222,NA
+Trinidad and Tobago,tto,Amerika,1950-01-01,57.36,645626,NA
+Trinidad and Tobago,tto,Amerika,1955-01-01,60.89,739703,NA
+Trinidad and Tobago,tto,Amerika,1960-01-01,64.32,847973,4348.25156
+Trinidad and Tobago,tto,Amerika,1965-01-01,65.13,911742,5423.02841
+Trinidad and Tobago,tto,Amerika,1970-01-01,65.35,945357,6214.8351
+Trinidad and Tobago,tto,Amerika,1975-01-01,66.78,1010934,6651.7842
+Trinidad and Tobago,tto,Amerika,1980-01-01,67.64,1084743,9056.40806
+Trinidad and Tobago,tto,Amerika,1985-01-01,68.31,1170296,7386.13692
+Trinidad and Tobago,tto,Amerika,1990-01-01,69.6,1221121,6319.99823
+Trinidad and Tobago,tto,Amerika,1995-01-01,69.82,1254200,7459.75736
+Trinidad and Tobago,tto,Amerika,2000-01-01,70.47,1267159,10619.92786
+Trinidad and Tobago,tto,Amerika,2005-01-01,71.93,1296497,15312.7211
+Trinidad and Tobago,tto,Amerika,2010-01-01,73.73,1328144,18105.34475
+Trinidad and Tobago,tto,Amerika,2015-01-01,74.92,1370332,18214.46062
+Trinidad and Tobago,tto,Amerika,2019-01-01,74.88,1394969,16192.3235
+Turkey,tur,Europa,1800-01-01,35,9761393,NA
+Turkey,tur,Europa,1805-01-01,35,9835586,NA
+Turkey,tur,Europa,1810-01-01,35,9910759,NA
+Turkey,tur,Europa,1815-01-01,35,9997951,NA
+Turkey,tur,Europa,1820-01-01,35,10105826,NA
+Turkey,tur,Europa,1825-01-01,35,10234073,NA
+Turkey,tur,Europa,1830-01-01,35,10396585,NA
+Turkey,tur,Europa,1835-01-01,35,10561679,NA
+Turkey,tur,Europa,1840-01-01,35,10729394,NA
+Turkey,tur,Europa,1845-01-01,35,10899773,NA
+Turkey,tur,Europa,1850-01-01,35,11072856,NA
+Turkey,tur,Europa,1855-01-01,35,11253540,NA
+Turkey,tur,Europa,1860-01-01,35,11437171,NA
+Turkey,tur,Europa,1865-01-01,35,11623795,NA
+Turkey,tur,Europa,1870-01-01,35,11833908,NA
+Turkey,tur,Europa,1875-01-01,35.26,12179625,NA
+Turkey,tur,Europa,1880-01-01,35.52,12556805,NA
+Turkey,tur,Europa,1885-01-01,35.78,12945663,NA
+Turkey,tur,Europa,1890-01-01,36.04,13346561,NA
+Turkey,tur,Europa,1895-01-01,36.3,13759871,NA
+Turkey,tur,Europa,1900-01-01,36.56,14185978,NA
+Turkey,tur,Europa,1905-01-01,36.82,14625278,NA
+Turkey,tur,Europa,1910-01-01,37.08,14953559,NA
+Turkey,tur,Europa,1915-01-01,7.47,14509350,NA
+Turkey,tur,Europa,1920-01-01,31.16,14084303,NA
+Turkey,tur,Europa,1925-01-01,37.87,14476863,NA
+Turkey,tur,Europa,1930-01-01,38.13,15110862,NA
+Turkey,tur,Europa,1935-01-01,38.72,16409896,NA
+Turkey,tur,Europa,1940-01-01,36.41,17921628,NA
+Turkey,tur,Europa,1945-01-01,39.35,19519018,NA
+Turkey,tur,Europa,1950-01-01,44.95,21408398,NA
+Turkey,tur,Europa,1955-01-01,47.32,24270599,NA
+Turkey,tur,Europa,1960-01-01,49.53,27472339,2509.62346
+Turkey,tur,Europa,1965-01-01,53.39,30972996,2811.42384
+Turkey,tur,Europa,1970-01-01,57.13,34876296,3336.49171
+Turkey,tur,Europa,1975-01-01,60.74,39277249,3926.33946
+Turkey,tur,Europa,1980-01-01,64.06,43975972,3941.58017
+Turkey,tur,Europa,1985-01-01,66.65,49133928,4473.30838
+Turkey,tur,Europa,1990-01-01,68.75,53921758,5354.80453
+Turkey,tur,Europa,1995-01-01,70.85,58486453,5782.25312
+Turkey,tur,Europa,2000-01-01,74.73,63240196,6543.73145
+Turkey,tur,Europa,2005-01-01,76.81,67903461,7738.57822
+Turkey,tur,Europa,2010-01-01,76.72,72326992,8491.58865
+Turkey,tur,Europa,2015-01-01,77.36,78529413,11006.27952
+Turkey,tur,Europa,2019-01-01,78.4,83429607,11956.19782
+Uruguay,ury,Amerika,1800-01-01,32.9,55000,NA
+Uruguay,ury,Amerika,1805-01-01,32.9,55000,NA
+Uruguay,ury,Amerika,1810-01-01,32.9,55000,NA
+Uruguay,ury,Amerika,1815-01-01,32.9,55000,NA
+Uruguay,ury,Amerika,1820-01-01,32.9,55987,NA
+Uruguay,ury,Amerika,1825-01-01,32.9,63694,NA
+Uruguay,ury,Amerika,1830-01-01,32.9,73700,NA
+Uruguay,ury,Amerika,1835-01-01,32.9,85278,NA
+Uruguay,ury,Amerika,1840-01-01,32.9,98675,NA
+Uruguay,ury,Amerika,1845-01-01,32.9,114176,NA
+Uruguay,ury,Amerika,1850-01-01,32.9,134084,NA
+Uruguay,ury,Amerika,1855-01-01,32.9,172273,NA
+Uruguay,ury,Amerika,1860-01-01,32.9,222852,NA
+Uruguay,ury,Amerika,1865-01-01,32.9,278197,NA
+Uruguay,ury,Amerika,1870-01-01,32.9,342659,NA
+Uruguay,ury,Amerika,1875-01-01,32.88,401986,NA
+Uruguay,ury,Amerika,1880-01-01,32.86,470811,NA
+Uruguay,ury,Amerika,1885-01-01,32.84,570363,NA
+Uruguay,ury,Amerika,1890-01-01,32.81,689904,NA
+Uruguay,ury,Amerika,1895-01-01,32.79,802518,NA
+Uruguay,ury,Amerika,1900-01-01,32.77,921056,NA
+Uruguay,ury,Amerika,1905-01-01,32.75,1009527,NA
+Uruguay,ury,Amerika,1910-01-01,32.73,1103576,NA
+Uruguay,ury,Amerika,1915-01-01,32.71,1239366,NA
+Uruguay,ury,Amerika,1920-01-01,32.69,1395180,NA
+Uruguay,ury,Amerika,1925-01-01,32.66,1560864,NA
+Uruguay,ury,Amerika,1930-01-01,39.17,1735503,NA
+Uruguay,ury,Amerika,1935-01-01,45.67,1868074,NA
+Uruguay,ury,Amerika,1940-01-01,52.16,1997473,NA
+Uruguay,ury,Amerika,1945-01-01,58.64,2114131,NA
+Uruguay,ury,Amerika,1950-01-01,65.12,2238501,NA
+Uruguay,ury,Amerika,1955-01-01,67.46,2372564,NA
+Uruguay,ury,Amerika,1960-01-01,68.32,2538648,6132.49433
+Uruguay,ury,Amerika,1965-01-01,68.44,2694537,6043.46674
+Uruguay,ury,Amerika,1970-01-01,68.47,2809799,6352.03663
+Uruguay,ury,Amerika,1975-01-01,69.31,2830172,6795.2262
+Uruguay,ury,Amerika,1980-01-01,70.6,2915389,8239.05777
+Uruguay,ury,Amerika,1985-01-01,72.27,3011519,6579.10637
+Uruguay,ury,Amerika,1990-01-01,73.17,3109598,7704.67467
+Uruguay,ury,Amerika,1995-01-01,73.68,3224275,9012.81585
+Uruguay,ury,Amerika,2000-01-01,74.77,3319734,10083.464
+Uruguay,ury,Amerika,2005-01-01,75.54,3321799,10169.59687
+Uruguay,ury,Amerika,2010-01-01,76.53,3359273,13433.06207
+Uruguay,ury,Amerika,2015-01-01,77.14,3412013,15613.74597
+Uruguay,ury,Amerika,2019-01-01,77.53,3461731,16036.2964
+United States,usa,Amerika,1800-01-01,39.41,6000000,NA
+United States,usa,Amerika,1805-01-01,39.41,6590903,NA
+United States,usa,Amerika,1810-01-01,39.41,7302908,NA
+United States,usa,Amerika,1815-01-01,39.41,8509285,NA
+United States,usa,Amerika,1820-01-01,39.41,9966626,NA
+United States,usa,Amerika,1825-01-01,39.41,11504621,NA
+United States,usa,Amerika,1830-01-01,39.41,13245133,NA
+United States,usa,Amerika,1835-01-01,39.41,15208954,NA
+United States,usa,Amerika,1840-01-01,39.41,17485246,NA
+United States,usa,Amerika,1845-01-01,39.41,20299435,NA
+United States,usa,Amerika,1850-01-01,39.41,23599506,NA
+United States,usa,Amerika,1855-01-01,39.41,27507660,NA
+United States,usa,Amerika,1860-01-01,39.41,31927846,NA
+United States,usa,Amerika,1865-01-01,38,36139228,NA
+United States,usa,Amerika,1870-01-01,39.41,40730489,NA
+United States,usa,Amerika,1875-01-01,39.42,45766631,NA
+United States,usa,Amerika,1880-01-01,39.42,51403129,NA
+United States,usa,Amerika,1885-01-01,42.33,57744514,NA
+United States,usa,Amerika,1890-01-01,45.24,64713188,NA
+United States,usa,Amerika,1895-01-01,47.1,71460501,NA
+United States,usa,Amerika,1900-01-01,48.97,78763706,NA
+United States,usa,Amerika,1905-01-01,50.35,87019897,NA
+United States,usa,Amerika,1910-01-01,51.86,95863718,NA
+United States,usa,Amerika,1915-01-01,55.18,103516631,NA
+United States,usa,Amerika,1920-01-01,55.48,111271341,NA
+United States,usa,Amerika,1925-01-01,58.6,119661215,NA
+United States,usa,Amerika,1930-01-01,59.71,128119335,NA
+United States,usa,Amerika,1935-01-01,61.06,133279810,NA
+United States,usa,Amerika,1940-01-01,63.41,138601511,NA
+United States,usa,Amerika,1945-01-01,65.78,147912803,NA
+United States,usa,Amerika,1950-01-01,68.29,158804397,NA
+United States,usa,Amerika,1955-01-01,69.86,171685337,NA
+United States,usa,Amerika,1960-01-01,70.06,186720570,19135.26818
+United States,usa,Amerika,1965-01-01,70.37,199733679,22696.67858
+United States,usa,Amerika,1970-01-01,70.93,209513340,25279.18879
+United States,usa,Amerika,1975-01-01,72.73,219081250,27362.99749
+United States,usa,Amerika,1980-01-01,73.96,229476360,31142.19368
+United States,usa,Amerika,1985-01-01,74.91,240499822,34986.35687
+United States,usa,Amerika,1990-01-01,75.72,252120309,39278.59535
+United States,usa,Amerika,1995-01-01,76.08,265163741,41794.19221
+United States,usa,Amerika,2000-01-01,77.03,281710914,48689.03129
+United States,usa,Amerika,2005-01-01,77.73,294993509,52796.08982
+United States,usa,Amerika,2010-01-01,78.89,309011469,52759.99808
+United States,usa,Amerika,2015-01-01,78.99,320878312,56863.3715
+United States,usa,Amerika,2019-01-01,78.93,329064917,60836.77145
+St. Vincent and the Grenadines,vct,Amerika,1800-01-01,25.99,25781,NA
+St. Vincent and the Grenadines,vct,Amerika,1805-01-01,25.99,25781,NA
+St. Vincent and the Grenadines,vct,Amerika,1810-01-01,25.99,25781,NA
+St. Vincent and the Grenadines,vct,Amerika,1815-01-01,25.99,25781,NA
+St. Vincent and the Grenadines,vct,Amerika,1820-01-01,25.99,25859,NA
+St. Vincent and the Grenadines,vct,Amerika,1825-01-01,25.99,26441,NA
+St. Vincent and the Grenadines,vct,Amerika,1830-01-01,25.99,27118,NA
+St. Vincent and the Grenadines,vct,Amerika,1835-01-01,25.99,27811,NA
+St. Vincent and the Grenadines,vct,Amerika,1840-01-01,25.99,28523,NA
+St. Vincent and the Grenadines,vct,Amerika,1845-01-01,25.99,29252,NA
+St. Vincent and the Grenadines,vct,Amerika,1850-01-01,25.99,30026,NA
+St. Vincent and the Grenadines,vct,Amerika,1855-01-01,25.99,30986,NA
+St. Vincent and the Grenadines,vct,Amerika,1860-01-01,25.99,32106,NA
+St. Vincent and the Grenadines,vct,Amerika,1865-01-01,25.99,33948,NA
+St. Vincent and the Grenadines,vct,Amerika,1870-01-01,25.99,36035,NA
+St. Vincent and the Grenadines,vct,Amerika,1875-01-01,26.1,38429,NA
+St. Vincent and the Grenadines,vct,Amerika,1880-01-01,26.22,40688,NA
+St. Vincent and the Grenadines,vct,Amerika,1885-01-01,26.34,41005,NA
+St. Vincent and the Grenadines,vct,Amerika,1890-01-01,26.46,41399,NA
+St. Vincent and the Grenadines,vct,Amerika,1895-01-01,26.58,44380,NA
+St. Vincent and the Grenadines,vct,Amerika,1900-01-01,26.7,47180,NA
+St. Vincent and the Grenadines,vct,Amerika,1905-01-01,26.82,44917,NA
+St. Vincent and the Grenadines,vct,Amerika,1910-01-01,26.94,42467,NA
+St. Vincent and the Grenadines,vct,Amerika,1915-01-01,27.05,42999,NA
+St. Vincent and the Grenadines,vct,Amerika,1920-01-01,27.17,44120,NA
+St. Vincent and the Grenadines,vct,Amerika,1925-01-01,30.77,45971,NA
+St. Vincent and the Grenadines,vct,Amerika,1930-01-01,35.27,48516,NA
+St. Vincent and the Grenadines,vct,Amerika,1935-01-01,39.8,54602,NA
+St. Vincent and the Grenadines,vct,Amerika,1940-01-01,44.38,61342,NA
+St. Vincent and the Grenadines,vct,Amerika,1945-01-01,48.99,64206,NA
+St. Vincent and the Grenadines,vct,Amerika,1950-01-01,53.64,66997,NA
+St. Vincent and the Grenadines,vct,Amerika,1955-01-01,55.03,73550,NA
+St. Vincent and the Grenadines,vct,Amerika,1960-01-01,60.97,80970,1842.54726
+St. Vincent and the Grenadines,vct,Amerika,1965-01-01,63.41,86009,1843.15453
+St. Vincent and the Grenadines,vct,Amerika,1970-01-01,64.78,90501,1922.88559
+St. Vincent and the Grenadines,vct,Amerika,1975-01-01,66.59,95665,1765.09716
+St. Vincent and the Grenadines,vct,Amerika,1980-01-01,68.56,100566,2439.78108
+St. Vincent and the Grenadines,vct,Amerika,1985-01-01,69.99,104503,2967.13175
+St. Vincent and the Grenadines,vct,Amerika,1990-01-01,70.11,107489,3784.99506
+St. Vincent and the Grenadines,vct,Amerika,1995-01-01,70.47,108043,4377.30031
+St. Vincent and the Grenadines,vct,Amerika,2000-01-01,71.11,107787,4998.50977
+St. Vincent and the Grenadines,vct,Amerika,2005-01-01,72.6,108617,6166.32463
+St. Vincent and the Grenadines,vct,Amerika,2010-01-01,73.11,108260,6617.65496
+St. Vincent and the Grenadines,vct,Amerika,2015-01-01,72.57,109135,6921.70248
+St. Vincent and the Grenadines,vct,Amerika,2019-01-01,72.95,110593,7217.2848
+South Africa,zaf,Afrika,1800-01-01,33.5,1447911,NA
+South Africa,zaf,Afrika,1805-01-01,33.5,1474594,NA
+South Africa,zaf,Afrika,1810-01-01,33.5,1502136,NA
+South Africa,zaf,Afrika,1815-01-01,33.5,1536982,NA
+South Africa,zaf,Afrika,1820-01-01,33.5,1584887,NA
+South Africa,zaf,Afrika,1825-01-01,33.5,1731903,NA
+South Africa,zaf,Afrika,1830-01-01,33.5,1934209,NA
+South Africa,zaf,Afrika,1835-01-01,33.5,2160147,NA
+South Africa,zaf,Afrika,1840-01-01,33.5,2412477,NA
+South Africa,zaf,Afrika,1845-01-01,33.5,2694282,NA
+South Africa,zaf,Afrika,1850-01-01,33.5,2986678,NA
+South Africa,zaf,Afrika,1855-01-01,33.5,3184897,NA
+South Africa,zaf,Afrika,1860-01-01,33.5,3372214,NA
+South Africa,zaf,Afrika,1865-01-01,33.5,3570380,NA
+South Africa,zaf,Afrika,1870-01-01,33.5,3780015,NA
+South Africa,zaf,Afrika,1875-01-01,33.91,4001774,NA
+South Africa,zaf,Afrika,1880-01-01,34.32,4236351,NA
+South Africa,zaf,Afrika,1885-01-01,34.73,4484477,NA
+South Africa,zaf,Afrika,1890-01-01,35.14,4746928,NA
+South Africa,zaf,Afrika,1895-01-01,35.55,5024518,NA
+South Africa,zaf,Afrika,1900-01-01,35.96,5338536,NA
+South Africa,zaf,Afrika,1905-01-01,36.37,5808605,NA
+South Africa,zaf,Afrika,1910-01-01,36.77,6339398,NA
+South Africa,zaf,Afrika,1915-01-01,37.18,6894066,NA
+South Africa,zaf,Afrika,1920-01-01,37.59,7489330,NA
+South Africa,zaf,Afrika,1925-01-01,38,8284016,NA
+South Africa,zaf,Afrika,1930-01-01,38.41,9187246,NA
+South Africa,zaf,Afrika,1935-01-01,41.73,10157443,NA
+South Africa,zaf,Afrika,1940-01-01,45.11,11218005,NA
+South Africa,zaf,Afrika,1945-01-01,48.56,12343494,NA
+South Africa,zaf,Afrika,1950-01-01,52.06,13628434,NA
+South Africa,zaf,Afrika,1955-01-01,53.04,15206501,NA
+South Africa,zaf,Afrika,1960-01-01,53.93,17099836,3509.08159
+South Africa,zaf,Afrika,1965-01-01,55.19,19384838,4197.87488
+South Africa,zaf,Afrika,1970-01-01,56.69,22069783,4738.45716
+South Africa,zaf,Afrika,1975-01-01,58.3,25195184,4965.00282
+South Africa,zaf,Afrika,1980-01-01,59.52,28556771,5101.28396
+South Africa,zaf,Afrika,1985-01-01,61.92,32678876,4768.07589
+South Africa,zaf,Afrika,1990-01-01,64.18,36800507,4598.60989
+South Africa,zaf,Afrika,1995-01-01,62.93,41435761,4261.29175
+South Africa,zaf,Afrika,2000-01-01,55.58,44967713,4505.8964
+South Africa,zaf,Afrika,2005-01-01,52.1,47880595,5107.07681
+South Africa,zaf,Afrika,2010-01-01,57.07,51216967,5561.47929
+South Africa,zaf,Afrika,2015-01-01,62.26,55386369,5734.63342
+South Africa,zaf,Afrika,2019-01-01,65.14,58558267,5574.64389
+Zambia,zmb,Afrika,1800-01-01,32.6,747000,NA
+Zambia,zmb,Afrika,1805-01-01,32.6,805780,NA
+Zambia,zmb,Afrika,1810-01-01,32.6,869384,NA
+Zambia,zmb,Afrika,1815-01-01,32.6,937794,NA
+Zambia,zmb,Afrika,1820-01-01,32.6,1011587,NA
+Zambia,zmb,Afrika,1825-01-01,32.6,1091187,NA
+Zambia,zmb,Afrika,1830-01-01,32.6,1177050,NA
+Zambia,zmb,Afrika,1835-01-01,32.6,1269669,NA
+Zambia,zmb,Afrika,1840-01-01,32.6,1369577,NA
+Zambia,zmb,Afrika,1845-01-01,32.6,1477346,NA
+Zambia,zmb,Afrika,1850-01-01,32.6,1579865,NA
+Zambia,zmb,Afrika,1855-01-01,32.6,1595331,NA
+Zambia,zmb,Afrika,1860-01-01,32.6,1597157,NA
+Zambia,zmb,Afrika,1865-01-01,32.6,1597338,NA
+Zambia,zmb,Afrika,1870-01-01,32.6,1597641,NA
+Zambia,zmb,Afrika,1875-01-01,32.88,1600451,NA
+Zambia,zmb,Afrika,1880-01-01,33.17,1605540,NA
+Zambia,zmb,Afrika,1885-01-01,33.45,1622695,NA
+Zambia,zmb,Afrika,1890-01-01,33.74,1637899,NA
+Zambia,zmb,Afrika,1895-01-01,34.02,1627729,NA
+Zambia,zmb,Afrika,1900-01-01,34.31,1608807,NA
+Zambia,zmb,Afrika,1905-01-01,34.59,1560068,NA
+Zambia,zmb,Afrika,1910-01-01,34.88,1510006,NA
+Zambia,zmb,Afrika,1915-01-01,35.16,1472739,NA
+Zambia,zmb,Afrika,1920-01-01,35.45,1457850,NA
+Zambia,zmb,Afrika,1925-01-01,35.73,1553072,NA
+Zambia,zmb,Afrika,1930-01-01,36.02,1672087,NA
+Zambia,zmb,Afrika,1935-01-01,36.3,1793492,NA
+Zambia,zmb,Afrika,1940-01-01,36.59,1927263,NA
+Zambia,zmb,Afrika,1945-01-01,36.87,2102240,NA
+Zambia,zmb,Afrika,1950-01-01,47,2310436,NA
+Zambia,zmb,Afrika,1955-01-01,48.3,2644976,NA
+Zambia,zmb,Afrika,1960-01-01,49.56,3070780,1219.7873
+Zambia,zmb,Afrika,1965-01-01,51.21,3570466,1401.62744
+Zambia,zmb,Afrika,1970-01-01,53.5,4179062,1289.20947
+Zambia,zmb,Afrika,1975-01-01,55.13,4943279,1225.06836
+Zambia,zmb,Afrika,1980-01-01,55.63,5851818,1054.03827
+Zambia,zmb,Afrika,1985-01-01,55.15,6923148,912.66979
+Zambia,zmb,Afrika,1990-01-01,51.94,8036849,851.18484
+Zambia,zmb,Afrika,1995-01-01,46.82,9096608,741.79026
+Zambia,zmb,Afrika,2000-01-01,45.34,10415942,773.72073
+Zambia,zmb,Afrika,2005-01-01,48.73,11856244,918.31035
+Zambia,zmb,Afrika,2010-01-01,56.54,13605986,1214.69499
+Zambia,zmb,Afrika,2015-01-01,60.8,15879370,1338.29093
+Zambia,zmb,Afrika,2019-01-01,63.18,17861034,1348.74322
+Zimbabwe,zwe,Afrika,1800-01-01,33.7,1085814,NA
+Zimbabwe,zwe,Afrika,1805-01-01,33.7,1085814,NA
+Zimbabwe,zwe,Afrika,1810-01-01,33.7,1085814,NA
+Zimbabwe,zwe,Afrika,1815-01-01,33.7,1085814,NA
+Zimbabwe,zwe,Afrika,1820-01-01,33.7,1075333,NA
+Zimbabwe,zwe,Afrika,1825-01-01,33.7,1001060,NA
+Zimbabwe,zwe,Afrika,1830-01-01,33.7,922676,NA
+Zimbabwe,zwe,Afrika,1835-01-01,33.7,850430,NA
+Zimbabwe,zwe,Afrika,1840-01-01,33.7,783841,NA
+Zimbabwe,zwe,Afrika,1845-01-01,33.7,722465,NA
+Zimbabwe,zwe,Afrika,1850-01-01,33.7,676370,NA
+Zimbabwe,zwe,Afrika,1855-01-01,33.7,699682,NA
+Zimbabwe,zwe,Afrika,1860-01-01,33.7,735304,NA
+Zimbabwe,zwe,Afrika,1865-01-01,33.7,772739,NA
+Zimbabwe,zwe,Afrika,1870-01-01,33.7,812080,NA
+Zimbabwe,zwe,Afrika,1875-01-01,33.97,853423,NA
+Zimbabwe,zwe,Afrika,1880-01-01,34.24,896871,NA
+Zimbabwe,zwe,Afrika,1885-01-01,34.51,942531,NA
+Zimbabwe,zwe,Afrika,1890-01-01,34.77,990514,NA
+Zimbabwe,zwe,Afrika,1895-01-01,35.04,1040940,NA
+Zimbabwe,zwe,Afrika,1900-01-01,35.31,1098134,NA
+Zimbabwe,zwe,Afrika,1905-01-01,35.58,1186383,NA
+Zimbabwe,zwe,Afrika,1910-01-01,35.85,1285699,NA
+Zimbabwe,zwe,Afrika,1915-01-01,36.12,1388426,NA
+Zimbabwe,zwe,Afrika,1920-01-01,36.39,1504103,NA
+Zimbabwe,zwe,Afrika,1925-01-01,36.66,1663702,NA
+Zimbabwe,zwe,Afrika,1930-01-01,36.92,1845101,NA
+Zimbabwe,zwe,Afrika,1935-01-01,37.19,2039948,NA
+Zimbabwe,zwe,Afrika,1940-01-01,37.46,2252944,NA
+Zimbabwe,zwe,Afrika,1945-01-01,45.56,2478979,NA
+Zimbabwe,zwe,Afrika,1950-01-01,53.78,2746852,NA
+Zimbabwe,zwe,Afrika,1955-01-01,54.54,3213289,NA
+Zimbabwe,zwe,Afrika,1960-01-01,55.54,3776679,1164.74025
+Zimbabwe,zwe,Afrika,1965-01-01,56.59,4471178,1169.48941
+Zimbabwe,zwe,Afrika,1970-01-01,58.04,5289312,1528.25755
+Zimbabwe,zwe,Afrika,1975-01-01,59.33,6293875,1625.85277
+Zimbabwe,zwe,Afrika,1980-01-01,60.4,7408630,1486.219
+Zimbabwe,zwe,Afrika,1985-01-01,62.96,8877489,1526.5079
+Zimbabwe,zwe,Afrika,1990-01-01,62.38,10432409,1623.93018
+Zimbabwe,zwe,Afrika,1995-01-01,54.19,11410721,1576.08693
+Zimbabwe,zwe,Afrika,2000-01-01,47.5,11881482,1696.75326
+Zimbabwe,zwe,Afrika,2005-01-01,46.76,12076697,1137.30318
+Zimbabwe,zwe,Afrika,2010-01-01,52.32,12697728,1110.44701
+Zimbabwe,zwe,Afrika,2015-01-01,58.58,13814642,1445.0697
+Zimbabwe,zwe,Afrika,2019-01-01,61.04,14645473,1367.67691
